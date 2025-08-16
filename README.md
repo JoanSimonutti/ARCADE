@@ -1,8 +1,6 @@
-# Colección de ROMs Arcade — FinalBurn Neo (FC2) Full Merged
+# Colección de ROMs Arcade
 
-Bienvenido, soy [Joan Simonutti](https://github.com/JoanSimonutti)
-
----
+### FinalBurn Neo (FC2) Full Merged
 
 ## 📂 ¿Qué vas a encontrar en esta base de datos?
 
