@@ -1,8 +1,6 @@
-# Colección de ROMs Arcade
+# Colección de ROMs Arcade para FinalBurn Neo
 
-### FinalBurn Neo (FC2) Full Merged
-
-## 📂 ¿Qué vas a encontrar en esta base de datos?
+### 📂 ¿Qué vas a encontrar en esta base de datos?
 
 Este archivo contiene una **colección extensa de ROMs arcade** (≈ 2795 juegos) en formato compatible con emuladores como **MAME** y **FinalBurn Neo**.
 
@@ -17,16 +15,15 @@ En cada entrada encontrarás:
 
 ---
 
-## 🔗 Recursos adicionales
+### 🔗 Recursos adicionales
 
 - 📥 [ROMs](https://archive.org/download/fcroms/fbneo/roms/)
 - 📥 [Archivos de soporte (BIOS, configuraciones, etc.)](https://archive.org/download/fcroms/fbneo/support/)
 
 ---
 
-## ℹ️ Notas del autor original
+### ℹ️ Notas
 
-- ❌ El equipo de Fightcade no respeta la licencia de **FinalBurn Neo**, y por esa razón no se recomienda apoyar al equipo de FC.
 - 📦 **Fightcade-fbneo Full-Merged Sets**: incluyen todas las versiones de cada juego y los archivos de sistema requeridos en un único `.zip`.
 - ✅ El **FinalBurn Neo oficial** es más preciso y actualizado. Para jugadores en solitario o cooperativo local, se recomienda usar este set: [FBNeo oficial](https://archive.org/details/2020_01_06_fbn).
 - 🕹️ **Flycast BIOS** y las ROMs más populares de **Naomi** verificadas por **MAME 0.244**.
@@ -35,7 +32,7 @@ En cada entrada encontrarás:
 
 ---
 
-## 📋 Lista de juegos incluidos
+### 📋 Lista de juegos incluidos
 
 - 3countb.zip — 3 Count Bout — SNK
 - 3en1semi.zip — 3-in-1 (SemiCom multijuego) — SemiCom
