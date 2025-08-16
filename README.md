@@ -16,7 +16,7 @@ Puedes descargar archivos individuales si así lo deseas, abajo lo explico.
 
 ### Notas
 
-- **Full-Merged Sets** significa que se incluyen todas las versiones de cada juego y los archivos de sistema requeridos en un único `.zip`.
+- **FinalBurn Neo Full-Merged Sets** (completamente fusionados) significa que se incluyen todas las versiones de cada juego y los archivos de sistema requeridos en un único `.zip`.
 - El emulador **FinalBurn Neo oficial** es el más preciso y actualizado. Para jugadores en solitario o cooperativo local, se recomienda usar este set [FBNeo oficial](https://archive.org/details/2020_01_06_fbn).
 
 ## Lista
