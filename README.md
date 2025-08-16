@@ -2,11 +2,11 @@
 
 ### ¿Qué vas a encontrar en esta base de datos?
 
-Este archivo contiene una **colección extensa de ROMs arcade** (≈ 2795 juegos) en formato compatible con emuladores como **MAME** y **FinalBurn Neo**.
+Este archivo contiene una **colección extensa de ROMs arcade** (2795 juegos) en formato compatible con emuladores como **MAME** y **FinalBurn Neo**.
 
 La carpeta completa ocupa **14 GB** y contiene **2122 archivos**, lo que significa que algunos sets están fusionados, combinados o no incluidos físicamente.
 
-Puedes descargar archivos individuales si así lo deseas, abajo lo explico.
+Puedes descargar juegos individuales si así lo deseas, abajo lo explico.
 
 ## Juegos
 
