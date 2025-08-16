@@ -2,6 +2,8 @@
 
 Bienvenido, soy [Joan Simonutti](https://github.com/JoanSimonutti)
 
+---
+
 ## 📂 ¿Qué vas a encontrar en esta base de datos?
 
 Este archivo contiene una **colección extensa de ROMs arcade** (≈ 2795 juegos) en formato compatible con emuladores como **MAME** y **FinalBurn Neo**.
@@ -11,7 +13,7 @@ En cada entrada encontrarás:
 - **Nombre del archivo ROM** (`.zip`).
 - **Título del juego** (nombre comercial original).
 - **Compañía desarrolladora o distribuidora** (Capcom, SNK, Sega, Taito, etc.).
-- **Notas adicionales** cuando corresponda: _versiones alternativas, prototipos, hacks, bootlegs, regionales, o multijuegos_.
+- **Notas adicionales**: _versiones alternativas, prototipos, hacks, bootlegs, regionales o multijuegos_.
 
 📦 La carpeta completa ocupa **14 GB** y contiene **2122 archivos**, lo que significa que algunos sets están fusionados, combinados o no incluidos físicamente.
 
@@ -19,2814 +21,2816 @@ En cada entrada encontrarás:
 
 ## 🔗 Recursos adicionales
 
-- **ROMs**: [Descarga aquí](https://archive.org/download/fcroms/fbneo/roms/)
-- **Archivos de soporte** (BIOS, configuraciones, etc.): [Descarga aquí](https://archive.org/download/fcroms/fbneo/support/)
+- 📥 [ROMs](https://archive.org/download/fcroms/fbneo/roms/)
+- 📥 [Archivos de soporte (BIOS, configuraciones, etc.)](https://archive.org/download/fcroms/fbneo/support/)
 
 ---
 
 ## ℹ️ Notas del autor original
 
-- El equipo de Fightcade no respeta la licencia de **FinalBurn Neo**, y por esa razón no se recomienda apoyar al equipo de FC.
-- **Fightcade-fbneo Full-Merged Sets**: incluyen todas las versiones de cada juego y los archivos de sistema requeridos en un único `.zip`.
-- El **FinalBurn Neo oficial** es más preciso y actualizado. Para jugadores en solitario o cooperativo local, se recomienda usar este set: [FBNeo oficial](https://archive.org/details/2020_01_06_fbn).
-- **Flycast BIOS** y las ROMs más populares de **Naomi** verificadas por MAME 0.244.
-- **Naomi/Naomi2 sets**: solo incluyen los juegos más populares de Fightcade (no es un full set).
-- **Flycast Dreamcast set**: incluye los juegos más populares de Fightcade. Más CHDs de Dreamcast aquí: [Colección CHDs Dreamcast](https://archive.org/download/dc-chd-zstd-redump/dc-chd-zstd/).
+- ❌ El equipo de Fightcade no respeta la licencia de **FinalBurn Neo**, y por esa razón no se recomienda apoyar al equipo de FC.
+- 📦 **Fightcade-fbneo Full-Merged Sets**: incluyen todas las versiones de cada juego y los archivos de sistema requeridos en un único `.zip`.
+- ✅ El **FinalBurn Neo oficial** es más preciso y actualizado. Para jugadores en solitario o cooperativo local, se recomienda usar este set: [FBNeo oficial](https://archive.org/details/2020_01_06_fbn).
+- 🕹️ **Flycast BIOS** y las ROMs más populares de **Naomi** verificadas por **MAME 0.244**.
+- 🎯 **Naomi/Naomi2 sets**: solo incluyen los juegos más populares de Fightcade (no es un full set).
+- 💿 **Flycast Dreamcast set**: incluye los juegos más populares de Fightcade. Más CHDs de Dreamcast aquí: [Colección CHDs Dreamcast](https://archive.org/download/dc-chd-zstd-redump/dc-chd-zstd/).
 
 ---
 
-3countb.zip — 3 Count Bout — SNK
-3en1semi.zip — 3-in-1 (SemiCom multijuego) — SemiCom
-3kokushi.zip — Sankokushi (Three Kingdoms) — Irem
-3on3dunk.zip — 3 On 3 Dunk Madness — Kao/Kaneko
-3wonders.zip — Three Wonders — Capcom
-3x3puzzl.zip — 3x3 Puzzle — Ace Enterprise
-4dwarrio.zip — 4-D Warriors — Coreland / Sega
-4enraya.zip — 4 en Raya — Unknown (bootleg)
-4en1.zip — 4 in 1 — Unknown (multijuego)
-4in1boot.zip — 4-in-1 (bootleg multijuego) — Bootleg
-4play.zip — 4-Player Bowling (o similar) — Unknown
-7ordi.zip — 7 Ordi (quiz/mahjong) — Oasis
-8ballact.zip — Eight Ball Action — Tecfri
-10yard.zip — 10-Yard Fight — Irem
-19xx.zip — 19XX: The War Against Destiny — Capcom
-20pacgal.zip — 20th Anniversary Pac-Man/Galaga Class of 1981 — Namco/Midway
-25pacman.zip — 25th Anniversary Pac-Man — Namco
-64street.zip — 64th. Street: A Detective Story — Jaleco
-88games.zip — ’88 Games / Hyper Sports Special — Konami
-1941.zip — 1941: Counter Attack — Capcom
-1942.zip — 1942 — Capcom
-1943.zip — 1943: The Battle of Midway — Capcom
-1943kai.zip — 1943 Kai: Midway Kaisen — Capcom
-1943mii.zip — 1943 Midway Kaisen (Mii) — Capcom
-1944.zip — 1944: The Loop Master — Capcom / 8ing
-1945kiii.zip — 1945k III (hack de shmup estilo Psikyo) — Oriental Soft (bootleg)
-2020bb.zip — 2020 Super Baseball — SNK / Pallas
-abcop.zip — A.B. Cop — Sega
-aburner2.zip — After Burner II — Sega
-aceattac.zip — Ace Attacker — Namco
-acrobatm.zip — Acrobat Mission — Kaneko / UPL
-actfancr.zip — Act-Fancer: Cybernetick Hyper Weapon — Data East
-actionhw.zip — Action Hollywood — Taito (lic. Gaelco)
-ad2083.zip — A.D. 2083 — Midcoin (bootleg)
-aerofgt.zip — Aero Fighters — Video System
-afighter.zip — Air Fighter — Excellent System
-agallet.zip — Air Gallet — Gazelle
-agress.zip — Agress: Missile Daisenryaku — Palco
-airass.zip — Air Assault — Irem (bootleg set)
-airattck.zip — Air Attack — Comad
-airbustr.zip — Air Buster: Trouble Specialty Raid Unit — Kaneko
-airduel.zip — Air Duel — Irem
-airwolf.zip — Airwolf — Kyugo
-ajax.zip — Ajax / Typhoon — Konami
-akkaarrh.zip — Akka Arrh — Atari
-alcon.zip — Alcon (Slap Fight) — Toaplan / Taito
-alexkidd.zip — Alex Kidd: The Lost Stars — Sega
-alibaba.zip — Ali Baba and 40 Thieves — Sega/Meadows (lic.)
-alienar.zip — Alien Arena — Duncan Brown
-aliencha.zip — Alien Challenge — IGS (International Games System)
-alienres.zip — Alien Resurrection (proto/quiz) — Unknown
-aliens.zip — Aliens — Konami
-aliensec.zip — Alien Sector (Baraduke) — Namco
-aliensyn.zip — Alien Syndrome — Sega
-aligator.zip — Alligator Hunt — Gaelco
-alinvade.zip — Alien Invasion — Yachiyo Denki (bootleg)
-alpham2.zip — Alpha Mission II (ASO II) — SNK
-alpine.zip — Alpine Ski — Taito
-altbeast.zip — Altered Beast — Sega
-amazon.zip — Amazon (o The Amazon) — SunA / Epos
-emboscada.zip — Emboscada — Unknown (hack)
-amidar.zip — Amidar — Konami / Stern
-amspdwy.zip — American Speedway — Enerdyne
-androdun.zip — Andro Dunos — Visco / SNK
-androidp.zip — Android Pinball — Epos
-angelkds.zip — Angel Kids — Sega / Exa
-anteater.zip — Anteater — Stern / Tago
-aodk.zip — Aggressors of Dark Kombat — SNK / ADK
-aof.zip — Art of Fighting — SNK
-aof2.zip — Art of Fighting 2 — SNK
-aof3.zip — Art of Fighting 3: The Path of the Warrior — SNK
-aoh.zip — Age of Heroes — Visco
-appoooh.zip — Appoooh — Sega / Sanritsu
-aquajack.zip — Aqua Jack — Taito
-acuario.zip — Acuario (quiz) — Unknown
-arabian.zip — Arabian — Sun Electronics / Atari (lic.)
-arabianm.zip — Arabian Magic — Taito
-arbalest.zip — Arbalester — Seta
-arcadecl.zip — Arcade Classics — Atari Games
-arcadian.zip — Arcadian (multi) — Unknown
-argus.zip — Argus — NMK / Jaleco
-arkanoid.zip — Arkanoid — Taito
-arkarea.zip — Ark Area — UPL
-arkatour.zip — Arkanoid: Tournament — Taito
-arknoid2.zip — Arkanoid: Revenge of DOH — Taito
-arkretrn.zip — Arkanoid Returns — Taito
-armedf.zip — Armed F — Nichibutsu
-armorcar.zip — Armored Car — Stern / Dansei
-armwar.zip — Armored Warriors — Capcom
-armwrest.zip — Arm Wrestling — Nintendo
-ashura.zip — Ashura Blaster — Taito
-aso.zip — ASO: Armored Scrum Object (Alpha Mission) — SNK
-asalto.zip — Asalto — Jaleco (bootleg)
-astdelux.zip — Asteroids Deluxe — Atari
-asterix.zip — Asterix — Konami
-asteroide.zip — Asteroids (set español) — Atari
-astorm.zip — Alien Storm — Sega
-astyanax.zip — The Astyanax — Jaleco
-asuka.zip — Asuka & Asuka — Taito
-asurabld.zip — Asura Blade — Fuuki
-asurabus.zip — Asura Buster — Fuuki
-atehate.zip — Atehate no Tsubasa — Athena
-atetris.zip — Tetris (Atari Games) — Atari Games / Tengen
-athena.zip — Athena — SNK
-atlantis.zip — Atlantis — Comstar (bootleg)
-atomicp.zip — Atomic Point — Dyna
-aurail.zip — Aurail — Sega
-avengers.zip — Avengers (Hissatsu Buraiken) — Capcom
-avengrgs.zip — Avengers in Galactic Storm — Data East
-avsp.zip — Alien vs. Predator — Capcom
-avspirit.zip — Avenging Spirit — Jaleco
-aztarac.zip — Aztarac — Centuri
-azurian.zip — Azurian Attack — Rait Electronics
-b2b.zip — B-Rap Boys (o Back to Baseball?) — Kaneko (prob. B.Rap Boys)
-backfire.zip — Backfire! — Taito
-backfirt.zip — Back Fire (Title screen) — Data East (bootleg var.)
-badapple.zip — Bad Apple!! (demo/hack) — Hobbyist
-baddudes.zip — Bad Dudes vs. DragonNinja — Data East
-badlands.zip — Bad Lands — Atari Games
-bagman.zip — Bagman — Valadon Automation
-bakatono.zip — Bakatono — Data East
-bakutotu.zip — Bakutotsu Kijūtei (Baraduke II) — Namco
-balcube.zip — Bal Cube — Metro
-ballbros.zip — Ball Boy/Ball Bros. — Kaneko
-baluba.zip — Baluba-louk no Densetsu — Able Corp.
-banbam.zip — BanBam — Sega / Sanritsu
-bang.zip — Bang! — Gaelco
-bangball.zip — Bang Bead / Bang Ball — Visco
-bangbead.zip — Bang Bead — Visco
-bankp.zip — Bank Panic — Sega
-baryon.zip — Baryon — Semicom
-batcir.zip — Battle Circuit — Capcom
-batman.zip — Batman (1986) — Data East
-batrider.zip — Battle Garegga: Batrider (Armed Police Batrider) — Raizing
-batsugun.zip — Batsugun — Toaplan
-battlane.zip — Battle Lane! Vol. 5 — Taito / Tecfri
-battlex.zip — Battle Cross — Omori Electric
-battlnts.zip — Battlantis — Konami
-battroad.zip — The Battle-Road — Irem
-bayroute.zip — Bay Route — Sunsoft / Sega
-bbakraid.zip — Battle Bakraid — Raizing / Eighting
-bballs.zip — Basketbrawl (arcade boot) — Atari (bootleg)
-bbmanw.zip — Bomberman World — Irem
-bbusters.zip — Beast Busters — SNK
-bchopper.zip — Battle Chopper (Mr. Heli) — Irem
-bcruzm12.zip — B.C. Ruz (quiz) — Mitchell (hack)
-bcstry.zip — Blue’s Journey (quiz spinoff?) — Jaleco (posible error de set)
-beast.zip — Beast (proto) — Unknown
-berabohm.zip — Beraboh Man — Namco
-berlwall.zip — The Berlin Wall — Kaneko
-bermudat.zip — Bermuda Triangle — Data East
-berzerk.zip — Berzerk — Stern
-bestbest.zip — Best of Best — SunA
-bestri.zip — Best Rider — Epos (bootleg)
-bgaregga.zip — Battle Garegga — Raizing / Eighting
-bigbucks.zip — Big Bucks — Dynasoft
-bigkarnk.zip — Big Karnak — Gaelco
-bigprowr.zip — Big Pro Wrestling! — Jaleco
-bigstrik.zip — Big Striker — Jaleco
-bigtwin.zip — Big Twin — Taito / ESD
-bikkuric.zip — Bikkuri Card — Nichibutsu
-bioatack.zip — Bio Attack — Taito (lic. Fox Video Games)
-biomtoy.zip — Biomechanical Toy — Gaelco
-bionicc.zip — Bionic Commando — Capcom
-bioship.zip — Bio-Ship Paladin — UPL / Sammy
-birdiy.zip — Birdiy — Centuri (bootleg)
-birdtry.zip — Birdie Try — Data East
-bishi.zip — Bishi Bashi Champ — Konami
-bjourney.zip — Blue’s Journey (Raguy) — Alpha Denshi / SNK
-bjtwin.zip — Bombjack Twin — NMK
-blackt96.zip — Black Touch ’96 — Tuning
-bladestl.zip — Blades of Steel — Konami
-blandia.zip — Blandia — Allumer
-blaster.zip — Blaster — Williams
-blasto.zip — Blasto — Gremlin
-blastoff.zip — Blast Off — Namco
-blazeon.zip — Blaze On — Atlus / Toaplan
-blazer.zip — Blazer — Namco
-blazstar.zip — Blazing Star — Yumekobo / SNK
-blkheart.zip — Black Heart — UPL
-blkhole.zip — Black Hole — TDS / Sega (bootleg)
-blkpnthr.zip — Black Panther — Konami
-blktiger.zip — Black Tiger — Capcom
-blmbycar.zip — Blomby Car — ABM / Gaelco
-block.zip — Block (bootleg Arkanoid) — Bootleg
-blockade.zip — Blockade — Gremlin
-blockcar.zip — Block Car — Gaelco
-blockgal.zip — Block Gal — Data East
-blockhl.zip — Block Hole (Quarth) — Konami
-blockout.zip — Block Out — Kadon/California Dreams / Technosoft (arcade: Leland)
-bloodbro.zip — Blood Bros. — TAD Corporation
-bloodstm.zip — Blood Storm — Incredible Technologies
-bloodwar.zip — Blood Warrior — Kaneko
-bloxeed.zip — Bloxeed — Sega
-blstroid.zip — Blasteroids — Atari Games
-blswhstl.zip — Bells & Whistles (Detana!! TwinBee) — Konami
-bluehawk.zip — Blue Hawk — Dooyong
-blueprnt.zip — Blue Print — Zilec / Bally Midway
-blzntrnd.zip — Blazing Tornado — Human / Atlus
-bmaster.zip — Blade Master — Irem
-bnzabros.zip — Bonanza Bros. — Sega
-bodyslam.zip — Body Slam — Sega
-bogeyman.zip — Bogey Manor — Technos Japan
-boggy84.zip — Boggy ’84 — Nihon Game
-bombbee.zip — Bomb Bee — Namco
-bombjack.zip — Bomb Jack — Tehkan (Tecmo)
-bombkick.zip — Bomb Kick — K Shin
-bongo.zip — Bongo — Jetsoft / UPL
-bonkadv.zip — Bonk’s Adventure — Kaneko
-bonzeadv.zip — Bonze Adventure — Taito
-boogwing.zip — Boogie Wings — Data East
-boomrang.zip — Boomer Rang’r — Data East
-boonggab.zip — Boong-Ga Boong-Ga — Taff System
-botanic.zip — Botanic — Itisa
-bottom9.zip — Bottom of the Ninth — Konami
-bouldash.zip — Boulder Dash — Data East
-bounty.zip — Bounty — Taito (bootleg)
-bowlrama.zip — Bowl-O-Rama — P&P Marketing
-boxyboy.zip — Boxyboy (Soukoban) — Namco
-bradley.zip — Bradley Trainer — Atari
-brain.zip — Brain — ZiLOG (bootleg/quiz)
-brapboys.zip — B.Rap Boys — Kaneko
-breakers.zip — Breakers — Visco / SNK
-breakrev.zip — Breakers Revenge — Visco / SNK
-brkthru.zip — Break Thru — Data East
-brubber.zip — Burnin’ Rubber — Data East
-bshark.zip — Battle Shark — Taito
-bssoccer.zip — Big Striker / Big Soccer (var.) — Jaleco
-bstars.zip — Baseball Stars Professional — SNK
-bstars2.zip — Baseball Stars 2 — SNK
-btime.zip — BurgerTime — Data East
-btlkroad.zip — Battle K-Road — Psikyo
-bubblem.zip — Bubble Memories — Taito
-bubbles.zip — Bubbles — Williams
-bubbletr.zip — Bubble Trouble (variante) — Taito (hack/bootleg)
-bubl2000.zip — Puzzle Bobble 2000 (bootleg) — Bootleg
-bublbob2.zip — Bubble Symphony (Bubble Bobble II) — Taito
-bublbobl.zip — Bubble Bobble — Taito
-buccanrs.zip — Buccaneers — Duintronic / Video System (lic.)
-buckrog.zip — Buck Rogers: Planet of Zoom — Sega
-bucky.zip — Bucky O’Hare — Konami
-buggychl.zip — Buggy Challenge — Sega / Coreland
-bullet.zip — Bullet — Taito (bootleg set)
-bullfgt.zip — Bull Fight — Taito / Coreland
-burglarx.zip — Burglar X — Gaelco
-burnforc.zip — Burning Force — Namco
-burningf.zip — Burning Fight — SNK
-butasan.zip — Buta San — Jaleco / NMK
-bwcasino.zip — Boardwalk Casino — Merit
-bwidow.zip — Black Widow — Atari
-bwings.zip — Battle Wings — Data East
-bygone.zip — Bygone — Taito (proto)
-bzone.zip — Battlezone — Atari
-cabal.zip — Cabal — TAD / Fabtek
-cachat.zip — Cachat (o Tube-It) — Taito
-cadanglr.zip — Crazy Angler — Shin Nihon Kikaku (bootleg)
-cadash.zip — Cadash — Taito
-cairblad.zip — Air Blade — Namco (sistema NB-1)
-calibr50.zip — Caliber 50 — Seta / Taito
-calipso.zip — Calipso — Tago Electronics
-calorie.zip — Calorie Kun vs Moguranian — Vic Tokai
-cameltry.zip — Cameltry — Taito
-cannball.zip — Cannon Ball — Soft Vision / Video System
-cannonbp.zip — Cannon Ball Plus (hack) — Bootleg
-canvas.zip — Canvas Croquis (quiz) — Excellent Systems
-canyon.zip — Canyon Bomber — Atari
-capbowl.zip — Capcom Bowling — Incredible Technologies / Strata
-captaven.zip — Captain America and The Avengers — Data East
-captcomm.zip — Captain Commando — Capcom
-carjmbre.zip — Car Jamboree — Omori / Nichibutsu
-carnival.zip — Carnival — Sega / Gremlin
-casanova.zip — Casanova — ESD / Comad
-cashquiz.zip — Cash Quiz — Gaelco
-castfant.zip — The Castles of Dr. Creep (var./proto) — Desconocido
-catacomb.zip — Catacomb (proto) — Unknown
-cavelon.zip — Cavelon — Ocean / Jetsoft
-cavenger.zip — Cavenger — Nichibutsu
-cawing.zip — Carrier Air Wing — Capcom
-cbdash.zip — Crazy Balloon Dash (hack) — Bootleg
-cbombers.zip — Chase Bombers — Taito
-cbtime.zip — Cutie Baby (o Crazy Balloon Time) — Nichibutsu
-cburnrub.zip — Burnin’ Rubber / Bump ’n’ Jump — Data East
-cbuster.zip — Crude Buster (Two Crude) — Data East
-ccastles.zip — Crystal Castles — Atari
-cchip.zip — Taito C-Chip (dump) — Taito (BIOS/MCU)
-cclimber.zip — Crazy Climber — Nichibutsu
-cclimbr2.zip — Crazy Climber 2 — Nichibutsu
-cdiscon1.zip — Cosmic Disco No.1 — Data East (bootleg)
-cdsteljn.zip — Cadash (Korean set / “Star Challenge”) — Taito (lic.)
-centiped.zip — Centipede — Atari
-cexplore.zip — Cave Explorer — Tong Issue / IGS (bootleg)
-cfboy0a1.zip — Crazy Fight Boy — Subsino / IGS (bootleg)
-cfghtice.zip — Fighting Ice Hockey — Data East
-cflyball.zip — Champion Flyball — Sega
-cgraplop.zip — Circus Charlie (Graplop hack) — Konami (bootleg)
-chainrec.zip — Chain Reaction — IGS
-chaknpop.zip — Chack’n Pop — Taito
-chameleo.zip — Chameleon — Jaleco
-champwr.zip — Champion Wrestler — Taito
-chanbara.zip — Chanbara — Data East (quiz)
-changes.zip — Changes — Orca
-charlien.zip — Charlie Ninja — Mitchell
-chasehq.zip — Chase H.Q. — Taito
-checkman.zip — Check Man — Zilec / Jaleco
-cheekyms.zip — Cheeky Mouse — Universal
-chelnov.zip — Chelnov: Atomic Runner — Data East
-chimerab.zip — Chimera Beast — Jaleco
-chinagat.zip — China Gate (Sai Yu Gou Ma Roku) — Technos Japan
-chinatwn.zip — China Town — Taito
-chkun.zip — Chikun — Sega (variante)
-chokchok.zip — Choky! Choky! — ESD
-choko.zip — Choko — Ace
-choplift.zip — Choplifter — Sega
-chopper.zip — Chopper I — SNK / Alpha Denshi
-chqflag.zip — Chequered Flag — Konami
-chukatai.zip — Chuuka Taisen (Cloud Master) — Taito
-chwy.zip — Chow (var. bootleg) — Bootleg
-circusc.zip — Circus Charlie — Konami
-citybomb.zip — City Bomber — Konami
-citycon.zip — City Connection — Jaleco
-ckong.zip — Crazy Kong — Falcon (bootleg lic.)
-ckongpt2.zip — Crazy Kong Part II — Falcon / Bootleg
-clapapa.zip — Clapapa — Universal (var.)
-cleopatr.zip — Cleopatra Fortune — Taito
-cloak.zip — Cloak & Dagger — Atari
-clocknch.zip — Clock’n’Chime — Epos (bootleg)
-cloud9.zip — Cloud 9 — Atari
-clshroad.zip — Clash-Road — Wood Place
-cltchitr.zip — Clutch Hitter — Sega
-clubpacm.zip — Club Pac-Man — Namco (set cocktail/club)
-cluckypo.zip — Clucky-Po — Kaneko
-cmanhat.zip — Crazy Manhattan — Taito (bootleg)
-cmissnx.zip — Cosmic Ms. Pac-Man (hack) — Bootleg
-cnbe.zip — Coon Be (quiz) — Eolith (bootleg)
-cndi.zip — Candy Candy (puzzle) — ESD
-cnightst.zip — Cosmic Nightstar — Nichibutsu (proto)
-cninja.zip — Caveman Ninja (Joe & Mac) — Data East
-cobracom.zip — Cobra-Command — Data East
-cocean1a.zip — Ocean to Ocean (quiz) — Unknown
-colony7.zip — Colony 7 — Taito / Midway
-columnsn.zip — Columns — Sega
-combatsc.zip — Combat School — Konami
-combh.zip — Commando (bootleg “Combh”) — Bootleg
-commando.zip — Commando — Capcom
-commandw.zip — Command War — Eolith (bootleg)
-commsega.zip — Commando (Sega lic.) — Capcom / Sega
-comotion.zip — Comotion — Gremlin
-complexx.zip — Complex X — SunA
-congo.zip — Congo Bongo — Sega
-contcirc.zip — Continental Circus — Taito
-contra.zip — Contra — Konami
-cookbib.zip — Cookie & Bibi — SemiCom
-cookbib2.zip — Cookie & Bibi 2 — SemiCom
-cookbib3.zip — Cookie & Bibi 3 — SemiCom
-coolmini.zip — Cool Minigame Collection — Semicom
-coozumou.zip — Oozumou — Taito
-cop01.zip — Cop 01 — Nichibutsu
-cosmccop.zip — Cosmic Cop (Gallop) — Irem
-cosmogng.zip — Cosmo Gang The Video — Namco
-cotton.zip — Cotton: Fantastic Night Dreams — Sega / Success
-countrun.zip — Country Run — Irem (early)
-countryc.zip — Country Club — Status Games
-cphd.zip — Captain Phantom (hack demo) — Hobbyist
-cppicf.zip — Capcom World (Picture Fighter var.) — Capcom (hack)
-cprobowl.zip — Championship Pro Bowling — Playmark
-cprogolf.zip — Championship Pro Golf — Data East (var.)
-cps1demo.zip — CPS-1 Demo — Capcom (demo técnico)
-cps1frog.zip — CPS-1 Frog (homebrew) — Hobbyist
-cpsoccer.zip — Capcom World Cup / Capcom Soccer — Capcom
-cptennis.zip — Championship Tennis — Data East
-crazyfgt.zip — Crazy Fight — ESD
-crazywar.zip — Crazy War — Comad
-crbaloon.zip — Crazy Balloon — Taito
-crimec.zip — Crime City — Taito
-crimfght.zip — Crime Fighters — Konami
-crkdown.zip — Crack Down — Sega
-crospang.zip — Cross Pang — F2 System
-crshrace.zip — Crash Race — Kaneko
-crswd2bl.zip — Crossed Swords II (bootleg MVS) — ADK / SNK (bootleg)
-crsword.zip — Crossed Swords — ADK / SNK
-crush.zip — Crush Roller (Make Trax) — Kural Samno / Williams
-crusherm.zip — Crusher Makochan — Nihon Bussan
-crzrally.zip — Crazy Rally — Tecfri
-csclub.zip — Capcom Sports Club — Capcom
-cscrtry.zip — Cross Country — Data East (var.)
-csdtenis.zip — Center Court / Super Doubles Tennis — Jaleco
-csilver.zip — Captain Silver — Data East
-cskater.zip — City Skater — Konami (var.)
-csuperas.zip — Super Astro (var.) — Unknown
-cterrani.zip — Cosmic Guerilla / Terranian var. — Universal (var.)
-ctisland.zip — Captain Tomaday’s Island (var.) — Visco (prob. set de CTOMADAY)
-ctomaday.zip — Captain Tomaday — Visco / SNK
-ctornado.zip — Crazy Tornao/Tornado — Tecfri
-ctribe.zip — The Combatribes — Technos Japan
-ctsttape.zip — Cassette Tape (DECO Cassette Test) — Data East
-cubybop.zip — Cuby Bop — Taito
-cuebrick.zip — Cue Brick — Taito
-cultures.zip — The Cultures (quiz) — SemiCom
-cupfinal.zip — European Cup Final — Tecmo
-cutefght.zip — Cute Fighter — SemiCom
-cutieq.zip — Cutie Q — Namco
-cworld.zip — Capcom World — Capcom
-cworld2j.zip — Capcom World 2 (Japan) — Capcom
-cybattlr.zip — Cybattler — Jaleco
-cyberlip.zip — Cyber-Lip — SNK
-cybertnk.zip — Cyber Tank — Irem (proto)
-cybots.zip — Cyberbots: Fullmetal Madness — Capcom
-cyvern.zip — Cyvern: The Dragon Weapons — Kaneko
-czeroize.zip — Zeroize (test ROM) — Williams (test)
-dacholer.zip — Dacholer — Nichibutsu
-daioh.zip — Daioh — Athena
-daitorid.zip — Puzzle Uo Poko / Daitoride — Metro
-dambustr.zip — Danger Buster (var.) — Data East (bootleg)
-dangar.zip — Dangar - Ufo Robo — Nichibutsu
-dangseed.zip — Dangerous Seed — Namco
-dankuga.zip — Dan-Ku-Ga (proto Kaiser Knuckle) — Taito
-daraku.zip — Daraku Tenshi (Fallen Angels) — Psikyo
-darius.zip — Darius — Taito
-darius2.zip — Darius II — Taito
-dariusg.zip — Darius Gaiden — Taito
-dariusgx.zip — Darius Gaiden Extra — Taito
-darkmist.zip — The Lost Castle in Darkmist — Seibu / Taito
-darkplnt.zip — Dark Planet — Stern
-darkseal.zip — Dark Seal (Gate of Doom) — Data East
-darktowr.zip — Dark Tower — Stern (proto)
-darwin.zip — Darwin 4078 — Data East
-dblaxle.zip — Double Axle (Power Drive) — Taito
-dbldynj.zip — Double Dribble (J) / Double Dynamites var. — Konami
-dblewing.zip — Double Wings — Mitchell
-dblpoint.zip — Double Point — Yung Yu
-dbreed.zip — Dragon Breed — Irem
-dbz.zip — Dragon Ball Z — Banpresto
-dbz2.zip — Dragon Ball Z 2: Super Battle — Banpresto
-dcclub.zip — Dynamic Country Club — Sega
-dcon.zip — D-Con — Success
-dday.zip — D-Day — Olympia
-ddayjlc.zip — D-Day (Jaleco) — Jaleco
-ddcrew.zip — DD Crew — Sega
-ddonpach.zip — DoDonPachi — Cave / Atlus
-ddp2.zip — DoDonPachi II: Bee Storm — IGS
-ddp3.zip — DoDonPachi Dai-Ou-Jou — Cave
-ddragon.zip — Double Dragon — Technos Japan
-ddragon2.zip — Double Dragon II: The Revenge — Technos Japan
-ddragon3.zip — Double Dragon 3: The Rosetta Stone — East Technology / Technos
-ddribble.zip — Double Dribble — Konami
-ddsom.zip — Dungeons & Dragons: Shadow over Mystara — Capcom
-ddtod.zip — Dungeons & Dragons: Tower of Doom — Capcom
-ddux.zip — Dynamite Dux — Sega
-deadang.zip — Dead Angle — Seibu Kaihatsu
-deadconx.zip — Dead Connection — Taito
-dealer.zip — Dealer — Tong Electronic
-decocass.zip — DECO Cassette System (BIOS) — Data East
-decomult.zip — DECO Cassette Multigame — Data East (compilado)
-deerhunt.zip — Deer Hunting USA — Sammy USA / Gaelco (hw)
-defender.zip — Defender — Williams
-deluxe5.zip — Deluxe 5 (multijuego) — Comad
-demoderb.zip — Demolition Derby — Bally Midway
-demonwld.zip — Demon’s World (Horror Story) — Toaplan / Taito
-denjinmk.zip — Denjin Makai — Banpresto
-deroon.zip — Deroon Dero Dero — IGS
-desertbr.zip — Desert Breaker — Sega
-desertdn.zip — Desert Dan — unknown (bootleg)
-devilfsh.zip — Devil Fish — Artic
-devilw.zip — Devil World — Toaplan
-devstors.zip — Devastators — Konami
-dharma.zip — Dharma Doujou — Metro
-diamond.zip — Diamond Run — KH Video
-dietgo.zip — Diet Go Go — Data East
-digdug.zip — Dig Dug — Namco
-digdug2.zip — Dig Dug II — Namco
-diggerma.zip — Digger Man — Gaelco (bootleg set)
-dimahoo.zip — Dimahoo (Great Mahou Daisakusen) — Raizing / Capcom
-dingo.zip — Dingo — Ashby / Jaleco
-dino.zip — Cadillacs and Dinosaurs — Capcom
-dinorex.zip — Dino Rex — Taito
-dirtfoxj.zip — Dirt Fox — Namco
-disco.zip — Disco No.1 — Data East
-divebomb.zip — Dive Bomber Squad — Dumarc / Sae Han
-diverboy.zip — Diver Boy — Diamond Systems
-djboy.zip — DJ Boy — Kaneko
-dkong.zip — Donkey Kong — Nintendo
-dkong3.zip — Donkey Kong 3 — Nintendo
-dkongjr.zip — Donkey Kong Jr. — Nintendo
-dleague.zip — Dream League / Dynamic League — Taito
-dmnfrnt.zip — Demon Front — IGS (PGM)
-docastle.zip — Mr. Do’s Castle — Universal
-dockman.zip — Dock Man — Taito (Kasco)
-dodgeman.zip — Dodge Man — Yun Sung
-dogfgt.zip — Dog Fight — Falcon
-dogfight.zip — Dog Fight — Ordyne/GA (var. antigua)
-dogyuun.zip — Dogyuun — Toaplan
-dokaben.zip — Dokaben — Capcom
-dolmen.zip — The Legend of Silkroad (var. board) — Unico (posible conf. con Silkroad)
-domino.zip — Domino Man — Bally Midway
-dommy.zip — Dommy — Technos (early)
-dondokod.zip — Don Doko Don — Taito
-donight.zip — Do! Night (hack) — Bootleg
-donpachi.zip — DonPachi — Cave / Atlus
-dorachan.zip — Dora-chan — Craul Denshi
-dorodon.zip — Dorodon — Falcon
-dorunrun.zip — Do! Run Run — Universal
-dotrikun.zip — Dottori-Kun (test) — Sega
-dotron.zip — Discs of Tron — Bally Midway
-doubledr.zip — Double Dragon (Neo Geo, “Double Dragons”) — Technos / SNK (pirata)
-dowild.zip — Mr. Do’s Wild Ride — Universal
-downtown.zip — DownTown — Seibu Kaihatsu
-dquizgo.zip — Date Quiz Go Go — Irem
-dquizgo2.zip — Date Quiz Go Go Episode 2 — Irem
-dragnblz.zip — Dragon Blaze — Psikyo
-dragngun.zip — Dragon Gun — Taito
-dragonsh.zip — Dragon’s Heaven — Taito / System Vision
-drakton.zip — Drakton — Epos
-dreambal.zip — Dream Ball — Playmark
-dreamwld.zip — Dream World — SemiCom
-dremshpr.zip — Dream Shopper — SNK
-drgnbowl.zip — Dragon Bowl — Nics
-drgnbstr.zip — Dragon Buster — Namco
-drgnmst.zip — Dragon Master — Unico
-drgnunit.zip — Dragon Unit (Castle of Dragon) — Athena
-drgw2.zip — Dragon World II — IGS
-dribling.zip — Dribbling — Model Racing
-drifto94.zip — Drift Out ’94 — Visco
-driftout.zip — Drift Out — Visco
-drivfrcp.zip — Driving Force Plus — Taito (var.)
-drmicro.zip — Dr. Micro — Epos
-drtomy.zip — Dr. Tomy — NTC
-drtoppel.zip — Dr. Toppel’s Adventure — Taito
-dsaber.zip — Dragon Saber — Namco
-dsoccr94.zip — Dream Soccer ’94 — Data East
-dspirit.zip — Dragon Spirit — Namco
-dstlk.zip — Night Warriors: Darkstalkers’ Revenge — Capcom
-dtfamily.zip — Diet Family — SemiCom
-ducki.zip — Duckie — IGS (PGM mini)
-dunkshot.zip — Dunk Shot — Sega
-dw2001.zip — Dance Wrecker 2001 (var.) — SemiCom / Eolith
-dwi.zip — Dance Wrecker / DWI (var.) — SemiCom
-dwpc.zip — Dance Wrecker P.C. (var.) — SemiCom
-dyger.zip — Dyger — Philko
-dynablst.zip — Dynablaster / Bomberman — Irem
-dynabomb.zip — Dynamite Bomb — ESD
-dynagear.zip — Dyna Gear — Sammy
-dynduke.zip — Dyna Dux / Dyna Duke — Seibu
-dynwar.zip — Dynasty Wars (Tenchi wo Kurau) — Capcom
-eaglshot.zip — Eagle Shot Golf — Sammy
-earthjkr.zip — Earth Joker — NMK
-ecofghtr.zip — Eco Fighters — Capcom
-edf.zip — E.D.F. Earth Defense Force — Jaleco
-edrandy.zip — The Cliffhanger: Edward Randy — Data East
-eeekk.zip — Eeekk! — Seibu (var.)
-eeekkp.zip — Eeekk! Plus — Seibu (var.)
-efdt.zip — Escape from the Deep (proto) — Unknown
-egghunt.zip — Egg Hunt — Inviito
-eggor.zip — Eggor — Orca
-eightfrc.zip — Eight Forces — Tecmo
-eightman.zip — Eightman — Pallas / SNK
-elecyoyo.zip — The Electric Yo-Yo — Taito / Midway
-elevator.zip — Elevator Action — Taito
-elim2.zip — Eliminator — Sega/Gremlin
-elvactr.zip — Elevator Action Returns — Taito
-empcity.zip — Empire City: 1931 — Seibu Kaihatsu
-enduror.zip — Enduro Racer — Sega
-enforce.zip — Enforce — Taito
-enmadaio.zip — Enma Daio — Taito F3 (quiz)
-eprom.zip — Eprom — Exidy
-esb.zip — The Empire Strikes Back (Atari proto) — Atari
-esckids.zip — Escape Kids — Konami
-espgal.zip — ESPGaluda — Cave
-espial.zip — Espial — Thunderbolt / Orca
-esprade.zip — ESP Ra.De. — Cave / Atlus
-eswat.zip — E-SWAT — Sega
-eto.zip — Koinu no Osanpo (ETO) — Metro
-euroch92.zip — Euro Champ ’92 — Taito
-evilston.zip — Evil Stone — Spacy / Kaneko
-excelsr.zip — Excelsior — Gaelco (var.)
-exctleag.zip — Exciting League — Excellent Systems
-exedexes.zip — Exed Exes — Capcom
-explbrkr.zip — Explosive Breaker — Kaneko
-exprraid.zip — Express Raider — Data East
-extdwnhl.zip — Extreme Downhill — Taito
-extrmatn.zip — Extra Bases / Extermination (var.) — Taito (var.)
-exzisus.zip — Exzisus — Taito
-eyes.zip — Eyes — Digitrex Techstar / Rock-Ola
-f1dream.zip — F-1 Dream — Capcom
-f1gp.zip — F-1 Grand Prix — Video System
-f1gp2.zip — F-1 Grand Prix Part II — Video System
-faceoff.zip — Face Off — Namco
-fantasia.zip — Fantasia — Comad
-fantastc.zip — Fantastic — ADK (var./hack)
-fantasyu.zip — Fantasy — SNK / Rock-Ola
-fantland.zip — Fantasy Land — Electronic Devices
-fantsia2.zip — Fantasia II — Comad
-fantzn2.zip — Fantasy Zone II — Sega
-fantzn2x.zip — Fantasy Zone II DX — Sega (System 16 conversion)
-fantzone.zip — Fantasy Zone — Sega
-fastlane.zip — Fast Lane — Konami
-fatfursp.zip — Fatal Fury Special — SNK
-fatfury1.zip — Fatal Fury: King of Fighters — SNK
-fatfury2.zip — Fatal Fury 2 — SNK
-fatfury3.zip — Fatal Fury 3 — SNK
-fball.zip — Super Football — Leland
-fbfrenzy.zip — Football Frenzy — SNK
-feversos.zip — Fever SOS (Dangun Feveron) — Cave
-ffight.zip — Final Fight — Capcom
-ffightaec2.zip — Final Fight (AEC2 hack) — Hack
-fghtbskt.zip — Fighting Basketball — Jaleco
-fghthist.zip — Fighting History (Fighter’s History) — Data East
-fhawk.zip — Fighting Hawk — Taito
-fightfev.zip — Fight Fever — Viccom / SNK
-fightrol.zip — Fighting Roller — Nichibutsu
-finalb.zip — Final Blow — Taito
-finalgdr.zip — Final Guarder — Gaelco (var.)
-finalizr.zip — Finalizer — Konami
-finalttr.zip — Final Tetris (var.) — Irem / Nichibutsu (bootleg)
-finehour.zip — The First Funky Fighter (Fine Hour) — Namco
-firebatl.zip — Fire Battle — Taito (bootleg)
-firebeas.zip — Fire Beast — Taito (var.)
-fireshrk.zip — Fire Shark — Toaplan
-firetrap.zip — Fire Trap — Data East
-fitegolf.zip — Fighting Golf — SNK / Nazca
-fixeight.zip — FixEight — Toaplan
-flagrall.zip — Flag Rally — Data East
-flashgal.zip — Flashgal — Sega / Seta
-flicky.zip — Flicky — Sega
-flipjack.zip — Flipper Jack — Nihon Bussan
-flipshot.zip — Battle Flip Shot — Visco
-flower.zip — Flower — Komax
-flstory.zip — The FairyLand Story — Taito
-flyboy.zip — Fly-Boy — Kaneko
-flytiger.zip — Flying Tiger — Seibu
-fncywld.zip — Fancy World: Earth of Crisis — Unico
-fnkyfish.zip — Funky Fish — Sun Electronics
-foodf.zip — Food Fight — Atari
-footchmp.zip — Football Champ — Taito
-forgottn.zip — Forgotten Worlds — Capcom
-formatz.zip — Formation Z — Jaleco
-fpoint.zip — Flash Point — Sega
-freekick.zip — Free Kick — Nihon System
-freeze.zip — Freeze — Cinematronics
-frenzy.zip — Frenzy — Stern
-friskyt.zip — Frisky Tom — Nichibutsu
-frogger.zip — Frogger — Konami / Sega
-froman2b.zip — From A to B (quiz) — Jaleco (var.)
-frontlin.zip — Front Line — Taito
-fround.zip — Final Round — Konami
-fshark.zip — Flying Shark — Toaplan
-fsoccer.zip — Fighting Soccer — SNK
-fspiderb.zip — The Amazing Spider-Man (proto) — Stern (pin/video var.)
-fstarfrc.zip — Final Star Force — Tecmo
-funkybee.zip — Funky Bee — Orca
-funkyjet.zip — Funky Jet — Data East
-funybubl.zip — Funny Bubble — ESD
-futspy.zip — Future Spy — Sega
-gaia.zip — Gaia Crusaders — Noise Factory / Andamiro
-gaialast.zip — Gaiapolis — Konami
-gaiapols.zip — Gaiapolis (var.) — Konami
-galaga.zip — Galaga — Namco
-galaga88.zip — Galaga ’88 — Namco
-galaxian.zip — Galaxian — Namco
-galaxyfg.zip — Galaxy Fight — Sunsoft / SNK
-galaxygn.zip — Galaxy Gunners — Nichibutsu (var.)
-galivan.zip — Cosmo Police Galivan — Nichibutsu
-galmedes.zip — Galmedes — Taito / Visco
-galpani3.zip — Gals Panic 3 — Kaneko
-galpani4.zip — Gals Panic 4 — Kaneko
-galpanic.zip — Gals Panic — Kaneko
-galpanis.zip — Gals Panic S — Kaneko
-galpans2.zip — Gals Panic S2 — Kaneko
-galpans3.zip — Gals Panic S3 — Kaneko
-galspnbl.zip — Gals Pinball — Comad
-ganbare.zip — Ganbare Jan-Ou — Dynax
-gangwars.zip — Gang Wars — Alpha Denshi / SNK
-ganryu.zip — Ganryu — Visco / SNK
-gaplus.zip — Gaplus — Namco
-gardia.zip — Gardia — Omori / Jaleco
-garogun.zip — Garogun Seroyang — Dooyong
-garou.zip — Garou: Mark of the Wolves — SNK
-garyoret.zip — Garyo Retsuden — Data East
-gaunt2.zip — Gauntlet II — Atari Games
-gauntlet.zip — Gauntlet — Atari Games
-gberet.zip — Green Beret (Rush’n Attack) — Konami
-gbusters.zip — Guerrilla War — SNK
-gdfs.zip — G.Darius (Fighting) / Gun Dealer S (var.) — Dooyong (si es Gun Dealer S)
-geebee.zip — Gee Bee — Namco
-gekiridn.zip — Gekirindan — Taito
-gemini.zip — Gemini Wing — Tecmo
-genix.zip — Genix Family — SemiCom
-genpeitd.zip — Genpei Touma Den — Namco
-gfire2.zip — Gunforce 2 (var. set) — Irem
-gforce2.zip — Galaxy Force II — Sega
-gground.zip — Gain Ground — Sega
-ghostb.zip — The Real Ghostbusters — Data East
-ghostbi.zip — Ghosts ’n Goblins (bootleg/Italian) — Capcom (bootleg)
-ghostlop.zip — Ghostlop — Data East / SNK (cancelado)
-ghouls.zip — Ghouls ’n Ghosts — Capcom
-ghox.zip — Ghox — Toaplan
-gigandes.zip — Gigandes — East Technology
-gigas.zip — Gigas — Sega / Nihon System
-gigasm2.zip — Gigas Mark II — Nihon System
-gigawing.zip — Giga Wing — Capcom / Takumi
-gijoe.zip — G.I. Joe — Konami
-ginganin.zip — Ginganin — Jaleco
-ginkun.zip — Ginkaku Saburo no Ginkun — Taito
-glass.zip — Glass — Gaelco
-gloc.zip — G-LOC: Air Battle — Sega
-gmgalax.zip — Galaxian (multigame hack) — Bootleg
-gnbarich.zip — Gunbarich — Psikyo
-gng.zip — Ghosts ’n Goblins — Capcom
-go2000.zip — Go 2000 — IGS
-goalx3.zip — Goal! Goal! Goal! — Visco / SNK
-godzilla.zip — Godzilla — Banpresto
-gogomile.zip — Go Go! Mile Smile — Namco
-goindol.zip — Goindol — SunA
-goldmedl.zip — Konami ’88 (Gold Medalist) — Konami
-goldnaxe.zip — Golden Axe — Sega
-gollygho.zip — Golly! Ghost! — Namco
-gotcha.zip — Got-Cha Mini Game Festival — Dongsung
-gowcaizr.zip — Gowcaizer — Technos / SNK
-gpilots.zip — Ghost Pilots — SNK
-gprider.zip — G.P. Rider — Sega
-gradius3.zip — Gradius III — Konami
-grainbow.zip — Rainbow Islands — Taito
-grasspin.zip — Grasspin — Taito (var.)
-gravitar.zip — Gravitar — Atari
-grdian.zip — Guardian — Irem
-grdians.zip — Guardians / Denjin Makai II — Banpresto
-grdnstrm.zip — Grand Striker 2 (Grand Striderm var.) — Human
-grindstm.zip — Grind Stormer / V-V — Toaplan
-grndtour.zip — Grand Tour — Taito (var.)
-grobda.zip — Grobda — Namco
-groundfx.zip — Ground Effects — Taito
-growl.zip — Growl (Runark) — Taito
-gseeker.zip — Gun Buster / Geo Storm — Irem
-gstream.zip — G-Stream G2020 — Oriental Soft
-gstrik2.zip — Goal! Goal! Goal! 2 / Great Soccer ’96 — Visco
-gt2k.zip — Golden Tee 2000 — Incredible Technologies
-gt3d.zip — Golden Tee 3D Golf — Incredible Technologies
-gt97.zip — Golden Tee ’97 — Incredible Technologies
-gt98.zip — Golden Tee ’98 — Incredible Technologies
-gt99.zip — Golden Tee ’99 — Incredible Technologies
-gtclassc.zip — Golden Tee Classic — Incredible Technologies
-gtmr.zip — Great 1000 Miles Rally — Kaneko
-gtmr2.zip — Great 1000 Miles Rally 2 — Kaneko
-gulfstrm.zip — Gulf Storm — Dooyong
-gulfwar2.zip — Gulf War II — Comad
-gulunpa.zip — Gururinpa! (var.) — Namco (var.)
-gumbo.zip — Gumbo — Min Corp.
-gunbird.zip — Gunbird — Psikyo
-gunbird2.zip — Gunbird 2 — Psikyo
-gunbustr.zip — Gunbuster — Taito
-gundamex.zip — Gundam EX (var.) — Banpresto
-gundhara.zip — Gundhara — Banpresto
-gundl94.zip — Gundam ’94 (quiz/board) — Banpresto
-gunforc2.zip — GunForce II — Irem
-gunforce.zip — GunForce — Irem
-gunfront.zip — Gun & Frontier — Taito
-gunlock.zip — Gunlock (RayForce/Layer Section) — Taito
-gunmast.zip — Gun Master — Metro
-gunnail.zip — GunNail — NMK
-gunsmoke.zip — Gun.Smoke — Capcom
-gururin.zip — Gururin — Face / SNK
-gutsn.zip — Guts’n — Excellent Systems
-guwange.zip — Guwange — Cave / Atlus
-guzzler.zip — Guzzler — Tehkan
-gwar.zip — Guerrilla War — SNK
-gwarrior.zip — Guerrilla Warrior (var.) — SNK (var.)
-gyrodine.zip — Gyrodine — Taito / Crux
-gyruss.zip — Gyruss — Konami
-hachamf.zip — Hacha Mecha Fighter — NMK
-hachamfb.zip — Hacha Mecha Fighter (bootleg) — Bootleg
-hachoo.zip — Hachoo! — Jaleco
-hal21.zip — HAL 21 — SNK / Alpha Denshi
-halley87.zip — Halley’s Comet ’87 — Taito
-halleys.zip — Halley’s Comet — Taito
-hammerin.zip — Hammerin’ Harry — Irem
-hangon.zip — Hang-On — Sega
-hangonjr.zip — Hang-On Jr. — Sega
-hangplt.zip — Hang Pilot — Taito
-hapytour.zip — Happy Tour — IGS
-hardhead.zip — Hard Head — SunA
-hardhea2.zip — Hard Head 2 — SunA
-hardyard.zip — Hard Yardage — Tecmo
-hardyard10.zip — Hard Yardage (rev. 1.0) — Tecmo
-hasamu.zip — Hasamu — Taito
-hatena.zip — Hatena Satena — Capcom
-hatris.zip — Hatris — Video System
-hattrick.zip — Hat Trick — Bally/Sente
-hayaosi1.zip — Hayaoshi Quiz Ouza Ketteisen — Taito
-hbarrel.zip — Heavy Barrel — Data East
-hcastle.zip — Haunted Castle — Konami
-hdrivair.zip — Hard Drivin’ Airborne — Atari Games
-headon.zip — Head On — Sega/Gremlin
-headon2.zip — Head On 2 — Sega/Gremlin
-headoni.zip — Head On (Itisa) — Itisa
-headonn.zip — Head On (Noma) — Noma
-headons.zip — Head On (Sega) — Sega
-heatbrl.zip — Heated Barrel — Data East
-heatof11.zip — The Heat of 11 — Face
-heberpop.zip — Hebereke no Popoon — Sunsoft
-hedpanic.zip — Head Panic — Para
-heiankyo.zip — Heiankyo Alien — Denki Onkyo
-helifire.zip — Helifire — Nintendo
-hellfire.zip — Hellfire — Toaplan
-hellngt.zip — Hell Night — Taito
-herbiedk.zip — Herbie at the Docks — Valadon Automation
-hero.zip — Hero — Taito
-hexa.zip — Hexa — D.R. Korea
-hexion.zip — Hexion — Konami
-hgkairak.zip — Hanafuda Hana Ginga — Nichibutsu
-hgokou.zip — Hanafuda Hana Gokou — Nichibutsu
-hharry.zip — Hammerin’ Harry — Irem
-higemaru.zip — Pirate Ship Higemaru — Capcom
-highsplt.zip — Hi Splatter — Kaneko
-hiimpact.zip — High Impact Football — Midway
-hippodrm.zip — Hippodrome — Data East
-hiryuken.zip — Hiryu no Ken — Culture Brain
-hishouza.zip — Hishou Zame — Toaplan
-hitice.zip — Hit the Ice — Williams
-hitme.zip — Hit Me — Ramtek
-hitnmiss.zip — Hit ’n’ Miss — Taito
-hoccer.zip — Hoccer — Eastern Micro Electronics
-hoccer2.zip — Hoccer 2 — Eastern Micro Electronics
-hogalley.zip — Hogan’s Alley — Nintendo
-holeland.zip — Hole Land — Tecfri
-holo.zip — Holosseum — Sega
-homerun.zip — Home Run — Sega
-homo.zip — Homo — D. R. Korea
-hook.zip — Hook — Irem
-hopmappy.zip — Hopping Mappy — Namco
-hopprobo.zip — Hopper Robo — Sega
-horocomp.zip — Horoscomp — Taito
-horshoes.zip — American Horseshoes — Taito
-hotchase.zip — Hot Chase — Konami
-hotdogst.zip — Hotdog Storm — Marble
-hotpinbl.zip — Hot Pinball — Jaleco
-hotshock.zip — Hot Shocker — ESD
-hotsmash.zip — Hot Smash — Sega
-hourouki.zip — Quiz Hourouki — Capcom
-housemn2.zip — House Mannequin 2 — Taito
-hpolym84.zip — Hyper Olympic ’84 — Konami
-hpuncher.zip — Heavy Puncher — Kaneko
-hstenn10.zip — High School Tennis — Taito
-hthero.zip — Hat Trick Hero — Taito
-hthero93.zip — Hat Trick Hero ’93 — Taito
-hthero94.zip — Hat Trick Hero ’94 — Taito
-hthero95.zip — Hat Trick Hero ’95 — Taito
-htchctch.zip — Hatch Catch — SemiCom
-hunchbak.zip — Hunchback — Century Electronics
-hunchbkd.zip — Hunchback (Data East) — Data East
-hunchbks.zip — Hunchback (Stern) — Stern
-huncholy.zip — Hunchback Olympic — Century Electronics
-hustle.zip — Hustle — Gremlin
-hustler.zip — The Hustler — Konami
-hvnsgate.zip — Heaven’s Gate — Atlus
-hvoltage.zip — High Voltage — Seta
-hvymetal.zip — Heavy Metal — Data East
-hwchamp.zip — Heavyweight Champ — Sega
-hwrace.zip — Highway Race — Taito
-hydra.zip — Hydra — Atari Games
-hydrap.zip — Hydra (prototype) — Atari Games
-hydrap2.zip — Hydra (prototype 2) — Atari Games
-hyhoo.zip — Taito no Hana Hoo — Taito
-hyhoo2.zip — Taito no Hana Hoo 2 — Taito
-hyouban.zip — Hyouban Douchuuki — Capcom
-hyperath.zip — Hyper Athlete — Konami
-hyperpac.zip — Hyper Pacman — SemiCom
-hyperspt.zip — Hyper Sports — Konami
-hyprdriv.zip — Hyperdrive — Midway
-hypreac2.zip — Hyper Reaction 2 — Sammy
-hypreact.zip — Hyper Reaction — Sammy
-hyprshot.zip — Hyper Shot — Namco
-iceclimb.zip — Ice Climber — Nintendo
-iceclmrd.zip — Ice Climber (bootleg) — Bootleg
-ichidant.zip — Ichidant-R — Sega
-idhuntr.zip — ID Hunters — Namco
-idolmj.zip — Idol Mahjong — Nichibutsu
-idsoccer.zip — Indoor Soccer — Taito
-iemoto.zip — Iemoto — Nichibutsu
-iganinju.zip — Iga Ninjutsu — Nichibutsu
-igmo.zip — IGMO — Data East
-ikari.zip — Ikari Warriors — SNK
-ikari3.zip — Ikari III: The Rescue — SNK
-ikarijp.zip — Ikari — SNK (Japan)
-ikarino.zip — Ikari no Yousai — SNK
-ikki.zip — Ikki — Sun Electronics
-illvelo.zip — Illvelo — Milestone
-imago.zip — Imago — A. L. S.
-imekura.zip — Imekura — Mitchell
-imgfight.zip — Image Fight — Irem
-imgfighto.zip — Image Fight (Old) — Irem
-imolagp.zip — International Motorcross GP — Jaleco
-imsorry.zip — I’m Sorry — Coreland / Sega
-in1.zip — In 1 — Unknown
-inquiztr.zip — Inquiztr — Gamo
-inthunt.zip — In the Hunt — Irem
-intrepid.zip — Intrepid — Nova Games
-introdon.zip — Introduction Quiz Don — Taito
-invad2ct.zip — Space Invaders Part II (Cocktail) — Taito
-invaders.zip — Space Invaders — Taito
-invadpt2.zip — Space Invaders Part II — Taito
-invds.zip — Invaders (bootleg) — Bootleg
-invho2.zip — Invader’s Ho 2 — Nichibutsu
-invinco.zip — Invinco — Sega
-invrvnga.zip — Invasion Revenge — Nichibutsu
-ipminvad.zip — IPM Invader — Irem
-ipmiv.zip — IPM Invader — Irem
-iron.zip — Iron — Irem
-ironclad.zip — Ironclad — Saurus
-ironfort.zip — Iron Fortress — Nichibutsu
-ironh.zip — Iron Horse — Konami
-irobot.zip — I, Robot — Atari Games
-irrmaze.zip — Irritating Maze — SNK
-ixion.zip — Ixion — Sega
-jack.zip — Jack — Jaleco
-jack2.zip — Jack 2 — Jaleco
-jackal.zip — Jackal — Konami
-jackler.zip — Jackler — Unknown
-jackrabt.zip — Jackrabbit — Atari
-jailbrek.zip — Jail Break — Konami
-jajamaru.zip — Jajamaru — Jaleco
-janken.zip — Janken Game — Sega
-janoh.zip — Jan Oh — Nichibutsu
-janshin.zip — Janshin Densetsu — Aicom / SNK
-jedi.zip — Return of the Jedi — Atari Games
-jellybe.zip — Jelly Bean — Sega
-jigkmgri.zip — Jigoku Meguri — Taito
-jjack.zip — Jumping Jack — Cinematronics
-joemac.zip — Joe & Mac — Data East
-joemacr.zip — Joe & Mac Returns — Data East
-jogakuen.zip — Jogakuen — Nichibutsu
-jollyjgr.zip — Jolly Jogger — Taito
-josvolly.zip — Joshua Volleyball — Sega
-journey.zip — Journey — Bally/Midway
-joust.zip — Joust — Williams
-joustr.zip — Joust (Red Label) — Williams
-joustwr.zip — Joust (White Label) — Williams
-joyfulr.zip — Joyful Road — Konami
-joyjoy.zip — Joy Joy Kid — SNK
-joyman.zip — Joyman — Nichibutsu
-jpark.zip — Jurassic Park — Sega
-jrpacman.zip — Jr. Pac-Man — Bally/Midway
-jumpbug.zip — Jump Bug — Alpha Denshi / Sega
-jumpcoas.zip — Jump Coaster — Kaneko
-jumping.zip — Jumping — Kaneko
-jumpkids.zip — Jump Kids — SemiCom
-jumpshot.zip — Jump Shot — Bally/Midway
-junglek.zip — Jungle King — Taito
-jungler.zip — Jungler — Konami
-junglers.zip — Jungler (Stern) — Stern
-junofrst.zip — Juno First — Konami
-jyangoku.zip — Jyangokushi — Capcom
-kabukiz.zip — Kabuki-Z — Alpha Denshi / SNK
-kageki.zip — Kageki — Kaneko
-kaiserkn.zip — Kaiser Knuckle — Taito
-kaitei.zip — Kaitei Takara Sagashi — Taito
-kaiteids.zip — Kaitei Daisensou — Taito
-kaizoku.zip — Kaizoku — Namco
-kamikaze.zip — Kamikaze — Leijac
-kanatuen.zip — Kanatsuen — Taito
-kangaroo.zip — Kangaroo — Sun Electronics / Atari
-kaos.zip — Kaos — GamePlan
-karatblz.zip — Karate Blazers — Video System
-karatedo.zip — Karate Do — Alpha Denshi
-karianx.zip — Karian Cross — Mitchell
-karnov.zip — Karnov — Data East
-karnovr.zip — Karnov’s Revenge — Data East / SNK
-kbash.zip — Knuckle Bash — Toaplan
-kbash2.zip — Knuckle Bash 2 — Toaplan
-kchamp.zip — Karate Champ — Data East
-kchampvs.zip — Karate Champ (Versus) — Data East
-keith.zip — Keith Courage — Hudson Soft
-kick.zip — Kick — Midway
-kickboy.zip — Kick Boy — Taito
-kicker.zip — Kicker — Konami
-kickgoal.zip — Kick Goal — TCH
-kicknrun.zip — Kick & Run — Taito
-kickoff.zip — Kick Off — Anco
-kidniki.zip — Kid Niki — Irem
-kikcubic.zip — Kikcubic — Sega
-kikikai.zip — Kiki KaiKai — Taito
-killbld.zip — Killing Blade — IGS
-killcom.zip — Killer Comet — GamePlan
-kingbal.zip — King & Balloon — Namco
-kingdmgp.zip — Kingdom Grandprix — Raizing
-kingofb.zip — King of Boxer — Wood Place
-kingpin.zip — Kingpin — Cinematronics
-kirameki.zip — Kirameki Star Road — Capcom
-kisekaeh.zip — Kisekaehime — Sega
-kittenk.zip — Kitten Kaboodle — Atari
-kiwame.zip — Kiwame Mahjong — Athena
-kizuna.zip — Kizuna Encounter — SNK
-klax.zip — Klax — Atari Games
-klondkp.zip — Klondike Poker — Nichibutsu
-kncljoe.zip — Knuckle Joe — Seibu Kaihatsu
-knightb.zip — Knight Boy — Konami (bootleg)
-knockout.zip — Knock Out — Midway
-kod.zip — King of Dragons — Capcom
-kodure.zip — Kodure Ookami — Data East
-koikois.zip — Koi Koi Shimasho — Video System
-koikois2.zip — Koi Koi Shimasho 2 — Video System
-koinomp.zip — Koin no Miracle Paradise — Nichibutsu
-kok.zip — Knights of the King — Sega
-kollon.zip — Kollon — Takumi
-konam80s.zip — Konami 80’s Arcade Gallery — Konami
-konamigt.zip — Konami GT — Konami
-korosuke.zip — Korosuke Roller — Sega
-korry.zip — Korry — Taito
-kot.zip — Knights of the Round — Capcom
-kouyakyu.zip — Kouyakyu — Data East
-kov.zip — Knights of Valour — IGS
-kov2.zip — Knights of Valour 2 — IGS
-kovplus.zip — Knights of Valour Plus — IGS
-kram.zip — Kram — Taito
-kroozr.zip — Kozmik Krooz’r — Midway
-krull.zip — Krull — Gottlieb
-krzybowl.zip — Krazy Bowl — P&P Marketing
-ktiger.zip — Kyukyoku Tiger — Toaplan
-ktiger2.zip — Kyukyoku Tiger II — Toaplan
-kungfub.zip — Kung-Fu Master — Irem
-kungfub2.zip — Kung-Fu Master 2 — Irem
-kungfum.zip — Kung-Fu Master (Microdeal) — Microdeal
-kungfut.zip — Kung-Fu Taiken — Taito
-kungfu.zip — Kung-Fu Master — Irem
-kungfut.zip — Kung-Fu Taiken — Taito
-kuniokun.zip — Nekketsu Kōha Kunio-kun — Technos Japan
-kurikint.zip — Kuri Kinton — Taito
-kurikinta.zip — Kuri Kinton (Prototype) — Taito
-kyros.zip — Kyros — World Games / Alfa Denshi
-kyukaidk.zip — Kyūkai Dōchūki — Namco
-kyustrkr.zip — Kyuukai Douchuuki Striker — Namco
-ladybug.zip — Lady Bug — Universal
-ladybugb.zip — Lady Bug (bootleg) — Bootleg
-ladygolf.zip — Lady Golf — Data East
-ladymstr.zip — Lady Master — Unico
-lair.zip — Dragon’s Lair — Cinematronics
-landbrk.zip — Land Breaker — Irem
-landmakr.zip — Land Maker — Taito
-laser.zip — Laser — Vectorbeam
-laserbat.zip — Laser Battle — Vectorbeam
-laserbas.zip — Laser Base — Taito
-laserbld.zip — Laser Blade — Nichols
-lasso.zip — Lasso — SNK
-lastblad.zip — The Last Blade — SNK
-lastbld2.zip — The Last Blade 2 — SNK
-lastbrnx.zip — Last Bronx — Sega
-lastday.zip — The Last Day — Dooyong
-lastduel.zip — Last Duel — Capcom
-lastfort.zip — The Last Fortress — NMK
-lastmisn.zip — Last Mission — Data East
-lastsurv.zip — Last Survivor — Sega
-lazarian.zip — Lazarian — Midway
-lbowling.zip — League Bowling — SNK
-ldrun.zip — Lode Runner — Irem
-ldrun2.zip — Lode Runner II — Irem
-ldrun3.zip — Lode Runner III — Irem
-ldrun4.zip — Lode Runner IV — Irem
-ldruna.zip — Lode Runner (set a) — Irem
-le2.zip — Lethal Enforcers II — Konami
-le2u.zip — Lethal Enforcers II (US) — Konami
-leaguemn.zip — League Manager — Data East
-ledstorm.zip — LED Storm — Capcom
-legend.zip — Legend — TAD Corporation
-legendos.zip — Legend of Success Joe — Wave
-legion.zip — Legion — Nichibutsu
-lemmings.zip — Lemmings — Data East
-lemnangl.zip — Lemon Angel — Nichibutsu
-leprechn.zip — Leprechaun — Pacific Novelty
-lethalen.zip — Lethal Enforcers — Konami
-lethalj.zip — Lethal Justice — The Game Room
-lethalth.zip — Lethal Thunder — Irem
-lgp.zip — Laser Grand Prix — Taito
-lgtnfght.zip — Lightning Fighters — Konami
-liberatr.zip — Liberator — Atari
-liblrabl.zip — Libble Rabble — Namco
-lifefrce.zip — Life Force — Konami
-lightbr.zip — Light Bringer — Taito
-liquidk.zip — Liquid Kids — Taito
-liquidku.zip — Liquid Kids (US) — Taito
-lithero.zip — Little Hero — Sega
-lizwiz.zip — Liz Wiz — Taito (bootleg)
-lkage.zip — The Legend of Kage — Taito
-lkageb.zip — The Legend of Kage (bootleg) — Bootleg
-llander.zip — Lunar Lander — Atari
-lnc.zip — Lock’n’Chase — Data East
-lockon.zip — Lock-On — Tatsumi
-locomotn.zip — Loco-Motion — Konami
-loffire.zip — Line of Fire — Sega
-logger.zip — Logger — Century Electronics
-logicpr2.zip — Logic Pro 2 — Deniam
-logicpro.zip — Logic Pro — Deniam
-lonewolf.zip — Lone Wolf — Taito
-looper.zip — Looper — Century Electronics
-looping.zip — Looping — Venture Line
-loopinga.zip — Looping (alternate) — Venture Line
-lordgun.zip — Lord of Gun — TCH
-losttomb.zip — Lost Tomb — Stern
-lostwrld.zip — Lost Worlds — Capcom
-lotlot.zip — Lot Lot — Irem
-lovehous.zip — Love House — SunA
-loverboy.zip — Lover Boy — GAA
-lrescue.zip — Lunar Rescue — Taito
-lsasquad.zip — Lightning S.A.S. Squad — Taito
-ltcasin2.zip — Lucky Casino 2 — Nichibutsu
-ltcasino.zip — Lucky Casino — Nichibutsu
-luckywld.zip — Lucky & Wild — Namco
-lunarbat.zip — Lunar Battle — Midway
-lupin3.zip — Lupin III — Taito
-lvgirl94.zip — Lovely Girl ’94 — Sung-Il
-lvpoker.zip — Lovely Poker — Sigma
-lwings.zip — Legendary Wings — Capcom
-lwings2.zip — Legendary Wings 2 — Capcom
-lwingsb.zip — Legendary Wings (bootleg) — Bootleg
-mace.zip — Mace: The Dark Age — Atari Games
-mach3.zip — M.A.C.H. 3 — Mylstar
-machbrkr.zip — Mach Breakers — Namco
-machomou.zip — Macho Mouse — Techstar
-macross.zip — Super Dimension Fortress Macross — Banpresto
-macross2.zip — Macross II — Banpresto
-macrossp.zip — Macross Plus — Banpresto
-madalien.zip — Mad Alien — Data East
-madball.zip — Mad Ball — Nics
-madcrash.zip — Mad Crasher — SNK
-maddonna.zip — Maddonna — Tuning
-madgear.zip — Mad Gear — Capcom
-madmotor.zip — Mad Motor — Mitchell
-madshark.zip — Mad Shark — Allumer
-magdrop.zip — Magical Drop — Data East
-magdrop2.zip — Magical Drop II — Data East
-magdrop3.zip — Magical Drop III — Data East
-magerror.zip — Magical Error wo Sagase — Namco
-magicbub.zip — Magic Bubble — ESD
-magicd2a.zip — Magic Dunker 2 (set a) — IGS
-magicd2b.zip — Magic Dunker 2 (set b) — IGS
-magicdnc.zip — Magic Dunker — IGS
-magix.zip — Magix — Yun Sung
-maglord.zip — Magician Lord — ADK / SNK
-magmax.zip — Mag Max — Nichibutsu
-magspot2.zip — Magic Spot II — Universal
-magworm.zip — Magical Worm — Alba
-mahjngoh.zip — Mahjong Oh — Nichibutsu
-mahoudai.zip — Mahou Daisakusen — Raizing
-mahretsu.zip — Mahjong Rettsuden — Dynax
-maiko.zip — Maiko — Nichibutsu
-mainevt.zip — Main Event — Konami
-mainevto.zip — Main Event (old version) — Konami
-mainsnk.zip — Main Frame SNK — SNK
-majest12.zip — Majestic Twelve — Taito
-majtitle.zip — Major Title — Irem
-majtitl2.zip — Major Title 2 — Irem
-makaiden.zip — Makaiden — Capcom
-maketrax.zip — Make Trax — Williams
-makyou.zip — Makyou Senshi — Capcom
-malzak.zip — Malzak — Kitronix
-mamboagg.zip — Mambo A Go Go — Konami
-mangchi.zip — Mang-Chi — SemiCom
-manhatan.zip — Manhattan — Taito
-maniach.zip — Mania Challenge — Technos Japan
-maniahb.zip — Mania Challenge (bootleg) — Bootleg
-manxtt.zip — Manx TT Superbike — Sega
-marble.zip — Marble Madness — Atari Games
-marble2.zip — Marble Madness 2 — Atari Games
-marineb.zip — Marine Boy — Sigma Enterprises
-mariner.zip — Mariner — Amenip
-mario.zip — Mario Bros. — Nintendo
-marioe.zip — Mario Bros. (Early) — Nintendo
-mariobl.zip — Mario Bros. (bootleg) — Bootleg
-markham.zip — Markham — Sun Electronics
-mars.zip — Mars — Artic
-maruchan.zip — Maru-Chan de Goo! — Taito
-marukin.zip — Marukin — Nichibutsu
-marvland.zip — Marvel Land — Namco
-masao.zip — Masao — Allumer
-masterw.zip — Master of Weapon — Taito
-mastkin.zip — Master’s King — Allumer
-matchit.zip — Match It — Excellent System
-matmania.zip — Mat Mania — Technos Japan
-mausuke.zip — Mausuke no Ojama the World — Namco
-maverik.zip — Maverik — Taito
-maxf_102.zip — Maximum Force — Atari Games
-maxforce.zip — Maximum Force — Atari Games
-maxrpm.zip — Max RPM — Bally/Sente
-maya.zip — Maya — Promat
-mayday.zip — Mayday — Hoei
-mayhem.zip — Mayhem 2002 — Irem
-maze.zip — Maze — Irem
-mazeinv.zip — Maze Invaders — Midway
-mazerbla.zip — Maze of the Blades — Allumer
-mblkdrgn.zip — Black Dragon — Capcom
-mbrush.zip — Minky Brush — Namco
-mcatadv.zip — Magical Cat Adventure — Wintechno
-mchampdx.zip — Multi Champ Deluxe — ESD
-mcontest.zip — Mahjong Contest — Dynax
-mdhorse.zip — Mad Horse — Taito
-mechatt.zip — Mechanized Attack — SNK
-medlanes.zip — Meadow’s Lanes — Meadows Games
-megab.zip — Mega Blast — Taito
-megablst.zip — Mega Blast — Taito
-megadbl.zip — Mega Double — Taito
-megadon.zip — Megadon — Centuri
-megaman.zip — Mega Man — Capcom
-megaman2.zip — Mega Man 2 — Capcom
-megaman3.zip — Mega Man 3 — Capcom
-megamn2a.zip — Mega Man 2 (alternate) — Capcom
-megatack.zip — Megatack — GamePlan
-megazone.zip — Mega Zone — Konami
-meikyuh.zip — Meikyuu Hunter G — Data East
-meltyb.zip — Melty Blood — Type-Moon / Ecole
-mercs.zip — Mercs — Capcom
-mercsu.zip — Mercs (US) — Capcom
-merlinmm.zip — Merlin’s Money Maze — Midway
-mermaid.zip — Mermaid — Sanritsu
-metafox.zip — Meta Fox — Nihon System
-metamrph.zip — Metamorphic Force — Konami
-metamrpj.zip — Metamorphic Force (Japan) — Konami
-meteor.zip — Meteor — Sobumi
-meteorp.zip — Meteor (prototype) — Sobumi
-metlhawk.zip — Metal Hawk — Namco
-metlfrzr.zip — Metal Freezer — Allumer
-metlsavr.zip — Metal Saver — Gaelco
-metmqstr.zip — Metamoqester — Banpresto
-metrocross.zip — Metro-Cross — Namco
-metrocrs.zip — Metro-Cross — Namco
-mexico86.zip — Mexico 86 — Tehkan
-mf_achas.zip — Magical Fish — Alpha Denshi
-mfunclub.zip — Mahjong Fun Club — Dynax
-mgakuen.zip — Mahjong Gakuen — Sanritsu
-mgakuen2.zip — Mahjong Gakuen 2 — Sanritsu
-mgcldate.zip — Magical Date — Taito
-mgcldtex.zip — Magical Date EX — Taito
-mgmen89.zip — Mahjong Men ’89 — Dynax
-mhavoc.zip — Major Havoc — Atari
-mhavocrv.zip — Major Havoc (Return to Vax) — Atari
-mia.zip — M.I.A.: Missing in Action — Konami
-mia2.zip — M.I.A.: Missing in Action (2 Players) — Konami
-miexchng.zip — Money Idol Exchanger — Face
-mightguy.zip — Mighty Guy — Nichibutsu
-mikie.zip — Mikie — Konami
-mikiehs.zip — Mikie (High School Graffiti) — Konami
-milliped.zip — Millipede — Atari
-millpac.zip — Millipede (Pac-Man hardware) — Atari
-militia.zip — Militia — Bootleg
-minasan.zip — Minasan no Okagesama Desu — Capcom
-minefld.zip — Minefield — Stern
-mineswpr.zip — Minesweeper — Taito
-minferno.zip — Inferno — Williams
-minigol2.zip — Mini Golf 2 — Unknown
-minigolf.zip — Mini Golf — Unknown
-minivadr.zip — Mini Vaders — Nichibutsu
-mirax.zip — Mirax — Proma
-mirninja.zip — Mirai Ninja — Namco
-missb2.zip — Miss Bingo 2 — Nichibutsu
-missile.zip — Missile Command — Atari
-missile2.zip — Missile Command (set 2) — Atari
-missw96.zip — Miss World ’96 — Comad
-missw96a.zip — Miss World ’96 (alternate) — Comad
-missw96b.zip — Miss World ’96 (bootleg) — Bootleg
-mizubaku.zip — Mizubaku Daibouken — Taito
-mj4simai.zip — Mahjong 4 Sisters — Maboroshi Ware
-mjanbari.zip — Mahjong Janbari — Nichibutsu
-mjangels.zip — Mahjong Angels — Nichibutsu
-mjcamera.zip — Mahjong Camera Kozou — Toshiba
-mjclinic.zip — Mahjong Clinic — Dynax
-mjderngr.zip — Mahjong Derringer — Nichibutsu
-mjdialq2.zip — Mahjong Dial Q2 — Video System
-mjdiplob.zip — Mahjong Diplomat — Nichibutsu
-mjdiplob2.zip — Mahjong Diplomat 2 — Nichibutsu
-mjfocus.zip — Mahjong Focus — Nichibutsu
-mjfriday.zip — Mahjong Friday — Dynax
-mjgottsu.zip — Mahjong Gottsu ee-kan! — Capcom
-mjhokite.zip — Mahjong Hoke Hite — Dynax
-mjifb.zip — Mahjong If...? — Dynax
-mjkinjas.zip — Mahjong Kinjirareta Asobi — Nichibutsu
-mjkjidai.zip — Mahjong Kyou Jidai — Nichibutsu
-mjkoiura.zip — Mahjong Koi Uranai — Nichibutsu
-mjlaman.zip — Mahjong La Man — Dynax
-mjleague.zip — Major League — Sega
-mjlstory.zip — Mahjong Love Story — Nichibutsu
-mjmaglmp.zip — Mahjong Magic Lamp — Dynax
-mjmania.zip — Mahjong Mania — Dynax
-mjmyorn2.zip — Mahjong Myoren 2 — Nichibutsu
-mjmyorn.zip — Mahjong Myoren — Nichibutsu
-mjmyuniv.zip — Mahjong My University — Nichibutsu
-mjmywrld.zip — Mahjong My World — Nichibutsu
-mjnanpas.zip — Mahjong Nanpa Story — Dynax
-mjnewman.zip — Mahjong Newman — Dynax
-mjprivat.zip — Mahjong Private — Nichibutsu
-mjreach.zip — Mahjong Reach — Nichibutsu
-mjreach1.zip — Mahjong Reach Ippatsu — Nichibutsu
-mjreveng.zip — Mahjong Revenge — Nichibutsu
-mjsenpuu.zip — Mahjong Senpuu — Nichibutsu
-mjshangh.zip — Mahjong Shanghai — Sunsoft
-mjsikakb.zip — Mahjong Shikaku — Nichibutsu
-mjsikaku.zip — Mahjong Shikaku 2 — Nichibutsu
-mjsister.zip — Mahjong Sisters — Nichibutsu
-mjsiyoub.zip — Mahjong Shiyou — Nichibutsu
-mjstars.zip — Mahjong Stars — Nichibutsu
-mjstgrid.zip — Mahjong Star Grid — Nichibutsu
-mjtensin.zip — Mahjong Tensin — Nichibutsu
-mjtoruru.zip — Mahjong Toruru — Nichibutsu
-mjvegasa.zip — Mahjong Vegas — Nichibutsu
-mjyarou.zip — Mahjong Yarou — Nichibutsu
-mjyarou2.zip — Mahjong Yarou 2 — Nichibutsu
-mjyougo.zip — Mahjong Yougo — Nichibutsu
-mjyuugi.zip — Mahjong Yuugi — Nichibutsu
-mjyuugia.zip — Mahjong Yuugi (Alternate) — Nichibutsu
-mjzoomin.zip — Mahjong Zoom In — Nichibutsu
-mk.zip — Mortal Kombat — Midway
-mk2.zip — Mortal Kombat II — Midway
-mk2chal.zip — Mortal Kombat II Challenger — Midway
-mk3.zip — Mortal Kombat 3 — Midway
-mk3p40.zip — Mortal Kombat 3 (prototype 4.0) — Midway
-mk3r10.zip — Mortal Kombat 3 (rev 1.0) — Midway
-mk3r20.zip — Mortal Kombat 3 (rev 2.0) — Midway
-mk3r20o.zip — Mortal Kombat 3 (rev 2.0, older) — Midway
-mk3r30.zip — Mortal Kombat 3 (rev 3.0) — Midway
-mk3r40.zip — Mortal Kombat 3 (rev 4.0) — Midway
-mk3r40o.zip — Mortal Kombat 3 (rev 4.0, older) — Midway
-mk3s.zip — Mortal Kombat 3 Special — Midway
-mk4.zip — Mortal Kombat 4 — Midway
-mk4b.zip — Mortal Kombat 4 (bootleg) — Bootleg
-mk4r11.zip — Mortal Kombat 4 (rev 1.1) — Midway
-mk4r20.zip — Mortal Kombat 4 (rev 2.0) — Midway
-mk4r31.zip — Mortal Kombat 4 (rev 3.1) — Midway
-mk4r40.zip — Mortal Kombat 4 (rev 4.0) — Midway
-mkla1.zip — Mortal Kombat (rev 1.0) — Midway
-mkla2.zip — Mortal Kombat (rev 2.0) — Midway
-mkla3.zip — Mortal Kombat (rev 3.0) — Midway
-mkla4.zip — Mortal Kombat (rev 4.0) — Midway
-mkla5.zip — Mortal Kombat (rev 5.0) — Midway
-mkprot.zip — Mortal Kombat (prototype) — Midway
-mkr4.zip — Mortal Kombat (rev 4.0, alternate) — Midway
-mktturbo.zip — Mortal Kombat Turbo — Midway
-mkx.zip — Mortal Kombat X — NetherRealm Studios
-mlander.zip — Mars Lander — Unknown
-mmatrix.zip — Mars Matrix — Capcom
-mmatrixj.zip — Mars Matrix (Japan) — Capcom
-mmaulers.zip — Monster Maulers — Konami
-mmaze.zip — Magical Maze — Unico
-mmehyou.zip — Mousou Meisou — Visco
-mmonkey.zip — Munch Mobile — SNK
-mmpanic.zip — Mouse Man Panic — ESD
-mnchmobl.zip — Munch Mobile — SNK
-moegonta.zip — Moero Gonta!! — Kaneko
-moeru.zip — Moeru!! — Nichibutsu
-moguchan.zip — Mogu-chan — Eastern Micro Electronics
-mole.zip — Mole Hunter — Sigma Enterprises
-momoko.zip — Momoko 120% — Jaleco
-monsterb.zip — Monster Bash — Sega
-montecar.zip — Monte Carlo — Atari
-monymony.zip — Mony Mony — Zaccaria
-moo.zip — Moo Mesa — Konami
-moonal2.zip — Moon Alien Part 2 — Nichibutsu
-moonaln.zip — Moon Alien — Nichibutsu
-moonbase.zip — Moon Base — Atari
-mooncrgx.zip — Moon Cresta (Galaxian hardware) — Nichibutsu
-mooncrs.zip — Moon Cresta — Nichibutsu
-mooncrsb.zip — Moon Cresta (bootleg) — Bootleg
-mooncrsg.zip — Moon Cresta (Gremlin) — Gremlin
-mooncrst.zip — Moon Cresta — Nichibutsu
-moonqsr.zip — Moon Quasar — Nichibutsu
-moonwlkb.zip — Moonwalker (bootleg) — Bootleg
-moonwlkj.zip — Moonwalker (Japan) — Sega
-moonwlka.zip — Moonwalker (Asia) — Sega
-moonwalk.zip — Moonwalker — Sega
-mooua.zip — Moo Mesa (US) — Konami
-moremore.zip — More More — SemiCom
-moremorp.zip — More More Plus — SemiCom
-mosaic.zip — Mosaic — F2 System
-mosaica.zip — Mosaic (alternate) — F2 System
-mosyougi.zip — Shougi — Jaleco
-motorace.zip — MotoRace USA — Irem
-motoraid.zip — Motor Raid — Sega
-motos.zip — Motos — Namco
-motoxgo.zip — Motocross Go! — Namco
-mouja.zip — Mouja — Etona
-mouser.zip — Mouser — UPL
-mpatrol.zip — Moon Patrol — Irem
-mpatrolw.zip — Moon Patrol (Williams) — Williams
-mpgolf.zip — Multi Player Golf — Taito
-mpumpkin.zip — Mad Pumpkin — Taito
-mranger.zip — Moon Ranger — Nichibutsu
-mrdig.zip — Mr. Dig — Falcon
-mrdo.zip — Mr. Do! — Universal
-mrdofix.zip — Mr. Do! (fixed) — Universal
-mrdot.zip — Mr. Dot — Universal
-mrdoy.zip — Mr. Do’s Castle — Universal
-mrdrillr.zip — Mr. Driller — Namco
-mrdrillr2.zip — Mr. Driller 2 — Namco
-mrdrilrg.zip — Mr. Driller G — Namco
-mrdrillrj.zip — Mr. Driller (Japan) — Namco
-mrdrillrx.zip — Mr. Driller X — Namco
-mrflea.zip — Mr. F. Lea — Pacific Novelty
-mrgoemon.zip — Mr. Goemon — Konami
-mrheli.zip — Mr. Heli — Irem
-mrjong.zip — Mr. Jong — Kiwako
-mrokumei.zip — Mr. Okumei — Nichibutsu
-mrtnt.zip — Mr. TNT — Telko
-mrviking.zip — Mister Viking — Sega
-mschamp.zip — Ms. Pac-Man Champion Edition — Midway
-mscoutm.zip — Mission: Cosmic Time — Nichibutsu
-msgunda1.zip — Mobile Suit Gundam — Banpresto
-msgundam.zip — Mobile Suit Gundam (alternate) — Banpresto
-msh.zip — Marvel Super Heroes — Capcom
-mshh.zip — Marvel Super Heroes (Hispanic) — Capcom
-mshj.zip — Marvel Super Heroes (Japan) — Capcom
-mshvsf.zip — Marvel Super Heroes vs. Street Fighter — Capcom
-mshvsfh.zip — Marvel Super Heroes vs. Street Fighter (Hispanic) — Capcom
-mshvsfj.zip — Marvel Super Heroes vs. Street Fighter (Japan) — Capcom
-msjiken.zip — Mahjong Police Jiken — Nichibutsu
-mslider.zip — Monster Slider — Capcom
-mslug.zip — Metal Slug — SNK
-mslug2.zip — Metal Slug 2 — SNK
-mslug3.zip — Metal Slug 3 — SNK
-mslug4.zip — Metal Slug 4 — Mega Enterprise / Noise Factory
-mslug5.zip — Metal Slug 5 — SNK Playmore
-mslugx.zip — Metal Slug X — SNK
-mspacman.zip — Ms. Pac-Man — Midway
-mspacmab.zip — Ms. Pac-Man (bootleg) — Bootleg
-mspacmat.zip — Ms. Pac-Man (Twin) — Midway
-mspacmnf.zip — Ms. Pac-Man (Namco) — Namco
-mspacmnn.zip — Ms. Pac-Man (Namco, new) — Namco
-mspuzzle.zip — Magical Spot Puzzle — Namco
-mstadium.zip — Main Stadium — Irem
-mstetris.zip — Magical Spot Tetris — Namco
-mstworld.zip — Monster World — Sega
-msword.zip — Magic Sword — Capcom
-mswordj.zip — Magic Sword (Japan) — Capcom
-mswordr1.zip — Magic Sword (rev 1) — Capcom
-msx.zip — MSX — Microsoft
-mtlchamp.zip — Martial Champion — Konami
-mtrap.zip — Mouse Trap — Exidy
-mtrspirit.zip — Martial Spirit — Konami
-mtrx.zip — Matrix — Namco
-mtwins.zip — Mega Twins — Capcom
-mugsmash.zip — Mug Smashers — Electronic Devices
-multchmp.zip — Multi Champ — ESD
-multmach.zip — Multi Machine — Sega
-musclhit.zip — Muscle Hit — Kaneko
-musobana.zip — Mushihime-sama — Cave
-mustang.zip — Mustang — NMK
-mustangb.zip — Mustang (bootleg) — Bootleg
-mutantf.zip — Mutant Fighter — Data East
-mutnat.zip — Mutation Nation — SNK
-mvsc.zip — Marvel vs. Capcom — Capcom
-mvscj.zip — Marvel vs. Capcom (Japan) — Capcom
-mvscjr1.zip — Marvel vs. Capcom (Japan rev 1) — Capcom
-mwalk.zip — Michael Jackson’s Moonwalker — Sega
-mwalkbl.zip — Michael Jackson’s Moonwalker (bootleg) — Bootleg
-mwalkj.zip — Michael Jackson’s Moonwalker (Japan) — Sega
-mx5000.zip — MX5000 — Konami
-myangel.zip — Kosodate Quiz My Angel — Namco
-myangel2.zip — Kosodate Quiz My Angel 2 — Namco
-myangel3.zip — Kosodate Quiz My Angel 3 — Namco
-myfairld.zip — My Fair Lady — Nichibutsu
-myhero.zip — My Hero — Sega
-myheroj.zip — My Hero (Japan) — Sega
-mysticm.zip — Mystic Marathon — Williams
-mysticri.zip — Mystic Riders — Irem
-myststno.zip — Mystery Stones — Sega
-mystston.zip — Mystic Stones — Technos Japan
-mystwar.zip — Mystic Warriors — Konami
-mystwarr.zip — Mystic Warriors (Japan) — Konami
-mz2000.zip — MZ-2000 — Sharp
-nam1975.zip — NAM-1975 — SNK
-nametune.zip — Name That Tune — Bally/Sente
-naname.zip — Naname de Magic! — Atlus
-naname2.zip — Naname de Magic! II — Atlus
-narc.zip — NARC — Williams
-nastar.zip — Nastar — Taito
-nastarw.zip — Nastar Warrior — Taito
-natodef.zip — NATO Defense — Pacific Novelty
-natsuiro.zip — Natsuiro Mahjong — Video System
-naughtyb.zip — Naughty Boy — Jaleco
-navarone.zip — Navarone — Namco
-nbajam.zip — NBA Jam — Midway
-nbajamex.zip — NBA Jam Extreme — Acclaim
-nbajamr2.zip — NBA Jam (rev 2.0) — Midway
-nbajamte.zip — NBA Jam Tournament Edition — Midway
-nbamaxht.zip — NBA Maximum Hangtime — Midway
-nbbatman.zip — The Adventures of Batman & Robin — Konami
-ncombat.zip — Ninja Combat — ADK / SNK
-ncommand.zip — Ninja Commando — ADK / SNK
-ncv1.zip — Namco Classics Vol. 1 — Namco
-ncv2.zip — Namco Classics Vol. 2 — Namco
-nebulbee.zip — Nebulas Bee — Pacific Novelty
-nebulray.zip — Nebulas Ray — Namco
-neckneck.zip — Neck & Neck — Bally/Midway
-nekkyoku.zip — Nekkyoku Janshi — Video System
-nemesis.zip — Nemesis — Konami
-nemesuk.zip — Nemesis (UK) — Konami
-nemo.zip — Nemo — Capcom
-neobattl.zip — Neo Battles — SNK
-neobombe.zip — Neo Bomberman — Hudson / SNK
-neocup98.zip — Neo Cup ’98 — SNK
-neodrift.zip — Neo Drift Out — Visco
-neogeo.zip — Neo-Geo BIOS — SNK
-neomrdo.zip — Neo Mr. Do! — Visco
-neopong.zip — Neo Pong — Vision Electronics
-neothund.zip — Neo Thunder — SNK
-netchu.zip — Netchuu Pro Yakyuu — Konami
-netwars.zip — Net Wars — Midway
-newapunk.zip — New Apocalypse Punk — Atari
-newfant.zip — New Fantastic — Comad
-newpuckx.zip — New Puck-X — Namco
-newrally.zip — New Rally-X — Namco
-newsin7.zip — News in Seven — Taito
-newsin7a.zip — News in Seven (alt) — Taito
-newsin7b.zip — News in Seven (bootleg) — Bootleg
-ngpgal.zip — NGP Gal — SNK
-ngtbball.zip — NG T.Basketball — SNK
-ngtchase.zip — NG T.Chase — SNK
-nightlov.zip — Night Love — Nichibutsu
-nightstr.zip — Night Striker — Taito
-ninclown.zip — Ninja Clowns — Strata
-ninjak.zip — Ninja Kids — Taito
-ninjakd2.zip — Ninja-Kid II — UPL
-ninjakj.zip — Ninja-Kid — UPL
-ninjakun.zip — Ninja-Kun: Ashura no Shou — UPL
-ninjamst.zip — Ninja Master’s — ADK / SNK
-ninjaw.zip — The Ninja Warriors — Taito
-ninjemak.zip — Ninja Emaki — Nichibutsu
-nitd.zip — Nightmare in the Dark — Eleven / Gavaking
-nitrobal.zip — Nitro Ball — Data East
-nkdodge.zip — Nekketsu Dodgeball — Technos Japan
-nmg5.zip — Multi Game 5 — Bootleg
-nmouse.zip — Nyan Mouse — Taito
-nmsengen.zip — Nyan Musume Sengen — Nichibutsu
-nob.zip — NOB — Atlus
-nomnlnd.zip — No Man’s Land — Pacific Novelty
-nost.zip — Nostradamus — Face
-nostj.zip — Nostradamus (Japan) — Face
-nostk.zip — Nostradamus (Korea) — Face
-nouryoku.zip — Nouryoku Koujou Iinkai — Capcom
-nova2001.zip — Nova 2001 — UPL
-nprinces.zip — Ninja Princess — Sega
-nrallyx.zip — New Rally-X — Namco
-nrate.zip — Night Rate — Nichibutsu
-nrallyx.zip — New Rally-X — Namco
-ns8line.zip — NS8 Line — Nichibutsu
-nslasher.zip — Night Slashers — Data East
-nspirit.zip — Ninja Spirit — Irem
-nss.zip — Nintendo Super System — Nintendo
-nstocker.zip — Night Stocker — Bally/Midway
-ntopstar.zip — Ninja Top Star — Nichibutsu
-numanath.zip — Numan Athletics — Namco
-numanatj.zip — Numan Athletics (Japan) — Namco
-nunchaku.zip — Nunchaku — Sega
-nundam.zip — Nu Gundam — Banpresto
-nvs_mach.zip — Nintendo VS Mach Rider — Nintendo
-nwarr.zip — Night Warriors — Capcom
-nwarra.zip — Night Warriors (alt) — Capcom
-nyanpani.zip — Nyanpani — Taito
-nycaptor.zip — NY Captor — Taito
-nyny.zip — New York! New York! — Sigma Enterprises
-nzerotea.zip — Neo Zero Team — NMK
-offroad.zip — Ivan ‘Ironman’ Stewart’s Super Off Road — Leland Corporation
-offroadc.zip — Super Off Road: The Baja — Leland Corporation
-offroadt.zip — Off Road Challenge — Midway
-offtwall.zip — Off the Wall — Atari Games
-offtwalc.zip — Off the Wall (cocktail) — Atari Games
-ogonsiro.zip — Ogonsiro — Taito
-ohmygod.zip — Oh My God! — Atlus
-oigas.zip — Oigas — Kaneko
-ojanko2.zip — Ojanko Club 2 — Nichibutsu
-ojankoc.zip — Ojanko Club — Nichibutsu
-ojankohs.zip — Ojanko High School — Nichibutsu
-ojankoy.zip — Ojanko Young — Nichibutsu
-ojousan.zip — Ojousan — Nichibutsu
-olibochu.zip — Olibochu — Irem
-olympic.zip — Olympic Games — Konami
-olysoc92.zip — Olympic Soccer ’92 — Tecmo
-omega.zip — Omega — P & P Marketing
-omegaf.zip — Omega Fighter — UPL
-omegafs.zip — Omega Fighter Special — UPL
-omegrace.zip — Omega Race — Midway
-omegracb.zip — Omega Race (bootleg) — Bootleg
-omni.zip — Omni — Unknown
-ondarun.zip — On the Run — Gottlieb
-onetwo.zip — One Two — Irem
-onna34ro.zip — Onna Sanshirou — Sega
-openice.zip — 2 On 2 Open Ice Challenge — Midway
-opwolf.zip — Operation Wolf — Taito
-opwolf3.zip — Operation Wolf 3 — Taito
-opwolfu.zip — Operation Wolf (US) — Taito
-opwolfb.zip — Operation Wolf (bootleg) — Bootleg
-opwolfj.zip — Operation Wolf (Japan) — Taito
-orangec.zip — Orange Club — Excellent System
-orbit.zip — Orbit — Atari
-orbitron.zip — Orbitron — Signatron
-ordyne.zip — Ordyne — Namco
-orlegend.zip — Oriental Legend — IGS
-orlegndc.zip — Oriental Legend Special — IGS
-orunners.zip — OutRunners — Sega
-oscar.zip — Oscar — Data East
-osman.zip — Osman — Mitchell
-otatidai.zip — Otatidai — Video System
-othello.zip — Othello — Success
-othunder.zip — Operation Thunderbolt — Taito
-othundu.zip — Operation Thunderbolt (US) — Taito
-othunduo.zip — Operation Thunderbolt (US old) — Taito
-otoboke.zip — Otoboke Ninja Colosseum — UPL
-otonano.zip — Otona no Mahjong — Nichibutsu
-otwalls.zip — Out of This World — Midway
-ougonmus.zip — Ougon Musou Kyoku — CAVE
-outrun.zip — Out Run — Sega
-outruna.zip — Out Run (set a) — Sega
-outrunb.zip — Out Run (bootleg) — Bootleg
-outrun2.zip — OutRun 2 — Sega
-outrun2s.zip — OutRun 2 Special Tours — Sega
-outrun25.zip — OutRun 2.5 — Sega
-outzone.zip — Out Zone — Toaplan
-outzonea.zip — Out Zone (set a) — Toaplan
-overdriv.zip — Over Drive — Konami
-overtop.zip — Over Top — ADK / SNK
-ozmawars.zip — Ozma Wars — SNK
-ozmawrsa.zip — Ozma Wars (set a) — SNK
-ozon1.zip — Ozon I — Unknown
-p47.zip — P-47: The Phantom Fighter — Jaleco
-p47aces.zip — P-47 Aces — Jaleco
-pacapp.zip — Pac-Appli — Namco
-pacgal.zip — Pac-Gal — Namco (bootleg)
-pacheart.zip — Pac-Man (Hearts) — Namco (bootleg)
-pachifev.zip — Pachinko Fever — Heiwa
-pachiten.zip — Pachinko Tengoku — Marubeni
-pacland.zip — Pac-Land — Namco
-paclandj.zip — Pac-Land (Japan) — Namco
-paclandm.zip — Pac-Land (Midway) — Midway
-pacman.zip — Pac-Man — Namco
-pacmanbl.zip — Pac-Man (bootleg) — Bootleg
-pacmania.zip — Pac-Mania — Namco
-pacnpal.zip — Pac & Pal — Namco
-pacnpal2.zip — Pac & Pal 2 — Namco
-pacplus.zip — Pac-Man Plus — Bally/Midway
-paddlema.zip — Paddle Mania — SNK
-pafrica.zip — Safari Rally — SNK
-paintrlr.zip — Painter — Jaleco
-pairs.zip — Pairs — Comad
-palamed.zip — Palamedes — Taito
-pandoras.zip — Pandora’s Palace — Konami
-pang.zip — Pang — Mitchell
-pang3.zip — Pang! 3 — Mitchell
-pangb.zip — Pang (bootleg) — Bootleg
-pangbold.zip — Pang (bold) — Mitchell
-pangpang.zip — Pang Pang — Mitchell
-panic.zip — Panic — Sega
-panicbom.zip — Panic Bomber — Hudson
-panicstr.zip — Panic Street — Mitchell
-paperboy.zip — Paperboy — Atari Games
-paradise.zip — Paradise — Excellent System
-paranoia.zip — Paranoia — Taito
-parodius.zip — Parodius — Konami
-parodisj.zip — Parodius (Japan) — Konami
-party.zip — Party Time — Data East
-pasaden.zip — Pasadena — Mitchell
-passht.zip — Passing Shot — Sega
-passshtj.zip — Passing Shot (Japan) — Sega
-pastelgl.zip — Pastel Gal — Nichibutsu
-patapata.zip — Pata Pata Panic — Namco
-patimono.zip — Pati Monogatari — Capcom
-pbaction.zip — Pinball Action — Tehkan
-pbball.zip — Powerball — Midway
-pballoon.zip — Ponta Balloon — Namco
-pbancho.zip — Pachinko Bancho — Capcom
-pbillrd.zip — Pool Billiard — Namco
-pbillrd2.zip — Pool Billiard II — Namco
-pblbeach.zip — Pebble Beach — Taito
-pbobble.zip — Puzzle Bobble — Taito
-pbobble2.zip — Puzzle Bobble 2 — Taito
-pbobble3.zip — Puzzle Bobble 3 — Taito
-pbobble4.zip — Puzzle Bobble 4 — Taito
-pbobblel.zip — Puzzle Bobble (link) — Taito
-pbobblen.zip — Puzzle Bobble (new) — Taito
-pc_1942.zip — PC 1942 — Capcom
-pc_bball.zip — PC Basketball — Namco
-pc_bfght.zip — PC Battle Fight — Capcom
-pc_bstar.zip — PC Baseball Star — Namco
-pc_cntra.zip — PC Contra — Konami
-pc_cshwk.zip — PC Choplifter — Sega
-pc_cvnia.zip — PC Castlevania — Konami
-pc_dbldr.zip — PC Double Dribble — Konami
-pc_ddrgn.zip — PC Double Dragon — Technos Japan
-pc_drmro.zip — PC Dr. Mario — Nintendo
-pc_duckh.zip — PC Duck Hunt — Nintendo
-pc_ebike.zip — PC Excitebike — Nintendo
-pc_ftqst.zip — PC Fantasy Quest — Namco
-pc_gntlt.zip — PC Gauntlet — Atari
-pc_golf.zip — PC Golf — Nintendo
-pc_grdue.zip — PC Gradius — Konami
-pc_hgaly.zip — PC Hogan’s Alley — Nintendo
-pc_kngfu.zip — PC Kung Fu — Irem
-pc_mario.zip — PC Mario Bros. — Nintendo
-pc_miket.zip — PC Mike Tyson’s Punch-Out!! — Nintendo
-pc_mman3.zip — PC Mega Man 3 — Capcom
-pc_moglf.zip — PC Mini Golf — Nintendo
-pc_mtoid.zip — PC Metroid — Nintendo
-pc_ngaid.zip — PC Ninja Gaiden — Tecmo
-pc_pacma.zip — PC Pac-Man — Namco
-pc_pinbt.zip — PC Pinball — Nintendo
-pc_pwbld.zip — PC Power Blade — Taito
-pc_pwrst.zip — PC Pro Wrestling — Nintendo
-pc_radr2.zip — PC Rad Racer 2 — Nintendo
-pc_radrc.zip — PC Rad Racer — Nintendo
-pc_rcpam.zip — PC RC Pro-Am — Nintendo
-pc_rkats.zip — PC Rockman’s Adventure — Capcom
-pc_rnatk.zip — PC Rush’n Attack — Konami
-pc_rrngr.zip — PC Rescue Rangers — Capcom
-pc_rygar.zip — PC Rygar — Tecmo
-pc_sjetm.zip — PC St. Jetman — Nintendo
-pc_smb.zip — PC Super Mario Bros. — Nintendo
-pc_smb2.zip — PC Super Mario Bros. 2 — Nintendo
-pc_smb3.zip — PC Super Mario Bros. 3 — Nintendo
-pc_suprc.zip — PC Super RC Pro-Am — Nintendo
-pc_tbowl.zip — PC Tecmo Bowl — Tecmo
-pc_tenis.zip — PC Tennis — Nintendo
-pc_tkfld.zip — PC Track & Field — Konami
-pc_tmnt.zip — PC Teenage Mutant Ninja Turtles — Konami
-pc_tmnt2.zip — PC Teenage Mutant Ninja Turtles 2 — Konami
-pc_trjan.zip — PC Trojan — Capcom
-pc_vball.zip — PC Volleyball — Technos Japan
-pc_wcup.zip — PC World Cup Soccer — Nintendo
-pc_wgnmn.zip — PC Wild Gunman — Nintendo
-pc_ynoid.zip — PC Yo! Noid — Capcom
-pclubys.zip — Print Club Yoshimoto Shinkigeki — Atlus
-pclubyo.zip — Print Club Yoshimoto — Atlus
-pclubyo2.zip — Print Club Yoshimoto 2 — Atlus
-pclubyo3.zip — Print Club Yoshimoto 3 — Atlus
-pclubys2.zip — Print Club Yoshimoto Shinkigeki 2 — Atlus
-peekaboo.zip — Peek-A-Boo! — Comad
-peepshow.zip — Peep Show — Comad
-peggle.zip — Peggle — Namco
-pegglet.zip — Peggle Twin — Namco
-penbros.zip — Penguin Bros. — Subsino
-penfan.zip — Penguin Fantasy — Excellent System
-pengadvb.zip — Penguin Adventure (bootleg) — Bootleg
-pengadv.zip — Penguin Adventure — Konami
-penguin.zip — Penguin-Kun Wars — UPL
-penky.zip — Penky — Taito
-penta.zip — Penta — Stern
-pepsiman.zip — Pepsiman — Saurus
-perfect.zip — Perfect Soldiers — Konami
-perfrman.zip — Performan — Jaleco
-perfrmanu.zip — Performan (US) — Jaleco
-pestplce.zip — Pest Place — Sigma Enterprises
-peterpak.zip — Peter Pack Rat — Atari Games
-peterpka.zip — Peter Pack Rat (alternate) — Atari Games
-pettanp.zip — Pettan Pyuu — Sun Electronics
-pfghtj.zip — Psychic Fighter — Taito
-pgear.zip — Power Gear — Capcom
-pgm.zip — PolyGame Master (PGM) — IGS
-pgm2.zip — PolyGame Master 2 (PGM2) — IGS
-pgmdemo.zip — PGM Demo — IGS
-phantasm.zip — Phantasm — Jaleco
-phantasmj.zip — Phantasm (Japan) — Jaleco
-phantom2.zip — Phantom II — Midway
-phantoma.zip — Phantom Air Mission — NMK
-phantom.zip — Phantom — Irem
-phelios.zip — Phelios — Namco
-phoenix.zip — Phoenix — Amstar
-phoenix3.zip — Phoenix III — Amstar
-phoenixb.zip — Phoenix (bootleg) — Bootleg
-phoenixc.zip — Phoenix (Centuri) — Centuri
-phoenixj.zip — Phoenix (Japan) — Amstar
-phozon.zip — Phozon — Namco
-pickin.zip — Pickin’ — Sega
-pignewt.zip — Pig Newton — Sega
-pigout.zip — Pig Out: Dine Like a Swine! — Leland Corporation
-pigskin.zip — Pigskin 621AD — Midway
-pinbo.zip — Pinbo — Jaleco
-pinbos.zip — Pinbos (Special) — Jaleco
-pingpong.zip — Konami’s Ping Pong — Konami
-pinkswts.zip — Pink Sweets — Cave
-pipedrm.zip — Pipe Dream — Video System
-pipibibs.zip — Pipi & Bibis — Toaplan
-piratetr.zip — Pirate Treasure — Data East
-pirates.zip — Pirates — NIX
-piratesh.zip — Pirates (bootleg) — Bootleg
-pisces.zip — Pisces — Orca
-piscesb.zip — Pisces (bootleg) — Bootleg
-pistoldm.zip — Pistol Daimyo no Bouken — Namco
-pitboss.zip — Pit Boss — Merit Industries
-pitfall2.zip — Pitfall II — Sega
-pitfigh3.zip — Pit-Fighter (rev 3) — Atari Games
-pitfigh4.zip — Pit-Fighter (rev 4) — Atari Games
-pitfight.zip — Pit-Fighter — Atari Games
-pitnrun.zip — Pit & Run — Taito
-pkgnsh.zip — Pocket Gyn Shinri — Taito
-pkgnsh2.zip — Pocket Gyn Shinri 2 — Taito
-pkgnsh3.zip — Pocket Gyn Shinri 3 — Taito
-pkgnsh4.zip — Pocket Gyn Shinri 4 — Taito
-pkgnsh5.zip — Pocket Gyn Shinri 5 — Taito
-pkgnsh6.zip — Pocket Gyn Shinri 6 — Taito
-pkgnsh7.zip — Pocket Gyn Shinri 7 — Taito
-pkgnsh8.zip — Pocket Gyn Shinri 8 — Taito
-pkgnsh9.zip — Pocket Gyn Shinri 9 — Taito
-pkgnsha.zip — Pocket Gyn Shinri A — Taito
-pkgnshb.zip — Pocket Gyn Shinri B — Taito
-pkgnshc.zip — Pocket Gyn Shinri C — Taito
-pkgnshd.zip — Pocket Gyn Shinri D — Taito
-pkgnshe.zip — Pocket Gyn Shinri E — Taito
-pkgnshf.zip — Pocket Gyn Shinri F — Taito
-pkgnshg.zip — Pocket Gyn Shinri G — Taito
-pkgnshh.zip — Pocket Gyn Shinri H — Taito
-pkgnshi.zip — Pocket Gyn Shinri I — Taito
-pkgnshj.zip — Pocket Gyn Shinri J — Taito
-pkgnshk.zip — Pocket Gyn Shinri K — Taito
-pkgnshl.zip — Pocket Gyn Shinri L — Taito
-pkgnshm.zip — Pocket Gyn Shinri M — Taito
-pkgnshn.zip — Pocket Gyn Shinri N — Taito
-pkgnsho.zip — Pocket Gyn Shinri O — Taito
-pkgnshp.zip — Pocket Gyn Shinri P — Taito
-pkgnshq.zip — Pocket Gyn Shinri Q — Taito
-pkgnshr.zip — Pocket Gyn Shinri R — Taito
-pkgnshs.zip — Pocket Gyn Shinri S — Taito
-pkgnsht.zip — Pocket Gyn Shinri T — Taito
-pkgnshu.zip — Pocket Gyn Shinri U — Taito
-pkgnshv.zip — Pocket Gyn Shinri V — Taito
-pkgnshw.zip — Pocket Gyn Shinri W — Taito
-pkgnshx.zip — Pocket Gyn Shinri X — Taito
-pkgnshy.zip — Pocket Gyn Shinri Y — Taito
-pkgnshz.zip — Pocket Gyn Shinri Z — Taito
-pktgaldx.zip — Pocket Gal Deluxe — Data East
-pktgaldxa.zip — Pocket Gal Deluxe (alternate) — Data East
-pktgaldxb.zip — Pocket Gal Deluxe (bootleg) — Bootleg
-pktgaldxj.zip — Pocket Gal Deluxe (Japan) — Data East
-pkunwar.zip — Penguin-Kun Wars — UPL
-pkunwarj.zip — Penguin-Kun Wars (Japan) — UPL
-platoon.zip — Platoon — Ocean / Data East
-playball.zip — Play Ball — Midway
-pleiads.zip — Pleiads — Tehkan
-pleiadbl.zip — Pleiads (bootleg) — Bootleg
-plgirls.zip — Play Girls — Hot-B
-plgirls2.zip — Play Girls 2 — Hot-B
-plotting.zip — Plotting — Taito
-plumppop.zip — Plump Pop — Taito
-plusalph.zip — Plus Alpha — Jaleco
-pnickj.zip — Pnickies (Japan) — Capcom
-poitto.zip — Poitto! — Metro
-poizone.zip — Poizone — Konami
-pokechmp.zip — Pocket Championship — Sega
-pokonyan.zip — Pokonyan! Balloon — Sigma Enterprises
-polaris.zip — Polaris — Taito
-polarisa.zip — Polaris (set a) — Taito
-polepos.zip — Pole Position — Namco
-polepos1.zip — Pole Position (set 1) — Namco
-polepos2.zip — Pole Position II — Namco
-poleposn.zip — Pole Position (Namco) — Namco
-policeto.zip — Police Town — Taito
-policetr.zip — Police Trainer — P&P Marketing
-pollux.zip — Pollux — Dooyong
-polluxa.zip — Pollux (alternate) — Dooyong
-polyplay.zip — Poly Play — VEB Polytechnik
-pompingw.zip — Pomping World — Mitchell
-ponchin.zip — Ponchin — Video System
-ponchina.zip — Ponchin (Japan) — Video System
-ponpoko.zip — Ponpoko — Sigma Enterprises
-pontoon.zip — Pontoon — Nichibutsu
-poolshrk.zip — Pool Shark — Atari
-pooyan.zip — Pooyan — Konami
-pooyans.zip — Pooyan (Stern) — Stern
-popbounc.zip — Pop ‘n Bounce — Video System
-popflame.zip — Pop Flamer — Jaleco
-popnpop.zip — Pop’n Pop — Taito
-popper.zip — Popper — Sega
-popspops.zip — Pop’s Pops — Taito
-portman.zip — Port Man — Nova Games
-portrait.zip — Portraits — Taito
-potogold.zip — Pot of Gold — GamePlan
-potopoto.zip — Poto Poto — Sega
-poundfor.zip — Pound for Pound — Capcom
-pow.zip — P.O.W.: Prisoners of War — SNK
-powerdrv.zip — Power Drive — Bally/Midway
-powerins.zip — Power Instinct — Atlus
-powrplay.zip — Power Play — Midway
-ppan.zip — Pin Pan — Taito
-ppcar.zip — Power PC Car — Sega
-ppchamp.zip — Ping Pong Champion — Taito
-ppking.zip — Ping Pong King — Taito
-ppmast.zip — Ping Pong Master — Taito
-ppong.zip — Ping Pong — Taito
-pprobe.zip — Probe — Taito
-prehisle.zip — Prehistoric Isle — SNK
-preisle2.zip — Prehistoric Isle 2 — Yumekobo / SNK
-primglex.zip — Prim Girls Ex — Nichibutsu
-primrag2.zip — Prime Rage 2 — Taito
-primrage.zip — Primal Rage — Atari
-prmtmfgt.zip — Prmt Mfgt — Taito
-prmtmfgtj.zip — Prmt Mfgt (Japan) — Taito
-profpac.zip — Professor Pac-Man — Midway
-progress.zip — Progress — Taito
-propcycl.zip — Prop Cycle — Namco
-prosoccr.zip — Pro Soccer — Taito
-prosport.zip — Pro Sports — Taito
-prtytime.zip — Party Time: Gonta the Diver II — Data East
-psailor1.zip — Pretty Sailor 1 — Nichibutsu
-psailor2.zip — Pretty Sailor 2 — Nichibutsu
-psarc.zip — PS Arcade — Sony
-pshark.zip — Prehistoric Shark — Taito
-psoldier.zip — Psychic Soldier — SNK
-pspikes.zip — Power Spikes — Video System
-pspikes2.zip — Power Spikes II — Video System
-pspikesa.zip — Power Spikes (set a) — Video System
-pstadium.zip — Pro Stadium — Taito
-psyforce.zip — Psychic Force — Taito
-psyforcj.zip — Psychic Force (Japan) — Taito
-psyvaria.zip — Psyvariar — Success
-psyvarrv.zip — Psyvariar Revision — Success
-ptblank.zip — Point Blank — Namco
-ptblank2.zip — Point Blank 2 — Namco
-ptblank3.zip — Point Blank 3 — Namco
-puchicar.zip — Puchi Carat — Taito
-puckman.zip — Puck Man — Namco
-puckmana.zip — Puck Man (set a) — Namco
-puckmod.zip — Puck Mod — Namco
-pulirula.zip — PuLiRuLa — Taito
-pulirulj.zip — PuLiRuLa (Japan) — Taito
-pulsar.zip — Pulsar — Sega
-pulstar.zip — Pulstar — Aicom / SNK
-punchout.zip — Punch-Out!! — Nintendo
-punisher.zip — The Punisher — Capcom
-punishrj.zip — The Punisher (Japan) — Capcom
-punkshot.zip — Punk Shot — Konami
-punkshot2.zip — Punk Shot (2 Players) — Konami
-pururun.zip — Pururun — Metro
-pushman.zip — Pushman — SunA
-puyopuy2.zip — Puyo Puyo 2 — Compile
-puyopuyo.zip — Puyo Puyo — Compile
-puzlclub.zip — Puzzle Club — Taito
-puzldama.zip — Puzzle Dama — Konami
-puzloop.zip — Puzz Loop — Mitchell
-puzzledp.zip — Puzzle de Pon! — Visco / SNK
-puzzli.zip — Puzzli — Metro
-pwrgoal.zip — Power Goal — Konami
-pwrinst2.zip — Power Instinct 2 — Atlus
-pyros.zip — Pyros — Taito
-pzlbowl.zip — Puzzle Bobble Bowling — Taito
-qad.zip — Quiz & Dragons — Capcom
-qadj.zip — Quiz & Dragons (Japan) — Capcom
-qadrt.zip — Quiz & Dragons (US rental) — Capcom
-qb3.zip — QB-3 — Rock-Ola
-qbert.zip — Qbert — Gottlieb
-qberta.zip — Qbert (alternate) — Gottlieb
-qbertj.zip — Qbert (Japan) — Gottlieb
-qberttst.zip — Qbert Test — Gottlieb
-qbtrshot.zip — Q*bert’s Qubes — Gottlieb
-qcrayon.zip — Quiz Crayon Shin-chan — Bandai
-qcrayon2.zip — Quiz Crayon Shin-chan 2 — Bandai
-qdrmfgp.zip — Quiz Dream Fantasy — Namco
-qdrmfgp2.zip — Quiz Dream Fantasy 2 — Namco
-qgh.zip — Quiz Gakumon no Susume — Taito
-qix.zip — Qix — Taito
-qix2.zip — Qix II — Taito
-qixa.zip — Qix (set 2) — Taito
-qixb.zip — Qix (bootleg) — Bootleg
-qjinsei.zip — Quiz Jinsei Gekijou — Taito
-qjinsei2.zip — Quiz Jinsei Gekijou 2 — Taito
-qjpop.zip — Quiz Japan Olympic Special — Namco
-qjpop2.zip — Quiz Japan Olympic Special 2 — Namco
-qmegamis.zip — Quiz Megamisama — Atlus
-qndream.zip — Quiz Nanairo Dreams — Capcom
-qrouka.zip — Quiz Rouka Ni Tattenasai — Taito
-qsangoku.zip — Quiz Sangokushi — Capcom
-qsangoku2.zip — Quiz Sangokushi 2 — Capcom
-qshisen.zip — Quiz Shisen-sho — Atlus
-qtheater.zip — Quiz Theater — Namco
-qtono1.zip — Quiz Tonosama no Yabou — Capcom
-qtono2.zip — Quiz Tonosama no Yabou 2 — Capcom
-qtorimon.zip — Quiz Torimonochou — Capcom
-quantum.zip — Quantum — Atari
-quantump.zip — Quantum (prototype) — Atari
-quaquiz2.zip — Quiz Quiz 2 — Namco
-quarterb.zip — Quarterback — Leland Corporation
-quartet.zip — Quartet — Sega
-quartet2.zip — Quartet 2 — Sega
-quarterh.zip — Quarter Horse — Strata/Incredible Technologies
-quarterha.zip — Quarter Horse (alt) — Strata/Incredible Technologies
-quarth.zip — Quarth — Konami
-quasar.zip — Quasar — Zaccaria
-quester.zip — Quester — Namco
-quiz18k.zip — Quiz 18-Kin — Taito
-quiz365.zip — Quiz 365 — Namco
-quiz365t.zip — Quiz 365 Themed — Namco
-quizchq.zip — Quiz Chikyu Boueigun — Namco
-quizchq2.zip — Quiz Chikyu Boueigun 2 — Namco
-quizdais.zip — Quiz Daisousa — Namco
-quizdaisk.zip — Quiz Daisousa Kids — Namco
-quizdna.zip — Quiz DNA no Hanran — Namco
-quizf1.zip — Quiz F-1 1,2 Finish — Namco
-quizhono.zip — Quiz Honoo no Keiken — Namco
-quizhono2.zip — Quiz Honoo no Keiken 2 — Namco
-quizhq.zip — Quiz HQ — Namco
-quizhq2.zip — Quiz HQ 2 — Namco
-quizkof.zip — Quiz King of Fighters — SNK
-quizkofk.zip — Quiz King of Fighters (Korean) — SNK
-quizmeku.zip — Quiz Meitantei Club — Namco
-quizmoon.zip — Quiz Moon — Namco
-quizmoon2.zip — Quiz Moon 2 — Namco
-quizmstr.zip — Quiz Master — Namco
-quizqgd.zip — Quiz Quiz Grand — Namco
-quizqgd2.zip — Quiz Quiz Grand 2 — Namco
-quiztou.zip — Quiz Tougeki — Namco
-quiztou2.zip — Quiz Tougeki 2 — Namco
-quiztvqq.zip — Quiz TV QQ — Namco
-quiztvqq2.zip — Quiz TV QQ 2 — Namco
-quizzic.zip — Quizzic — Namco
-qwak.zip — Qwak — Jaleco
-qzchikyu.zip — Quiz Chikyu Boueigun — Namco
-qzchikya.zip — Quiz Chikyu Boueigun (Japan) — Namco
-qzkklogy.zip — Quiz Koko Logy — Taito
-qzkklgy2.zip — Quiz Koko Logy 2 — Taito
-qzquest.zip — Quiz Quest — Namco
-qzshowby.zip — Quiz Show by — Namco
-qzshowb2.zip — Quiz Show by 2 — Namco
-r2dx_v33.zip — R-Type II DX — Irem
-rabiolep.zip — Rabio Lepus — Video System
-racedriv.zip — Race Drivin’ — Atari Games
-racedrivb.zip — Race Drivin’ (cockpit) — Atari Games
-racedrivc.zip — Race Drivin’ (compact) — Atari Games
-racedrivg.zip — Race Drivin’ (grand prix) — Atari Games
-rachero.zip — Racin’ Hero — Sega
-racingb.zip — Racing Beat — Taito
-racingbj.zip — Racing Beat (Japan) — Taito
-rackemup.zip — Rack ‘Em Up — Konami
-racknrol.zip — Rack ‘n Roll — Taito
-radarzon.zip — Radar Zone — Irem
-radarzp.zip — Radar Zone (prototype) — Irem
-radarscp.zip — Radar Scope — Nintendo
-radikalb.zip — Radikal Bikers — Gaelco
-radm.zip — R.A.D. Mobile — Sega
-radr.zip — Rad Racer — Nintendo
-radr2.zip — Rad Racer 2 — Nintendo
-radr2c.zip — Rad Racer 2 (cockpit) — Nintendo
-raiden.zip — Raiden — Seibu Kaihatsu
-raiden2.zip — Raiden II — Seibu Kaihatsu
-raiden2a.zip — Raiden II (alternate) — Seibu Kaihatsu
-raiden2b.zip — Raiden II (another) — Seibu Kaihatsu
-raiden3.zip — Raiden III — Moss
-raidenk.zip — Raiden (Korea) — Seibu Kaihatsu
-raident.zip — Raiden (Taiwan) — Seibu Kaihatsu
-raiga.zip — Raiga — Taito
-raimais.zip — Raimais — Taito
-rainbow.zip — Rainbow Islands — Taito
-rainbowa.zip — Rainbow Islands (alternate) — Taito
-rainbowo.zip — Rainbow Islands (old) — Taito
-rallybik.zip — Rally Bike — Toaplan
-rallys.zip — Rallys — Taito
-rallyx.zip — Rally-X — Namco
-rallyxa.zip — Rally-X (alternate) — Namco
-rambo3.zip — Rambo III — Sega
-rambo3p.zip — Rambo III (prototype) — Sega
-rampage.zip — Rampage — Bally/Midway
-rampart.zip — Rampart — Atari Games
-rampart2.zip — Rampart (2 players) — Atari Games
-ramprage.zip — Rampage Rage — Bally/Midway
-raphero.zip — Rapid Hero — NMK
-rastan.zip — Rastan — Taito
-rastanu.zip — Rastan (US) — Taito
-rastanu2.zip — Rastan (alternate) — Taito
-rastsaga.zip — Rastan Saga — Taito
-rastsag2.zip — Rastan Saga II — Taito
-rats.zip — Rats — Sega
-rayforce.zip — RayForce — Taito
-raystorm.zip — RayStorm — Taito
-razmataz.zip — Razmataz — Sega
-rbff1.zip — Real Bout Fatal Fury — SNK
-rbff2.zip — Real Bout Fatal Fury 2 — SNK
-rbff2k.zip — Real Bout Fatal Fury 2 (Korean) — SNK
-rbffspec.zip — Real Bout Fatal Fury Special — SNK
-rbibb.zip — Relief Pitcher — Atari Games
-rbtapper.zip — Root Beer Tapper — Bally/Midway
-recalhorn.zip — Recalhorn — Taito
-recordbr.zip — Recordbreaker — Seta
-redalert.zip — Red Alert — Irem
-redbaron.zip — Red Baron — Atari
-redclash.zip — Red Clash — Tehkan
-redclask.zip — Red Clash (Kaneko) — Kaneko
-redhawk.zip — Red Hawk — Afega
-redlin2p.zip — Redline Racer (2 Players) — Strata/Incredible Technologies
-redrobin.zip — Red Robin — Epos Corporation
-redufo.zip — Red UFO — Taito
-regulus.zip — Regulus — Sega
-reguluso.zip — Regulus (old) — Sega
-reikaids.zip — Rei-Kai Doushi — Banpresto
-relief.zip — Relief Pitcher — Atari Games
-renaiclb.zip — Ren’ai Club — Fujic
-renegade.zip — Renegade — Technos Japan
-repulse.zip — Repulse — Sega
-rescraid.zip — Rescue Raider — Taito
-rescue.zip — Rescue — Stern Electronics
-resdnt.zip — Resident — Taito
-revenger.zip — Revenger — Taito
-revx.zip — Revolution X — Midway
-rezon.zip — Rezon — Allumer
-rf2.zip — RF2 — Konami
-ribbit.zip — Ribbit! — Taito
-ridefgt.zip — Riding Fight — Taito
-ridgerac.zip — Ridge Racer — Namco
-ridhero.zip — Riding Hero — SNK
-ridheroh.zip — Riding Hero (home) — SNK
-rimrockn.zip — Rim Rockin’ Basketball — Incredible Technologies
-ringdest.zip — Ring Dest — Taito
-ringfgt.zip — Ring Fighter — Data East
-ringking.zip — Ring King — Data East
-ringohja.zip — Ring no Oja — Taito
-riot.zip — Riot — Seibu Kaihatsu
-riotcity.zip — Riot City — Sega
-ripcord.zip — Rip Cord — Exidy
-ripoff.zip — Rip Off — Cinematronics
-riskchal.zip — Risky Challenge — Taito
-rjammer.zip — Rolling Jammer — Kaneko
-rmpgwt.zip — Rampage World Tour — Midway
-roadblst.zip — RoadBlasters — Atari Games
-roadblst2.zip — RoadBlasters (upright) — Atari Games
-roadf.zip — Road Fighter — Konami
-roadriot.zip — Road Riot 4WD — Atari Games
-roadrunm.zip — Road Runner — Atari Games
-roadrunn.zip — Road Runner (set 2) — Atari Games
-robby.zip — Robby Roto — Bally/Midway
-roboarmy.zip — Robo Army — SNK
-robocop.zip — RoboCop — Data East
-robocop2.zip — RoboCop 2 — Data East
-robocopb.zip — RoboCop (bootleg) — Bootleg
-robocopj.zip — RoboCop (Japan) — Data East
-robokid.zip — Atomic Robo-Kid — UPL
-robotbwl.zip — Robot Bowl — Exidy
-robotron.zip — Robotron: 2084 — Williams Electronics
-robowres.zip — Robo Wres 2001 — Technos Japan
-rockclim.zip — Rock Climber — Taito
-rockmanj.zip — Rockman: The Power Battle (Japan) — Capcom
-rockn.zip — Rock’n Tread — Excellent System
-rockrage.zip — Rock Rage — Konami
-rocnrope.zip — Roc’n Rope — Konami
-rodland.zip — Rod-Land — Jaleco
-rodlndjb.zip — Rod-Land (Japan bootleg) — Jaleco
-rohga.zip — Rohga Armor Force — Data East
-roldfrog.zip — Roldfrog — Taito
-rollerg.zip — Rollergames — Konami
-rollingc.zip — Rolling Crash — Nichibutsu
-rollrace.zip — Roll Race — Taito
-rompers.zip — Rompers — Namco
-ronjan.zip — Ron Jan — Taito
-rotd.zip — Rage of the Dragons — Evoga / SNK
-roughrac.zip — Rough Racer — Sega
-roundup.zip — Round-Up — Taito
-route16.zip — Route 16 — Sun Electronics
-routex.zip — Route X — Data East
-royalmah.zip — Royal Mahjong — Nichibutsu
-royalpk2.zip — Royal Poker 2 — Taito
-royalpok.zip — Royal Poker — Taito
-royalrd2.zip — Royal Road 2 — Taito
-royalrid.zip — Royal Rider — Taito
-rranger.zip — Rough Ranger — SunA
-rrreveng.zip — Rail Chase — Sega
-rshark.zip — R-Shark — Dooyong
-rthunder.zip — Rolling Thunder — Namco
-rthun2.zip — Rolling Thunder 2 — Namco
-rthun2j.zip — Rolling Thunder 2 (Japan) — Namco
-rthun2u.zip — Rolling Thunder 2 (US) — Namco
-rtype.zip — R-Type — Irem
-rtype2.zip — R-Type II — Irem
-rtype2j.zip — R-Type II (Japan) — Irem
-rtypeleo.zip — R-Type Leo — Irem
-rtypeu.zip — R-Type (US) — Irem
-rugrats.zip — Rug Rats — Taito
-rumblef.zip — Rumble Fish — Dimps
-rumblef2.zip — Rumble Fish 2 — Dimps
-runark.zip — Runark — Sega
-runaway.zip — Run Away — Atari
-rundeep.zip — Run Deep — Taito
-rungun.zip — Run and Gun — Konami
-rungun2.zip — Run and Gun 2 — Konami
-rungun2j.zip — Run and Gun 2 (Japan) — Konami
-rungun2u.zip — Run and Gun 2 (US) — Konami
-rungunua.zip — Run and Gun (US alt) — Konami
-rushcrsh.zip — Rush & Crash — Capcom
-rushhero.zip — Rush Hero — Taito
-rvschool.zip — Rival Schools — Capcom
-rygar.zip — Rygar — Tecmo
-rygarj.zip — Rygar (Japan) — Tecmo
-ryujin.zip — Ryujin — Taito
-ryukendn.zip — Ninja Spirit — Irem
-ryukyu.zip — Ryukyu — Taito
-s1945.zip — Strikers 1945 — Psikyo
-s1945ii.zip — Strikers 1945 II — Psikyo
-s1945iii.zip — Strikers 1945 III — Psikyo
-sabotenb.zip — Saboten Bombers — NMK
-sadari.zip — Sadari — Afega
-safari.zip — Safari — SNK
-safarir.zip — Safari Rally — SNK
-sailormn.zip — Sailor Moon — Banpresto
-sailormn2.zip — Sailor Moon 2 — Banpresto
-saiyugb1.zip — Sai Yu Gou Ma Roku (bootleg 1) — Video System
-saiyugb2.zip — Sai Yu Gou Ma Roku (bootleg 2) — Video System
-saiyugou.zip — Sai Yu Gou Ma Roku — Video System
-salamand.zip — Salamander — Konami
-salamanj.zip — Salamander (Japan) — Konami
-salamndr.zip — Salamander (Europe) — Konami
-samsho.zip — Samurai Shodown — SNK
-samsho2.zip — Samurai Shodown II — SNK
-samsho3.zip — Samurai Shodown III — SNK
-samsho4.zip — Samurai Shodown IV — SNK
-samsho5.zip — Samurai Shodown V — SNK
-samsho5b.zip — Samurai Shodown V (bootleg) — SNK
-samsho5s.zip — Samurai Shodown V Special — SNK
-sandscrp.zip — Sand Scorpion — Face
-sarge.zip — Sarge — Bally/Midway
-sarukani.zip — Saru Kani Gassen — Taito
-sassisu.zip — Sasuke vs. Commander — SNK
-satansat.zip — Satan of Saturn — SNK
-saturn.zip — Saturn — Jaleco
-sauro.zip — Sauro — Tecfri
-savagere.zip — Savage Reign — SNK
-sb2003.zip — Super Bishi Bashi Champ 2003 — Konami
-sb2003a.zip — Super Bishi Bashi Champ 2003 (alt) — Konami
-sbagman.zip — Super Bagman — Valadon Automation
-sbagmans.zip — Super Bagman (set 2) — Valadon Automation
-sbasketb.zip — Super Basketball — Konami
-sbasketo.zip — Super Basketball (old) — Konami
-sbbros.zip — Snow Bros. — Toaplan
-sbm.zip — Super Breakout — Atari
-sboblbob.zip — Super Bobble Bobble — Taito
-sbowling.zip — Strike Bowling — Taito
-sbrkout.zip — Super Breakout — Atari
-scandal.zip — Scandal — Mitchell
-scandalm.zip — Scandal Mahjong — Mitchell
-scfinals.zip — Soccer Finals — Data East
-schamp.zip — Super Champion Baseball — Sega
-schaser.zip — Space Chaser — Taito
-sci.zip — Special Criminal Investigation — Taito
-scia.zip — Special Criminal Investigation (alternate) — Taito
-scij.zip — Special Criminal Investigation (Japan) — Taito
-scion.zip — Scion — Seibu Denshi
-scobra.zip — Super Cobra — Konami
-scobrab.zip — Super Cobra (bootleg) — Bootleg
-scontra.zip — Super Contra — Konami
-scorp.zip — Scorpion — Zaccaria
-scorpion.zip — Scorpion (alternate) — Zaccaria
-scramble.zip — Scramble — Konami
-scramblb.zip — Scramble (bootleg) — Bootleg
-scrambls.zip — Scramble Spirits — Sega
-screwloo.zip — Screw Loose — Bally/Midway
-scudhamm.zip — Scud Hammer — Taito
-sdgndmps.zip — SD Gundam Psycho Salamander — Banpresto
-sdgndmrb.zip — SD Gundam Rainbow Buster — Banpresto
-sdgndmsm.zip — SD Gundam Sangokushi Rainbow — Banpresto
-sdtennis.zip — Super Doubles Tennis — Taito
-sdwx.zip — Shadow Warriors X — Tecmo
-searchar.zip — Search & Rescue — SNK
-searchey.zip — Search Eye — Taito
-searthin.zip — Search Eye Plus — Taito
-secretag.zip — Secret Agent — Data East
-sectionz.zip — Section Z — Capcom
-sectrzon.zip — Sector Zone — Capcom
-seganinj.zip — Sega Ninja — Sega
-seicross.zip — Seicross — Nichibutsu
-seiha.zip — Seiha — Nichibutsu
-seiham.zip — Seiham — Nichibutsu
-selfeena.zip — Selfeena — Namco
-sengekis.zip — Sengoku Blade — Psikyo
-sengoku.zip — Sengoku — SNK
-sengoku2.zip — Sengoku 2 — SNK
-sengoku3.zip — Sengoku 3 — SNK
-senjyo.zip — Senjyo — Tehkan
-senknow.zip — Sen-Know — Taito
-sentetst.zip — Sente Test — Bally/Sente
-sercharu.zip — Search & Rescue (US) — SNK
-sextriv.zip — Sexual Trivia — Advance Video
-sf.zip — Street Fighter — Capcom
-sf2.zip — Street Fighter II — Capcom
-sf2ce.zip — Street Fighter II’: Champion Edition — Capcom
-sf2hf.zip — Street Fighter II’: Hyper Fighting — Capcom
-sf2j.zip — Street Fighter II (Japan) — Capcom
-sf2ja.zip — Street Fighter II (Japan alt) — Capcom
-sf2jc.zip — Street Fighter II (Japan c) — Capcom
-sf2koryu.zip — Street Fighter II: Koryu (bootleg) — Bootleg
-sf2m1.zip — Street Fighter II (M1 bootleg) — Bootleg
-sf2m2.zip — Street Fighter II (M2 bootleg) — Bootleg
-sf2m3.zip — Street Fighter II (M3 bootleg) — Bootleg
-sf2m4.zip — Street Fighter II (M4 bootleg) — Bootleg
-sf2m5.zip — Street Fighter II (M5 bootleg) — Bootleg
-sf2m6.zip — Street Fighter II (M6 bootleg) — Bootleg
-sf2m7.zip — Street Fighter II (M7 bootleg) — Bootleg
-sf2m8.zip — Street Fighter II (M8 bootleg) — Bootleg
-sf2m9.zip — Street Fighter II (M9 bootleg) — Bootleg
-sf2ma.zip — Street Fighter II (MA bootleg) — Bootleg
-sf2mb.zip — Street Fighter II (MB bootleg) — Bootleg
-sf2mc.zip — Street Fighter II (MC bootleg) — Bootleg
-sf2md.zip — Street Fighter II (MD bootleg) — Bootleg
-sf2me.zip — Street Fighter II (ME bootleg) — Bootleg
-sf2mf.zip — Street Fighter II (MF bootleg) — Bootleg
-sf2mh.zip — Street Fighter II (MH bootleg) — Bootleg
-sf2mk.zip — Street Fighter II (MK bootleg) — Bootleg
-sf2ml.zip — Street Fighter II (ML bootleg) — Bootleg
-sf2mm.zip — Street Fighter II (MM bootleg) — Bootleg
-sf2mn.zip — Street Fighter II (MN bootleg) — Bootleg
-sf2mo.zip — Street Fighter II (MO bootleg) — Bootleg
-sf2mp.zip — Street Fighter II (MP bootleg) — Bootleg
-sf2mq.zip — Street Fighter II (MQ bootleg) — Bootleg
-sf2mr.zip — Street Fighter II (MR bootleg) — Bootleg
-sf2ms.zip — Street Fighter II (MS bootleg) — Bootleg
-sf2mt.zip — Street Fighter II (MT bootleg) — Bootleg
-sf2mu.zip — Street Fighter II (MU bootleg) — Bootleg
-sf2mv.zip — Street Fighter II (MV bootleg) — Bootleg
-sf2mw.zip — Street Fighter II (MW bootleg) — Bootleg
-sfa.zip — Street Fighter Alpha: Warriors’ Dreams — Capcom
-sfa2.zip — Street Fighter Alpha 2 — Capcom
-sfa3.zip — Street Fighter Alpha 3 — Capcom
-sfiii.zip — Street Fighter III: New Generation — Capcom
-sfiii2.zip — Street Fighter III: 2nd Impact – Giant Attack — Capcom
-sfiii3.zip — Street Fighter III: 3rd Strike — Capcom
-sfposeid.zip — Sea Fighter Poseidon — Taito [por confirmar]
-sftm.zip — Street Fighter: The Movie — Incredible Technologies / Capcom
-sfx.zip — SFX (test/utility) — [por confirmar]
-sfz2al.zip — Street Fighter Zero 2 Alpha — Capcom
-sfzch.zip — Street Fighter Zero (CPS Changer) — Capcom
-sgemf.zip — Super Gem Fighter Mini Mix (Pocket Fighter) — Capcom
-sgladiat.zip — Space Gladiator — [por confirmar]
-sgmast.zip — S.G. Master — [por confirmar]
-sgunner.zip — Steel Gunner — Namco
-sgunner2.zip — Steel Gunner 2 — Namco
-shackled.zip — Shackled — Data East
-shadfrce.zip — Shadow Force — Technos Japan
-shadowld.zip — Shadowland (Yōkai Dōchūki) — Namco
-shadoww.zip — Shadow Warriors (Ninja Gaiden) — Tecmo
-shangon.zip — Super Hang-On — Sega
-sharkatt.zip — Shark Attack — Pacific Novelty
-sharrier.zip — Space Harrier — Sega
-shdancer.zip — Shadow Dancer — Sega
-shinfz.zip — Shinobi (set FZ) — Sega
-shinobi.zip — Shinobi — Sega
-shocking.zip — Shocking — ESD
-shocktr2.zip — Shock Troopers: 2nd Squad — Saurus / SNK
-shocktro.zip — Shock Troopers — Saurus / SNK
-shogwarr.zip — Shogun Warriors (Fujiyama Buster) — Kaneko
-shollow.zip — Satan’s Hollow — Midway
-shootout.zip — Shoot Out — Data East
-shtrider.zip — Shot Rider — Seibu Kaihatsu [por confirmar]
-shufshot.zip — Shuffle Shot — Incredible Technologies
-shuuz.zip — Shuuz — Atari Games
-sidearms.zip — Side Arms – Hyper Dyne — Capcom
-sidepckt.zip — Side Pocket — Data East
-silentd.zip — Silent Dragon — Taito
-silkroad.zip — The Legend of Silkroad — Unico
-silkworm.zip — Silkworm — Tecmo
-silvmil.zip — Silver Millennium — [por confirmar]
-simpsons.zip — The Simpsons — Konami
-sinistar.zip — Sinistar — Williams
-sjryuko.zip — Super Jangou Ryūko (mahjong) — [por confirmar]
-skns.zip — Kaneko Super Nova System (BIOS) — Kaneko
-skullfng.zip — Skull Fang: Kuuga Gaiden — Data East
-skullxbo.zip — Skull & Crossbones — Atari Games
-skyadvnt.zip — Sky Adventure — Alpha Denshi / SNK
-skyalert.zip — Sky Alert — [por confirmar]
-skyarmy.zip — Sky Army — [por confirmar]
-skybase.zip — Sky Base — [por confirmar]
-skyfox.zip — Sky Fox (Exerizer) — Nichibutsu
-skykid.zip — Sky Kid — Namco
-skykiddx.zip — Sky Kid Deluxe — Namco
-skylancr.zip — Sky Lancer — Orca
-skyrobo.zip — Sky Robo — [por confirmar]
-skyskipr.zip — Sky Skipper — Nintendo
-skysmash.zip — Sky Smasher — Nihon System / Allumer
-skysoldr.zip — Sky Soldiers — ADK / SNK
-slammast.zip — Saturday Night Slam Masters (Muscle Bomber) — Capcom
-slapshot.zip — Slap Shot — Taito
-slapshtr.zip — Slap Shooter — [por confirmar]
-slither.zip — Slither — Century
-slspirit.zip — [por confirmar]
-smgp.zip — Super Monaco GP — Sega
-snapjack.zip — Snap Jack — Universal
-snapper.zip — Snapper — [por confirmar]
-snowboar.zip — Snow Board Championship — Gaelco
-snowbro2.zip — Snow Bros. 2: With New Elves — Toaplan
-snowbro3.zip — Snow Bros. 3: Magical Adventure (bootleg) — [por confirmar]
-snowbros.zip — Snow Bros. — Toaplan
-socbrawl.zip — Soccer Brawl — SNK
-sokonuke.zip — Sokonuke Taisen Game — Sammy
-solarfox.zip — Solar Fox — Bally Midway
-soldam.zip — Soldam — Jaleco
-soldivid.zip — Sol Divide — Psikyo
-solfigtr.zip — Solitary Fighter — Data East
-solomon.zip — Solomon’s Key — Tecmo
-sonicbom.zip — Sonic Boom — Sega
-sonicwi2.zip — Sonic Wings 2 (Aero Fighters 2) — Video System
-sonicwi3.zip — Sonic Wings 3 (Aero Fighters 3) — Video System
-sonson.zip — SonSon — Capcom
-sos.zip — SOS — Namco [por confirmar]
-sotsugyo.zip — Sotsugyō Shōsho (Graduation) — [por confirmar]
-spacduel.zip — Space Duel — Atari
-spacecr.zip — Space Cruiser — Taito
-spacedx.zip — Space Invaders DX — Taito
-spacefb.zip — Space Firebird — Nintendo
-spacegun.zip — Space Gun — Taito
-spaceskr.zip — Space Seeker — Taito
-spacfury.zip — Space Fury — Sega/Gremlin
-spang.zip — Super Pang — Mitchell
-sparkman.zip — Spark Man — [por confirmar]
-sparkz.zip — Sparkz — Leland
-spatter.zip — Spatter — Sega
-spcinv95.zip — Space Invaders ’95 — Taito
-spcpostn.zip — Space Position — Namco
-spdball.zip — Speed Ball — Bally/Midway [por confirmar]
-spdcoin.zip — Speed Coin — [por confirmar]
-spdodgeb.zip — Super Dodge Ball — Technos Japan
-speakres.zip — Speak & Rescue — Century [por confirmar]
-spec2k.zip — Spec 2K / Spectrum 2000 — [por confirmar]
-speedbal.zip — Speed Ball — Tecfri
-speedspn.zip — Speed Spin — [por confirmar]
-spelunk2.zip — Spelunker II — Irem
-spelunkr.zip — Spelunker — Irem
-spf2t.zip — Super Puzzle Fighter II Turbo — Capcom
-spidermi.zip — Spider-Man: The Video Game — Sega
-spinlbrk.zip — Spinal Breakers — Video System
-spinmast.zip — Spinmaster — Data East
-splat.zip — Splat! — Williams
-splatter.zip — Splatterhouse — Namco
-spnchout.zip — Super Punch-Out!! — Nintendo
-spotty.zip — Spotty — Seibu Denshi [por confirmar]
-sprcros2.zip — Super Cross II — [por confirmar]
-springer.zip — Springer — Orca
-spy.zip — S.P.Y. – Special Project Y — Konami
-spyhunt.zip — Spy Hunter — Bally Midway
-sqbert.zip — Q*bert’s Qubes — Mylstar
-squaitsa.zip — Squaitsa — [por confirmar]
-squash.zip — Squash — Gaelco
-sraider.zip — Space Raider — [por confirmar]
-sranger.zip — Super Ranger — [por confirmar]
-srdarwin.zip — Super Real Darwin — Data East
-srdmissn.zip — S.R.D. Mission — Taito
-srmp4.zip — Super Real Mahjong PIV — Seta
-srmp7.zip — Super Real Mahjong P7 — Seta
-srumbler.zip — The Speed Rumbler (Rush & Crash) — Capcom
-ssf2.zip — Super Street Fighter II — Capcom
-ssf2t.zip — Super Street Fighter II Turbo — Capcom
-ssf2tnl.zip — Super Street Fighter II Turbo (variante “NL”) — [por confirmar]
-sshangha.zip — Super Shanghai — Hot-B / Sunsoft [por confirmar]
-ssi.zip — SSI — [por confirmar]
-ssideki.zip — Super Sidekicks — SNK
-ssideki2.zip — Super Sidekicks 2 — SNK
-ssideki3.zip — Super Sidekicks 3 — SNK
-ssideki4.zip — The Ultimate 11 (Super Sidekicks 4) — SNK
-ssmissin.zip — S.S. Mission — Taito [por confirmar]
-ssoldier.zip — S. Soldier — [por confirmar]
-ssozumo.zip — Super Oozumou — Taito
-sspirits.zip — Samurai Spirits (Samurai Shodown) — SNK
-ssriders.zip — Sunset Riders — Konami
-ssrj.zip — SSRJ — [por confirmar]
-sstingry.zip — Sea Stingray — Orca [por confirmar]
-sstrangr.zip — Space Stranger — [por confirmar]
-sstriker.zip — S. Striker — [por confirmar]
-stadhero.zip — Stadium Hero — Data East
-stadhr96.zip — Stadium Hero 96 — Data East
-stagger1.zip — Stagger I — Athena
-stakwin.zip — Stakes Winner — Saurus / SNK
-stakwin2.zip — Stakes Winner 2 — Saurus / SNK
-starfigh.zip — Star Fighter — [por confirmar]
-starforc.zip — Star Force — Tehkan
-stargate.zip — Stargate — Williams
-stargrds.zip — Star Guards — [por confirmar]
-starjack.zip — Star Jacker — Sega
-startrek.zip — Star Trek (vector) — Sega/Gremlin
-startrks.zip — Star Trek (Sega System 1) — Sega [por confirmar]
-starwars.zip — Star Wars (vector) — Atari
-stdragon.zip — Saint Dragon — Jaleco
-stg.zip — Strike Gunner S.T.G — Athena
-stinger.zip — Stinger — Seibu Denshi
-stlforce.zip — Steel Force — Ecogames / Electronic Devices
-stmblade.zip — Storm Blade — Visco
-strahl.zip — Strahl — UPL
-stratgyx.zip — Strategy X — Konami
-stratof.zip — Stratofighter — Data East
-streakng.zip — Streaking — Shoei
-streetsm.zip — Street Smart — SNK
-strhoop.zip — Street Hoop (Dunk Dream) — Data East
-strider.zip — Strider — Capcom
-strkfgtr.zip — Strike Fighter — Sega
-strnskil.zip — Strong X (Strength & Skill) — [por confirmar]
-strvmstr.zip — Super Trivia Master — [por confirmar]
-stuntair.zip — Stunt Air — [por confirmar]
-sub.zip — Sub — [por confirmar]
-subroc3d.zip — SubRoc-3D — Sega
-sucasino.zip — Super Casino — [por confirmar]
-sunaq.zip — Suna Q (quiz) — Suna
-supbtime.zip — Super Burger Time — Data East
-supduck.zip — Super Duck — [por confirmar]
-superbon.zip — Super Bond / Super Bonnie? — [por confirmar]
-superchs.zip — Super Chase: Criminal Termination — Taito
-superman.zip — Superman — Taito
-superpac.zip — Super Pac-Man — Namco
-superspy.zip — The Super Spy — SNK
-superten.zip — Super Ten — [por confirmar]
-superx.zip — Super-X — Gaelco
-suplup.zip — Super Lup Lup Puzzle (Puzzle Bobble clone) — ESD
-supmodel.zip — Super Model — [por confirmar]
-suprglob.zip — Super Glob — Epos
-suprleag.zip — Super League — Data East [por confirmar]
-suprloco.zip — Super Locomotive — Sega
-suprmous.zip — Super Mouse (Mappy bootleg) — Taito bootleg [por confirmar]
-suprridr.zip — Super Rider — [por confirmar]
-suprtrio.zip — Super Trio — Gameace
-suratk.zip — Surprise Attack — Konami
-survarts.zip — Survival Arts — Sammy
-svc.zip — SNK vs. Capcom: SVC Chaos — SNK Playmore
-svcpcb.zip — SNK vs. Capcom: SVC Chaos (PCB) — SNK Playmore
-svg.zip — Spectral vs Generation — IGS / D&K / Idea Factory
-svolley.zip — Super Volleyball — Video System
-swat.zip — SWAT — Sega
-swatpolc.zip — SWAT Police — V-System [por confirmar]
-swimmer.zip — Swimmer — Tehkan
-sws.zip — Super World Stadium — Namco
-sws92.zip — Super World Stadium ’92 — Namco
-sws93.zip — Super World Stadium ’93 — Namco
-sxyreac2.zip — Sexy Reaction 2 — Comad / Yun Sung [por confirmar]
-sxyreact.zip — Sexy Reaction — Comad [por confirmar]
-syscheck.zip — System Check — Taito [por confirmar]
-syvalion.zip — Syvalion — Taito
-szaxxon.zip — Super Zaxxon — Sega
-tacscan.zip — Tac/Scan — Sega/Gremlin
-tactcian.zip — Tactician — Jaleco / Nichibutsu
-tail2nos.zip — Tail to Nose — Video System
-tangtang.zip — Tang Tang — Excellent System
-tankbust.zip — Tank Busters — [por confirmar]
-tankfrce.zip — Tank Force — Namco
-taotaido.zip — Tao Taido — Video System
-tapper.zip — Tapper — Bally Midway
-targeth.zip — Target Hits — Gaelco
-tattass.zip — Tattoo Assassins — Data East
-tazmania.zip — Tazz-Mania — Stern
-tbowl.zip — Ten Yard Fight? (no) — Tecmo Bowl (prototype) [por confirmar]
-tceptor.zip — Thunder Ceptor — Namco
-tcobra2.zip — Twin Cobra II — Taito / Toaplan
-tdfever.zip — TouchDown Fever — SNK
-tdpgal.zip — T.D. PGal — [por confirmar]
-tdragon.zip — Thunder Dragon — NMK
-tdragon2.zip — Thunder Dragon 2 — NMK
-teddybb.zip — Teddy Boy Blues — Sega
-tekipaki.zip — Teki Paki — Toaplan
-teljan.zip — Tel-Tel Mahjong / Tel Jan — [por confirmar]
-tempest.zip — Tempest — Atari
-tengai.zip — Tengai (Sengoku Blade) — Psikyo
-teot.zip — Trail of the Wolf? (The Eye of Typhoon?) — [por confirmar]
-terracre.zip — Terra Cresta — Nichibutsu
-terraf.zip — Terra Force — Nichibutsu
-tetrbx.zip — Tetris (bootleg, System 16) — Bootleg
-tetris.zip — Tetris — Atari/Tengen/Sega [por confirmar de set]
-tetrisp2.zip — Tetris Plus 2 — Jaleco
-tetrisse.zip — Tetris (Sega System E) — Sega
-tetrsark.zip — Tetris (Arkanoid hardware) — [por confirmar]
-tgm2.zip — Tetris the Grand Master 2 — Arika
-tharrier.zip — Thunder Harrier — Data East
-thedeep.zip — The Deep — Woodplace [por confirmar]
-theend.zip — The End — Konami
-theglad.zip — The Gladiator — Allumer / Banpresto
-thepit.zip — The Pit — Centuri
-theroes.zip — The Heroes — Prism / Unico
-thief.zip — Thief — Pacific Novelty
-thndrbld.zip — Thunder Blade — Sega
-thndrx2.zip — Thunder Cross II — Konami
-thndzone.zip — Thunder Zone (Desert Assault) — Data East
-thoop.zip — Thunder Hoop — Gaelco
-thoop2.zip — Thunder Hoop 2 — Gaelco
-thunderj.zip — ThunderJaws — Atari Games
-thunderl.zip — Thunder & Lightning — Romstar / Visco
-thunderx.zip — Thunder Cross — Konami
-thundfox.zip — Thunder Fox — Taito
-tigerh.zip — Tiger-Heli — Toaplan
-tigeroad.zip — Tiger Road — Capcom
-timber.zip — Timber — Bally Midway
-timefgtr.zip — Time Fighter — [por confirmar]
-timekill.zip — Time Killers — Incredible Technologies
-timelimt.zip — Time Limit — Chunghwa/Seta [por confirmar]
-timeplt.zip — Time Pilot — Konami
-timescan.zip — Time Scanner — Sega
-timesold.zip — Time Soldiers — SNK / Alpha Denshi
-timesupd.zip — Time’s Up? (Time’s Up – Data East?) — [por confirmar]
-timetunl.zip — Time Tunnel — Taito
-tinstar.zip — The Tin Star — Taito [por confirmar]
-tkdensho.zip — Tokimeki Memorial Densetsu no Quiz — Konami [por confirmar]
-tmnt.zip — Teenage Mutant Ninja Turtles — Konami
-tmnt2.zip — TMNT: Turtles in Time — Konami
-tmnti.zip — Teenage Mutant Ninja Turtles (Konami Viper/3D) — Konami [por confirmar]
-tndrcade.zip — Thundercade — Taito / Seti
-tnextspc.zip — The Next Space — SNK / Saurus [por confirmar]
-tnk3.zip — T.N.K. III — SNK
-tnzs.zip — The NewZealand Story — Taito
-todruaga.zip — The Tower of Druaga — Namco
-toki.zip — Toki — TAD Corporation
-tokio.zip — Tokio / Scramble Formation — Taito
-tokisens.zip — Tokimeki Senshi — Konami [por confirmar]
-tomagic.zip — Touch of Magic — [por confirmar]
-toobin.zip — Toobin’ — Atari Games
-tophuntr.zip — Top Hunter: Roddy & Cathy — SNK
-toppyrap.zip — Toppy & Rappy — Toaplan / Sega [por confirmar]
-topspeed.zip — Top Speed / Full Throttle — Taito
-toride2g.zip — Toride II G — Visco
-toryumon.zip — Toryumon — Seta
-totc.zip — Time of the Children? — [por confirmar]
-toto.zip — Toto — [por confirmar]
-touchgo.zip — Touch & Go — Namco
-toutrun.zip — Turbo Out Run — Sega
-toyland.zip — Toy Land Adventure — Gaelco
-toypop.zip — Toypop — Namco
-tp84.zip — Time Pilot ’84 — Konami
-tpgolf.zip — Top Player’s Golf — SNK
-trackfld.zip — Track & Field — Konami
-trally.zip — Thrash Rally — ADK / SNK
-transfrm.zip — Transformer — Stern
-travrusa.zip — Traverse USA — Irem
-trckydoc.zip — Tricky Doc — [por confirmar]
-tricktrp.zip — Trick Trap — Gaelco
-triothep.zip — Trio The Punch — Data East
-triplep.zip — Triple Punch — KKI / Namco [por confirmar]
-tripool.zip — Tri-Pool — [por confirmar]
-troangel.zip — Tropical Angel — Irem
-trojan.zip — Trojan — Capcom
-tron.zip — Tron — Bally Midway
-trophyh.zip — Trophy Hunting — Sammy / IGS [por confirmar]
-trstar.zip — Top Ranking Stars — Taito
-truxton.zip — Truxton (Tatsujin) — Toaplan
-truxton2.zip — Truxton II (Tatsujin Ō) — Toaplan
-trvmstr.zip — Trivia Master — Enerdyne [por confirmar]
-tsamurai.zip — Samurai — Taito
-tshingen.zip — Takeda Shingen — Jaleco
-tturf.zip — Tough Turf — Sega / Sunsoft
-tubep.zip — Tube Panic — Nichibutsu
-tumblep.zip — Tumble Pop — Data East
-turbo.zip — Turbo — Sega
-turbofrc.zip — Turbo Force — Video System
-turfmast.zip — Neo Turf Masters — Nazca / SNK
-turkhunt.zip — Turkey Shoot / Turkey Hunting (light gun) — [por confirmar]
-turtles.zip — Turtles — Stern
-turtship.zip — Turtle Ship — Philko
-tutankhm.zip — Tutankham — Konami
-twcup90.zip — Tecmo World Cup ’90 — Tecmo
-twinactn.zip — Twin Action — [por confirmar]
-twinadv.zip — Twin Adventure — [por confirmar]
-twinbee.zip — TwinBee — Konami
-twinbrat.zip — Twin Brats — [por confirmar]
-twincobr.zip — Twin Cobra — Toaplan
-twineag2.zip — Twin Eagle II — Seta
-twineagl.zip — Twin Eagle — Seta
-twinfalc.zip — Twin Falcons — [por confirmar]
-twinhawk.zip — Twin Hawk (Daisenpu) — Toaplan
-twinkle.zip — Twinkle — [por confirmar]
-twinqix.zip — Twin Qix — Taito
-twinspri.zip — Twin Sprites / Twin Sprites? — [por confirmar]
-twotiger.zip — Two Tigers — Bally Midway
-twsoc96.zip — Tecmo World Soccer ’96 — Tecmo
-uballoon.zip — Ultra Balloon — SKonec [por confirmar]
-uccops.zip — Undercover Cops — Irem
-ufosensi.zip — Ufo Senshi Yohko Chan? — [por confirmar]
-ultracin.zip — Ultra Coin / Ultracoin — [por confirmar]
-ultraman.zip — Ultraman — Banpresto
-ultrax.zip — Ultra X Weapons — Banpresto
-umanclub.zip — Uman Club — [por confirmar]
-umk3.zip — Ultimate Mortal Kombat 3 — Midway
-unclepoo.zip — Uncle Poo — [por confirmar]
-undrfire.zip — Under Fire — Taito
-uniwars.zip — UniWar S — Irem
-unkpacg.zip — Unknown Pac-Game — [por confirmar]
-unsquad.zip — U.N. Squadron (Area 88) — Capcom
-uopoko.zip — Uo Poko — Cave
-upndown.zip — Up’n Down — Sega
-usclssic.zip — U.S. Classic — Data East
-usg32.zip — US Games 32 (board) — US Games [por confirmar]
-usgames.zip — U.S. Games (board) — US Games
-utoukond.zip — UtoU Kond? — [por confirmar]
-valkyrie.zip — Valkyrie no Densetsu — Namco
-valtric.zip — Valtric — Jaleco
-vamphalf.zip — Vampire Half? (Vamphalf) — Danbi [por confirmar]
-vandyke.zip — Vandyke — Mitchell
-vangrd2.zip — Vanguard II — SNK
-vanguard.zip — Vanguard — SNK
-vanvan.zip — Van-Van Car — Karat
-vaportra.zip — Vapor Trail — Data East
-varth.zip — Varth — Capcom
-vasara.zip — Vasara — Visco
-vasara2.zip — Vasara 2 — Visco
-vastar.zip — Vastar — Orca
-vball.zip — U.S. Championship V’Ball — Technos Japan
-vblokbrk.zip — V-Block Breaker — [por confirmar]
-vendetta.zip — Vendetta (Crime Fighters 2) — Konami
-vhunt2.zip — Vampire Hunter 2 — Capcom
-victoryc.zip — Victory (cocktail) — [por confirmar]
-victroad.zip — Victory Road (Ikari II) — SNK
-viewpoin.zip — Viewpoint — Sammy
-vigilant.zip — Vigilante — Irem
-vimana.zip — Vimana — Toaplan
-vindctr2.zip — Vindicators Part II — Atari Games
-vindictr.zip — Vindicators — Atari Games
-viofight.zip — Violent Fight (Violence Fight) — Taito
-viostorm.zip — Violent Storm — Konami
-vliner.zip — V-Liner (medal) — [por confirmar]
-vmetal.zip — Viper Phase 1? (no) — V. Metal (Seibu) — [por confirmar]
-volfied.zip — Volfied — Taito
-vsav.zip — Vampire Savior — Capcom
-vsav2.zip — Vampire Savior 2 — Capcom
-vsgongf.zip — VS Gong Fight — Sun Electronics
-vulcan.zip — Vulcan Venture (Gradius II) — Konami
-vulgus.zip — Vulgus — Capcom
-wacko.zip — Wacko — Bally Midway
-wakuwak7.zip — Waku Waku 7 — Sunsoft
-wallc.zip — Wall Crash — [por confirmar]
-wanted.zip — Wanted — Sigma / Irem [por confirmar]
-wardner.zip — Wardner — Taito / Toaplan
-warofbug.zip — War of the Bugs — Armenian/Armenia? [por confirmar]
-warpwarp.zip — Warp & Warp — Namco
-warriorb.zip — Warrior Blade: Rastan Saga III — Taito
-waterski.zip — Water Ski — Taito
-watrball.zip — Water Balls — [por confirmar]
-wb3.zip — Wonder Boy III: Monster Lair — Sega
-wbml.zip — Wonder Boy in Monster Land — Sega
-wboy.zip — Wonder Boy — Sega
-wcbowl.zip — World Class Bowling — Incredible Technologies
-wcbowldx.zip — World Class Bowling Deluxe — Incredible Technologies
-wcvol95.zip — World Cup Volleyball ’95 — Data East
-welltris.zip — Welltris — Tecmo
-wh1.zip — World Heroes — ADK / SNK
-wh2.zip — World Heroes 2 — ADK / SNK
-wh2j.zip — World Heroes 2 Jet — ADK / SNK
-wheelrun.zip — Wheel Runner — [por confirmar]
-whp.zip — World Heroes Perfect — ADK / SNK
-wiggie.zip — Wiggie Waggie — [por confirmar]
-wildfang.zip — Wild Fang (Taito) (a.k.a. Tecmo’s/Capcom’s?) — [por confirmar]
-willow.zip — Willow — Capcom
-wilytowr.zip — Wily Tower — Irem
-wingforc.zip — Wing Force — Atlus / Technosoft [por confirmar]
-wiping.zip — Wiping — Nichibutsu
-wits.zip — Wits — Athena
-wivernwg.zip — Wyvern Wings — SemiCom
-wiz.zip — Wiz — Seibu Denshi
-wizdfire.zip — Wizard Fire (Dark Seal 2) — Data East
-wizzquiz.zip — Wizz Quiz — Bellfruit / Konami [por confirmar]
-wjammers.zip — Windjammers — Data East
-wldcourt.zip — World Court — Namco [por confirmar]
-wlstar.zip — Wonder League Star — Namco / Irem [por confirmar]
-wmatch.zip — The Wrestle Match — [por confirmar]
-wndrmomo.zip — Wonder Momo — Namco
-wndrplnt.zip — Wonder Planet — Data East
-wof.zip — Warriors of Fate (Tenchi wo Kurau II) — Capcom
-wofch.zip — Warriors of Fate (Chinese hack/bootleg) — Bootleg
-wondl96.zip — Wonder League ’96 — [por confirmar]
-wondstck.zip — Wonder Stick — [por confirmar]
-woodpeck.zip — Woodpecker — [por confirmar]
-worldadv.zip — World Adventure — [por confirmar]
-worldwar.zip — World War — [por confirmar]
-wownfant.zip — Wownfant — [por confirmar]
-wrally.zip — World Rally — Gaelco
-wrally2.zip — World Rally 2 — Gaelco
-wrestwar.zip — Wrestle War — Sega
-wrofaero.zip — War of Aero — Yang Cheng [por confirmar]
-ws.zip — WonderSwan BIOS? (arcade set) — [por confirmar]
-wschamp.zip — World Stadium Champion — Namco
-wwallyj.zip — Wonder Boy? (no) — World Wally Japan — [por confirmar]
-wwestern.zip — Wild Western — Taito
-wwfmania.zip — WWF WrestleMania — Midway
-wwfsstar.zip — WWF Superstars — Technos Japan
-wwfwfest.zip — WWF WrestleFest — Technos Japan
-wwjgtin.zip — W-Wing JG Tin — [por confirmar]
-wyvernf0.zip — Wyvern F-0 — [por confirmar]
-xevious.zip — Xevious — Namco
-xexex.zip — Xexex — Konami
-xmcota.zip — X-Men: Children of the Atom — Capcom
-xmen.zip — X-Men — Konami
-xmultipl.zip — X Multiply — Irem
-xmvsf.zip — X-Men vs. Street Fighter — Capcom
-xorworld.zip — Xor World — Gaelco [por confirmar]
-xsleena.zip — Xain’d Sleena (Soldier of Light) — Technos Japan
-xxmissio.zip — XX Mission — UPL
-xybots.zip — Xybots — Atari Games
-xyonix.zip — Xyonix — Philko
-yamagchi.zip — Yamaguchi — [por confirmar]
-yamato.zip — Yamato — Sega
-yesnoj.zip — Yes/No Quiz — [por confirmar]
-yiear.zip — Yie Ar Kung-Fu — Konami
-ym2608.zip — YM2608 (sound ROM) — Yamaha / BIOS [por confirmar]
-youjyudn.zip — Youjyuden — Data East [por confirmar]
-yuyugogo.zip — Yuyu no Quiz de Go! Go! — Taito [por confirmar]
-zaviga.zip — Zaviga — Data East
-zaxxon.zip — Zaxxon — Sega
-zedblade.zip — Zed Blade (Operation Ragnarok) — NMK / SNK
-zektor.zip — Zektor — Sega/Gremlin
-zeropnt.zip — Zero Point — Unico
-zeropnt2.zip — Zero Point 2 — Unico
-zeroteam.zip — Zero Team — Seibu Kaihatsu
-zerowing.zip — Zero Wing — Toaplan
-zerozone.zip — Zero Zone — Comad
-zigzagb.zip — Zig Zag (bootleg) — Bootleg
-zingzip.zip — Zing Zing Zip — Allumer
-zintrckb.zip — Zintrick (bootleg) — Bootleg
-zipzap.zip — Zip & Zap / Zip-Zap — [por confirmar]
-zoar.zip — Zoar — Data East
-zodiack.zip — Zodiac / Dog Fight — Orca / Alca
-zombraid.zip — Zombie Raid — American Sammy
-zookeep.zip — Zoo Keeper — Taito
-zupapa.zip — Zupapa! — Face / SNK
-zzyzzyxx.zip — Zzyzzyxx — Cinematronics
+## 📋 Lista de juegos incluidos
+
+- 3countb.zip — 3 Count Bout — SNK
+- 3en1semi.zip — 3-in-1 (SemiCom multijuego) — SemiCom
+- 3kokushi.zip — Sankokushi (Three Kingdoms) — Irem
+- 3on3dunk.zip — 3 On 3 Dunk Madness — Kao/Kaneko
+- 3wonders.zip — Three Wonders — Capcom
+- 3x3puzzl.zip — 3x3 Puzzle — Ace Enterprise
+- 4dwarrio.zip — 4-D Warriors — Coreland / Sega
+- 4enraya.zip — 4 en Raya — Unknown (bootleg)
+- 4en1.zip — 4 in 1 — Unknown (multijuego)
+- 4in1boot.zip — 4-in-1 (bootleg multijuego) — Bootleg
+- 4play.zip — 4-Player Bowling (o similar) — Unknown
+- 7ordi.zip — 7 Ordi (quiz/mahjong) — Oasis
+- 8ballact.zip — Eight Ball Action — Tecfri
+- 10yard.zip — 10-Yard Fight — Irem
+- 19xx.zip — 19XX: The War Against Destiny — Capcom
+- 20pacgal.zip — 20th Anniversary Pac-Man/Galaga Class of 1981 — Namco/Midway
+- 25pacman.zip — 25th Anniversary Pac-Man — Namco
+- 64street.zip — 64th. Street: A Detective Story — Jaleco
+- 88games.zip — ’88 Games / Hyper Sports Special — Konami
+- 1941.zip — 1941: Counter Attack — Capcom
+- 1942.zip — 1942 — Capcom
+- 1943.zip — 1943: The Battle of Midway — Capcom
+- 1943kai.zip — 1943 Kai: Midway Kaisen — Capcom
+- 1943mii.zip — 1943 Midway Kaisen (Mii) — Capcom
+- 1944.zip — 1944: The Loop Master — Capcom / 8ing
+- 1945kiii.zip — 1945k III (hack de shmup estilo Psikyo) — Oriental Soft (bootleg)
+- 2020bb.zip — 2020 Super Baseball — SNK / Pallas
+- abcop.zip — A.B. Cop — Sega
+- aburner2.zip — After Burner II — Sega
+- aceattac.zip — Ace Attacker — Namco
+- acrobatm.zip — Acrobat Mission — Kaneko / UPL
+- actfancr.zip — Act-Fancer: Cybernetick Hyper Weapon — Data East
+- actionhw.zip — Action Hollywood — Taito (lic. Gaelco)
+- ad2083.zip — A.D. 2083 — Midcoin (bootleg)
+- aerofgt.zip — Aero Fighters — Video System
+- afighter.zip — Air Fighter — Excellent System
+- agallet.zip — Air Gallet — Gazelle
+- agress.zip — Agress: Missile Daisenryaku — Palco
+- airass.zip — Air Assault — Irem (bootleg set)
+- airattck.zip — Air Attack — Comad
+- airbustr.zip — Air Buster: Trouble Specialty Raid Unit — Kaneko
+- airduel.zip — Air Duel — Irem
+- airwolf.zip — Airwolf — Kyugo
+- ajax.zip — Ajax / Typhoon — Konami
+- akkaarrh.zip — Akka Arrh — Atari
+- alcon.zip — Alcon (Slap Fight) — Toaplan / Taito
+- alexkidd.zip — Alex Kidd: The Lost Stars — Sega
+- alibaba.zip — Ali Baba and 40 Thieves — Sega/Meadows (lic.)
+- alienar.zip — Alien Arena — Duncan Brown
+- aliencha.zip — Alien Challenge — IGS (International Games System)
+- alienres.zip — Alien Resurrection (proto/quiz) — Unknown
+- aliens.zip — Aliens — Konami
+- aliensec.zip — Alien Sector (Baraduke) — Namco
+- aliensyn.zip — Alien Syndrome — Sega
+- aligator.zip — Alligator Hunt — Gaelco
+- alinvade.zip — Alien Invasion — Yachiyo Denki (bootleg)
+- alpham2.zip — Alpha Mission II (ASO II) — SNK
+- alpine.zip — Alpine Ski — Taito
+- altbeast.zip — Altered Beast — Sega
+- amazon.zip — Amazon (o The Amazon) — SunA / Epos
+- emboscada.zip — Emboscada — Unknown (hack)
+- amidar.zip — Amidar — Konami / Stern
+- amspdwy.zip — American Speedway — Enerdyne
+- androdun.zip — Andro Dunos — Visco / SNK
+- androidp.zip — Android Pinball — Epos
+- angelkds.zip — Angel Kids — Sega / Exa
+- anteater.zip — Anteater — Stern / Tago
+- aodk.zip — Aggressors of Dark Kombat — SNK / ADK
+- aof.zip — Art of Fighting — SNK
+- aof2.zip — Art of Fighting 2 — SNK
+- aof3.zip — Art of Fighting 3: The Path of the Warrior — SNK
+- aoh.zip — Age of Heroes — Visco
+- appoooh.zip — Appoooh — Sega / Sanritsu
+- aquajack.zip — Aqua Jack — Taito
+- acuario.zip — Acuario (quiz) — Unknown
+- arabian.zip — Arabian — Sun Electronics / Atari (lic.)
+- arabianm.zip — Arabian Magic — Taito
+- arbalest.zip — Arbalester — Seta
+- arcadecl.zip — Arcade Classics — Atari Games
+- arcadian.zip — Arcadian (multi) — Unknown
+- argus.zip — Argus — NMK / Jaleco
+- arkanoid.zip — Arkanoid — Taito
+- arkarea.zip — Ark Area — UPL
+- arkatour.zip — Arkanoid: Tournament — Taito
+- arknoid2.zip — Arkanoid: Revenge of DOH — Taito
+- arkretrn.zip — Arkanoid Returns — Taito
+- armedf.zip — Armed F — Nichibutsu
+- armorcar.zip — Armored Car — Stern / Dansei
+- armwar.zip — Armored Warriors — Capcom
+- armwrest.zip — Arm Wrestling — Nintendo
+- ashura.zip — Ashura Blaster — Taito
+- aso.zip — ASO: Armored Scrum Object (Alpha Mission) — SNK
+- asalto.zip — Asalto — Jaleco (bootleg)
+- astdelux.zip — Asteroids Deluxe — Atari
+- asterix.zip — Asterix — Konami
+- asteroide.zip — Asteroids (set español) — Atari
+- astorm.zip — Alien Storm — Sega
+- astyanax.zip — The Astyanax — Jaleco
+- asuka.zip — Asuka & Asuka — Taito
+- asurabld.zip — Asura Blade — Fuuki
+- asurabus.zip — Asura Buster — Fuuki
+- atehate.zip — Atehate no Tsubasa — Athena
+- atetris.zip — Tetris (Atari Games) — Atari Games / Tengen
+- athena.zip — Athena — SNK
+- atlantis.zip — Atlantis — Comstar (bootleg)
+- atomicp.zip — Atomic Point — Dyna
+- aurail.zip — Aurail — Sega
+- avengers.zip — Avengers (Hissatsu Buraiken) — Capcom
+- avengrgs.zip — Avengers in Galactic Storm — Data East
+- avsp.zip — Alien vs. Predator — Capcom
+- avspirit.zip — Avenging Spirit — Jaleco
+- aztarac.zip — Aztarac — Centuri
+- azurian.zip — Azurian Attack — Rait Electronics
+- b2b.zip — B-Rap Boys (o Back to Baseball?) — Kaneko (prob. B.Rap Boys)
+- backfire.zip — Backfire! — Taito
+- backfirt.zip — Back Fire (Title screen) — Data East (bootleg var.)
+- badapple.zip — Bad Apple!! (demo/hack) — Hobbyist
+- baddudes.zip — Bad Dudes vs. DragonNinja — Data East
+- badlands.zip — Bad Lands — Atari Games
+- bagman.zip — Bagman — Valadon Automation
+- bakatono.zip — Bakatono — Data East
+- bakutotu.zip — Bakutotsu Kijūtei (Baraduke II) — Namco
+- balcube.zip — Bal Cube — Metro
+- ballbros.zip — Ball Boy/Ball Bros. — Kaneko
+- baluba.zip — Baluba-louk no Densetsu — Able Corp.
+- banbam.zip — BanBam — Sega / Sanritsu
+- bang.zip — Bang! — Gaelco
+- bangball.zip — Bang Bead / Bang Ball — Visco
+- bangbead.zip — Bang Bead — Visco
+- bankp.zip — Bank Panic — Sega
+- baryon.zip — Baryon — Semicom
+- batcir.zip — Battle Circuit — Capcom
+- batman.zip — Batman (1986) — Data East
+- batrider.zip — Battle Garegga: Batrider (Armed Police Batrider) — Raizing
+- batsugun.zip — Batsugun — Toaplan
+- battlane.zip — Battle Lane! Vol. 5 — Taito / Tecfri
+- battlex.zip — Battle Cross — Omori Electric
+- battlnts.zip — Battlantis — Konami
+- battroad.zip — The Battle-Road — Irem
+- bayroute.zip — Bay Route — Sunsoft / Sega
+- bbakraid.zip — Battle Bakraid — Raizing / Eighting
+- bballs.zip — Basketbrawl (arcade boot) — Atari (bootleg)
+- bbmanw.zip — Bomberman World — Irem
+- bbusters.zip — Beast Busters — SNK
+- bchopper.zip — Battle Chopper (Mr. Heli) — Irem
+- bcruzm12.zip — B.C. Ruz (quiz) — Mitchell (hack)
+- bcstry.zip — Blue’s Journey (quiz spinoff?) — Jaleco (posible error de set)
+- beast.zip — Beast (proto) — Unknown
+- berabohm.zip — Beraboh Man — Namco
+- berlwall.zip — The Berlin Wall — Kaneko
+- bermudat.zip — Bermuda Triangle — Data East
+- berzerk.zip — Berzerk — Stern
+- bestbest.zip — Best of Best — SunA
+- bestri.zip — Best Rider — Epos (bootleg)
+- bgaregga.zip — Battle Garegga — Raizing / Eighting
+- bigbucks.zip — Big Bucks — Dynasoft
+- bigkarnk.zip — Big Karnak — Gaelco
+- bigprowr.zip — Big Pro Wrestling! — Jaleco
+- bigstrik.zip — Big Striker — Jaleco
+- bigtwin.zip — Big Twin — Taito / ESD
+- bikkuric.zip — Bikkuri Card — Nichibutsu
+- bioatack.zip — Bio Attack — Taito (lic. Fox Video Games)
+- biomtoy.zip — Biomechanical Toy — Gaelco
+- bionicc.zip — Bionic Commando — Capcom
+- bioship.zip — Bio-Ship Paladin — UPL / Sammy
+- birdiy.zip — Birdiy — Centuri (bootleg)
+- birdtry.zip — Birdie Try — Data East
+- bishi.zip — Bishi Bashi Champ — Konami
+- bjourney.zip — Blue’s Journey (Raguy) — Alpha Denshi / SNK
+- bjtwin.zip — Bombjack Twin — NMK
+- blackt96.zip — Black Touch ’96 — Tuning
+- bladestl.zip — Blades of Steel — Konami
+- blandia.zip — Blandia — Allumer
+- blaster.zip — Blaster — Williams
+- blasto.zip — Blasto — Gremlin
+- blastoff.zip — Blast Off — Namco
+- blazeon.zip — Blaze On — Atlus / Toaplan
+- blazer.zip — Blazer — Namco
+- blazstar.zip — Blazing Star — Yumekobo / SNK
+- blkheart.zip — Black Heart — UPL
+- blkhole.zip — Black Hole — TDS / Sega (bootleg)
+- blkpnthr.zip — Black Panther — Konami
+- blktiger.zip — Black Tiger — Capcom
+- blmbycar.zip — Blomby Car — ABM / Gaelco
+- block.zip — Block (bootleg Arkanoid) — Bootleg
+- blockade.zip — Blockade — Gremlin
+- blockcar.zip — Block Car — Gaelco
+- blockgal.zip — Block Gal — Data East
+- blockhl.zip — Block Hole (Quarth) — Konami
+- blockout.zip — Block Out — Kadon/California Dreams / Technosoft (arcade: Leland)
+- bloodbro.zip — Blood Bros. — TAD Corporation
+- bloodstm.zip — Blood Storm — Incredible Technologies
+- bloodwar.zip — Blood Warrior — Kaneko
+- bloxeed.zip — Bloxeed — Sega
+- blstroid.zip — Blasteroids — Atari Games
+- blswhstl.zip — Bells & Whistles (Detana!! TwinBee) — Konami
+- bluehawk.zip — Blue Hawk — Dooyong
+- blueprnt.zip — Blue Print — Zilec / Bally Midway
+- blzntrnd.zip — Blazing Tornado — Human / Atlus
+- bmaster.zip — Blade Master — Irem
+- bnzabros.zip — Bonanza Bros. — Sega
+- bodyslam.zip — Body Slam — Sega
+- bogeyman.zip — Bogey Manor — Technos Japan
+- boggy84.zip — Boggy ’84 — Nihon Game
+- bombbee.zip — Bomb Bee — Namco
+- bombjack.zip — Bomb Jack — Tehkan (Tecmo)
+- bombkick.zip — Bomb Kick — K Shin
+- bongo.zip — Bongo — Jetsoft / UPL
+- bonkadv.zip — Bonk’s Adventure — Kaneko
+- bonzeadv.zip — Bonze Adventure — Taito
+- boogwing.zip — Boogie Wings — Data East
+- boomrang.zip — Boomer Rang’r — Data East
+- boonggab.zip — Boong-Ga Boong-Ga — Taff System
+- botanic.zip — Botanic — Itisa
+- bottom9.zip — Bottom of the Ninth — Konami
+- bouldash.zip — Boulder Dash — Data East
+- bounty.zip — Bounty — Taito (bootleg)
+- bowlrama.zip — Bowl-O-Rama — P&P Marketing
+- boxyboy.zip — Boxyboy (Soukoban) — Namco
+- bradley.zip — Bradley Trainer — Atari
+- brain.zip — Brain — ZiLOG (bootleg/quiz)
+- brapboys.zip — B.Rap Boys — Kaneko
+- breakers.zip — Breakers — Visco / SNK
+- breakrev.zip — Breakers Revenge — Visco / SNK
+- brkthru.zip — Break Thru — Data East
+- brubber.zip — Burnin’ Rubber — Data East
+- bshark.zip — Battle Shark — Taito
+- bssoccer.zip — Big Striker / Big Soccer (var.) — Jaleco
+- bstars.zip — Baseball Stars Professional — SNK
+- bstars2.zip — Baseball Stars 2 — SNK
+- btime.zip — BurgerTime — Data East
+- btlkroad.zip — Battle K-Road — Psikyo
+- bubblem.zip — Bubble Memories — Taito
+- bubbles.zip — Bubbles — Williams
+- bubbletr.zip — Bubble Trouble (variante) — Taito (hack/bootleg)
+- bubl2000.zip — Puzzle Bobble 2000 (bootleg) — Bootleg
+- bublbob2.zip — Bubble Symphony (Bubble Bobble II) — Taito
+- bublbobl.zip — Bubble Bobble — Taito
+- buccanrs.zip — Buccaneers — Duintronic / Video System (lic.)
+- buckrog.zip — Buck Rogers: Planet of Zoom — Sega
+- bucky.zip — Bucky O’Hare — Konami
+- buggychl.zip — Buggy Challenge — Sega / Coreland
+- bullet.zip — Bullet — Taito (bootleg set)
+- bullfgt.zip — Bull Fight — Taito / Coreland
+- burglarx.zip — Burglar X — Gaelco
+- burnforc.zip — Burning Force — Namco
+- burningf.zip — Burning Fight — SNK
+- butasan.zip — Buta San — Jaleco / NMK
+- bwcasino.zip — Boardwalk Casino — Merit
+- bwidow.zip — Black Widow — Atari
+- bwings.zip — Battle Wings — Data East
+- bygone.zip — Bygone — Taito (proto)
+- bzone.zip — Battlezone — Atari
+- cabal.zip — Cabal — TAD / Fabtek
+- cachat.zip — Cachat (o Tube-It) — Taito
+- cadanglr.zip — Crazy Angler — Shin Nihon Kikaku (bootleg)
+- cadash.zip — Cadash — Taito
+- cairblad.zip — Air Blade — Namco (sistema NB-1)
+- calibr50.zip — Caliber 50 — Seta / Taito
+- calipso.zip — Calipso — Tago Electronics
+- calorie.zip — Calorie Kun vs Moguranian — Vic Tokai
+- cameltry.zip — Cameltry — Taito
+- cannball.zip — Cannon Ball — Soft Vision / Video System
+- cannonbp.zip — Cannon Ball Plus (hack) — Bootleg
+- canvas.zip — Canvas Croquis (quiz) — Excellent Systems
+- canyon.zip — Canyon Bomber — Atari
+- capbowl.zip — Capcom Bowling — Incredible Technologies / Strata
+- captaven.zip — Captain America and The Avengers — Data East
+- captcomm.zip — Captain Commando — Capcom
+- carjmbre.zip — Car Jamboree — Omori / Nichibutsu
+- carnival.zip — Carnival — Sega / Gremlin
+- casanova.zip — Casanova — ESD / Comad
+- cashquiz.zip — Cash Quiz — Gaelco
+- castfant.zip — The Castles of Dr. Creep (var./proto) — Desconocido
+- catacomb.zip — Catacomb (proto) — Unknown
+- cavelon.zip — Cavelon — Ocean / Jetsoft
+- cavenger.zip — Cavenger — Nichibutsu
+- cawing.zip — Carrier Air Wing — Capcom
+- cbdash.zip — Crazy Balloon Dash (hack) — Bootleg
+- cbombers.zip — Chase Bombers — Taito
+- cbtime.zip — Cutie Baby (o Crazy Balloon Time) — Nichibutsu
+- cburnrub.zip — Burnin’ Rubber / Bump ’n’ Jump — Data East
+- cbuster.zip — Crude Buster (Two Crude) — Data East
+- ccastles.zip — Crystal Castles — Atari
+- cchip.zip — Taito C-Chip (dump) — Taito (BIOS/MCU)
+- cclimber.zip — Crazy Climber — Nichibutsu
+- cclimbr2.zip — Crazy Climber 2 — Nichibutsu
+- cdiscon1.zip — Cosmic Disco No.1 — Data East (bootleg)
+- cdsteljn.zip — Cadash (Korean set / “Star Challenge”) — Taito (lic.)
+- centiped.zip — Centipede — Atari
+- cexplore.zip — Cave Explorer — Tong Issue / IGS (bootleg)
+- cfboy0a1.zip — Crazy Fight Boy — Subsino / IGS (bootleg)
+- cfghtice.zip — Fighting Ice Hockey — Data East
+- cflyball.zip — Champion Flyball — Sega
+- cgraplop.zip — Circus Charlie (Graplop hack) — Konami (bootleg)
+- chainrec.zip — Chain Reaction — IGS
+- chaknpop.zip — Chack’n Pop — Taito
+- chameleo.zip — Chameleon — Jaleco
+- champwr.zip — Champion Wrestler — Taito
+- chanbara.zip — Chanbara — Data East (quiz)
+- changes.zip — Changes — Orca
+- charlien.zip — Charlie Ninja — Mitchell
+- chasehq.zip — Chase H.Q. — Taito
+- checkman.zip — Check Man — Zilec / Jaleco
+- cheekyms.zip — Cheeky Mouse — Universal
+- chelnov.zip — Chelnov: Atomic Runner — Data East
+- chimerab.zip — Chimera Beast — Jaleco
+- chinagat.zip — China Gate (Sai Yu Gou Ma Roku) — Technos Japan
+- chinatwn.zip — China Town — Taito
+- chkun.zip — Chikun — Sega (variante)
+- chokchok.zip — Choky! Choky! — ESD
+- choko.zip — Choko — Ace
+- choplift.zip — Choplifter — Sega
+- chopper.zip — Chopper I — SNK / Alpha Denshi
+- chqflag.zip — Chequered Flag — Konami
+- chukatai.zip — Chuuka Taisen (Cloud Master) — Taito
+- chwy.zip — Chow (var. bootleg) — Bootleg
+- circusc.zip — Circus Charlie — Konami
+- citybomb.zip — City Bomber — Konami
+- citycon.zip — City Connection — Jaleco
+- ckong.zip — Crazy Kong — Falcon (bootleg lic.)
+- ckongpt2.zip — Crazy Kong Part II — Falcon / Bootleg
+- clapapa.zip — Clapapa — Universal (var.)
+- cleopatr.zip — Cleopatra Fortune — Taito
+- cloak.zip — Cloak & Dagger — Atari
+- clocknch.zip — Clock’n’Chime — Epos (bootleg)
+- cloud9.zip — Cloud 9 — Atari
+- clshroad.zip — Clash-Road — Wood Place
+- cltchitr.zip — Clutch Hitter — Sega
+- clubpacm.zip — Club Pac-Man — Namco (set cocktail/club)
+- cluckypo.zip — Clucky-Po — Kaneko
+- cmanhat.zip — Crazy Manhattan — Taito (bootleg)
+- cmissnx.zip — Cosmic Ms. Pac-Man (hack) — Bootleg
+- cnbe.zip — Coon Be (quiz) — Eolith (bootleg)
+- cndi.zip — Candy Candy (puzzle) — ESD
+- cnightst.zip — Cosmic Nightstar — Nichibutsu (proto)
+- cninja.zip — Caveman Ninja (Joe & Mac) — Data East
+- cobracom.zip — Cobra-Command — Data East
+- cocean1a.zip — Ocean to Ocean (quiz) — Unknown
+- colony7.zip — Colony 7 — Taito / Midway
+- columnsn.zip — Columns — Sega
+- combatsc.zip — Combat School — Konami
+- combh.zip — Commando (bootleg “Combh”) — Bootleg
+- commando.zip — Commando — Capcom
+- commandw.zip — Command War — Eolith (bootleg)
+- commsega.zip — Commando (Sega lic.) — Capcom / Sega
+- comotion.zip — Comotion — Gremlin
+- complexx.zip — Complex X — SunA
+- congo.zip — Congo Bongo — Sega
+- contcirc.zip — Continental Circus — Taito
+- contra.zip — Contra — Konami
+- cookbib.zip — Cookie & Bibi — SemiCom
+- cookbib2.zip — Cookie & Bibi 2 — SemiCom
+- cookbib3.zip — Cookie & Bibi 3 — SemiCom
+- coolmini.zip — Cool Minigame Collection — Semicom
+- coozumou.zip — Oozumou — Taito
+- cop01.zip — Cop 01 — Nichibutsu
+- cosmccop.zip — Cosmic Cop (Gallop) — Irem
+- cosmogng.zip — Cosmo Gang The Video — Namco
+- cotton.zip — Cotton: Fantastic Night Dreams — Sega / Success
+- countrun.zip — Country Run — Irem (early)
+- countryc.zip — Country Club — Status Games
+- cphd.zip — Captain Phantom (hack demo) — Hobbyist
+- cppicf.zip — Capcom World (Picture Fighter var.) — Capcom (hack)
+- cprobowl.zip — Championship Pro Bowling — Playmark
+- cprogolf.zip — Championship Pro Golf — Data East (var.)
+- cps1demo.zip — CPS-1 Demo — Capcom (demo técnico)
+- cps1frog.zip — CPS-1 Frog (homebrew) — Hobbyist
+- cpsoccer.zip — Capcom World Cup / Capcom Soccer — Capcom
+- cptennis.zip — Championship Tennis — Data East
+- crazyfgt.zip — Crazy Fight — ESD
+- crazywar.zip — Crazy War — Comad
+- crbaloon.zip — Crazy Balloon — Taito
+- crimec.zip — Crime City — Taito
+- crimfght.zip — Crime Fighters — Konami
+- crkdown.zip — Crack Down — Sega
+- crospang.zip — Cross Pang — F2 System
+- crshrace.zip — Crash Race — Kaneko
+- crswd2bl.zip — Crossed Swords II (bootleg MVS) — ADK / SNK (bootleg)
+- crsword.zip — Crossed Swords — ADK / SNK
+- crush.zip — Crush Roller (Make Trax) — Kural Samno / Williams
+- crusherm.zip — Crusher Makochan — Nihon Bussan
+- crzrally.zip — Crazy Rally — Tecfri
+- csclub.zip — Capcom Sports Club — Capcom
+- cscrtry.zip — Cross Country — Data East (var.)
+- csdtenis.zip — Center Court / Super Doubles Tennis — Jaleco
+- csilver.zip — Captain Silver — Data East
+- cskater.zip — City Skater — Konami (var.)
+- csuperas.zip — Super Astro (var.) — Unknown
+- cterrani.zip — Cosmic Guerilla / Terranian var. — Universal (var.)
+- ctisland.zip — Captain Tomaday’s Island (var.) — Visco (prob. set de CTOMADAY)
+- ctomaday.zip — Captain Tomaday — Visco / SNK
+- ctornado.zip — Crazy Tornao/Tornado — Tecfri
+- ctribe.zip — The Combatribes — Technos Japan
+- ctsttape.zip — Cassette Tape (DECO Cassette Test) — Data East
+- cubybop.zip — Cuby Bop — Taito
+- cuebrick.zip — Cue Brick — Taito
+- cultures.zip — The Cultures (quiz) — SemiCom
+- cupfinal.zip — European Cup Final — Tecmo
+- cutefght.zip — Cute Fighter — SemiCom
+- cutieq.zip — Cutie Q — Namco
+- cworld.zip — Capcom World — Capcom
+- cworld2j.zip — Capcom World 2 (Japan) — Capcom
+- cybattlr.zip — Cybattler — Jaleco
+- cyberlip.zip — Cyber-Lip — SNK
+- cybertnk.zip — Cyber Tank — Irem (proto)
+- cybots.zip — Cyberbots: Fullmetal Madness — Capcom
+- cyvern.zip — Cyvern: The Dragon Weapons — Kaneko
+- czeroize.zip — Zeroize (test ROM) — Williams (test)
+- dacholer.zip — Dacholer — Nichibutsu
+- daioh.zip — Daioh — Athena
+- daitorid.zip — Puzzle Uo Poko / Daitoride — Metro
+- dambustr.zip — Danger Buster (var.) — Data East (bootleg)
+- dangar.zip — Dangar - Ufo Robo — Nichibutsu
+- dangseed.zip — Dangerous Seed — Namco
+- dankuga.zip — Dan-Ku-Ga (proto Kaiser Knuckle) — Taito
+- daraku.zip — Daraku Tenshi (Fallen Angels) — Psikyo
+- darius.zip — Darius — Taito
+- darius2.zip — Darius II — Taito
+- dariusg.zip — Darius Gaiden — Taito
+- dariusgx.zip — Darius Gaiden Extra — Taito
+- darkmist.zip — The Lost Castle in Darkmist — Seibu / Taito
+- darkplnt.zip — Dark Planet — Stern
+- darkseal.zip — Dark Seal (Gate of Doom) — Data East
+- darktowr.zip — Dark Tower — Stern (proto)
+- darwin.zip — Darwin 4078 — Data East
+- dblaxle.zip — Double Axle (Power Drive) — Taito
+- dbldynj.zip — Double Dribble (J) / Double Dynamites var. — Konami
+- dblewing.zip — Double Wings — Mitchell
+- dblpoint.zip — Double Point — Yung Yu
+- dbreed.zip — Dragon Breed — Irem
+- dbz.zip — Dragon Ball Z — Banpresto
+- dbz2.zip — Dragon Ball Z 2: Super Battle — Banpresto
+- dcclub.zip — Dynamic Country Club — Sega
+- dcon.zip — D-Con — Success
+- dday.zip — D-Day — Olympia
+- ddayjlc.zip — D-Day (Jaleco) — Jaleco
+- ddcrew.zip — DD Crew — Sega
+- ddonpach.zip — DoDonPachi — Cave / Atlus
+- ddp2.zip — DoDonPachi II: Bee Storm — IGS
+- ddp3.zip — DoDonPachi Dai-Ou-Jou — Cave
+- ddragon.zip — Double Dragon — Technos Japan
+- ddragon2.zip — Double Dragon II: The Revenge — Technos Japan
+- ddragon3.zip — Double Dragon 3: The Rosetta Stone — East Technology / Technos
+- ddribble.zip — Double Dribble — Konami
+- ddsom.zip — Dungeons & Dragons: Shadow over Mystara — Capcom
+- ddtod.zip — Dungeons & Dragons: Tower of Doom — Capcom
+- ddux.zip — Dynamite Dux — Sega
+- deadang.zip — Dead Angle — Seibu Kaihatsu
+- deadconx.zip — Dead Connection — Taito
+- dealer.zip — Dealer — Tong Electronic
+- decocass.zip — DECO Cassette System (BIOS) — Data East
+- decomult.zip — DECO Cassette Multigame — Data East (compilado)
+- deerhunt.zip — Deer Hunting USA — Sammy USA / Gaelco (hw)
+- defender.zip — Defender — Williams
+- deluxe5.zip — Deluxe 5 (multijuego) — Comad
+- demoderb.zip — Demolition Derby — Bally Midway
+- demonwld.zip — Demon’s World (Horror Story) — Toaplan / Taito
+- denjinmk.zip — Denjin Makai — Banpresto
+- deroon.zip — Deroon Dero Dero — IGS
+- desertbr.zip — Desert Breaker — Sega
+- desertdn.zip — Desert Dan — unknown (bootleg)
+- devilfsh.zip — Devil Fish — Artic
+- devilw.zip — Devil World — Toaplan
+- devstors.zip — Devastators — Konami
+- dharma.zip — Dharma Doujou — Metro
+- diamond.zip — Diamond Run — KH Video
+- dietgo.zip — Diet Go Go — Data East
+- digdug.zip — Dig Dug — Namco
+- digdug2.zip — Dig Dug II — Namco
+- diggerma.zip — Digger Man — Gaelco (bootleg set)
+- dimahoo.zip — Dimahoo (Great Mahou Daisakusen) — Raizing / Capcom
+- dingo.zip — Dingo — Ashby / Jaleco
+- dino.zip — Cadillacs and Dinosaurs — Capcom
+- dinorex.zip — Dino Rex — Taito
+- dirtfoxj.zip — Dirt Fox — Namco
+- disco.zip — Disco No.1 — Data East
+- divebomb.zip — Dive Bomber Squad — Dumarc / Sae Han
+- diverboy.zip — Diver Boy — Diamond Systems
+- djboy.zip — DJ Boy — Kaneko
+- dkong.zip — Donkey Kong — Nintendo
+- dkong3.zip — Donkey Kong 3 — Nintendo
+- dkongjr.zip — Donkey Kong Jr. — Nintendo
+- dleague.zip — Dream League / Dynamic League — Taito
+- dmnfrnt.zip — Demon Front — IGS (PGM)
+- docastle.zip — Mr. Do’s Castle — Universal
+- dockman.zip — Dock Man — Taito (Kasco)
+- dodgeman.zip — Dodge Man — Yun Sung
+- dogfgt.zip — Dog Fight — Falcon
+- dogfight.zip — Dog Fight — Ordyne/GA (var. antigua)
+- dogyuun.zip — Dogyuun — Toaplan
+- dokaben.zip — Dokaben — Capcom
+- dolmen.zip — The Legend of Silkroad (var. board) — Unico (posible conf. con Silkroad)
+- domino.zip — Domino Man — Bally Midway
+- dommy.zip — Dommy — Technos (early)
+- dondokod.zip — Don Doko Don — Taito
+- donight.zip — Do! Night (hack) — Bootleg
+- donpachi.zip — DonPachi — Cave / Atlus
+- dorachan.zip — Dora-chan — Craul Denshi
+- dorodon.zip — Dorodon — Falcon
+- dorunrun.zip — Do! Run Run — Universal
+- dotrikun.zip — Dottori-Kun (test) — Sega
+- dotron.zip — Discs of Tron — Bally Midway
+- doubledr.zip — Double Dragon (Neo Geo, “Double Dragons”) — Technos / SNK (pirata)
+- dowild.zip — Mr. Do’s Wild Ride — Universal
+- downtown.zip — DownTown — Seibu Kaihatsu
+- dquizgo.zip — Date Quiz Go Go — Irem
+- dquizgo2.zip — Date Quiz Go Go Episode 2 — Irem
+- dragnblz.zip — Dragon Blaze — Psikyo
+- dragngun.zip — Dragon Gun — Taito
+- dragonsh.zip — Dragon’s Heaven — Taito / System Vision
+- drakton.zip — Drakton — Epos
+- dreambal.zip — Dream Ball — Playmark
+- dreamwld.zip — Dream World — SemiCom
+- dremshpr.zip — Dream Shopper — SNK
+- drgnbowl.zip — Dragon Bowl — Nics
+- drgnbstr.zip — Dragon Buster — Namco
+- drgnmst.zip — Dragon Master — Unico
+- drgnunit.zip — Dragon Unit (Castle of Dragon) — Athena
+- drgw2.zip — Dragon World II — IGS
+- dribling.zip — Dribbling — Model Racing
+- drifto94.zip — Drift Out ’94 — Visco
+- driftout.zip — Drift Out — Visco
+- drivfrcp.zip — Driving Force Plus — Taito (var.)
+- drmicro.zip — Dr. Micro — Epos
+- drtomy.zip — Dr. Tomy — NTC
+- drtoppel.zip — Dr. Toppel’s Adventure — Taito
+- dsaber.zip — Dragon Saber — Namco
+- dsoccr94.zip — Dream Soccer ’94 — Data East
+- dspirit.zip — Dragon Spirit — Namco
+- dstlk.zip — Night Warriors: Darkstalkers’ Revenge — Capcom
+- dtfamily.zip — Diet Family — SemiCom
+- ducki.zip — Duckie — IGS (PGM mini)
+- dunkshot.zip — Dunk Shot — Sega
+- dw2001.zip — Dance Wrecker 2001 (var.) — SemiCom / Eolith
+- dwi.zip — Dance Wrecker / DWI (var.) — SemiCom
+- dwpc.zip — Dance Wrecker P.C. (var.) — SemiCom
+- dyger.zip — Dyger — Philko
+- dynablst.zip — Dynablaster / Bomberman — Irem
+- dynabomb.zip — Dynamite Bomb — ESD
+- dynagear.zip — Dyna Gear — Sammy
+- dynduke.zip — Dyna Dux / Dyna Duke — Seibu
+- dynwar.zip — Dynasty Wars (Tenchi wo Kurau) — Capcom
+- eaglshot.zip — Eagle Shot Golf — Sammy
+- earthjkr.zip — Earth Joker — NMK
+- ecofghtr.zip — Eco Fighters — Capcom
+- edf.zip — E.D.F. Earth Defense Force — Jaleco
+- edrandy.zip — The Cliffhanger: Edward Randy — Data East
+- eeekk.zip — Eeekk! — Seibu (var.)
+- eeekkp.zip — Eeekk! Plus — Seibu (var.)
+- efdt.zip — Escape from the Deep (proto) — Unknown
+- egghunt.zip — Egg Hunt — Inviito
+- eggor.zip — Eggor — Orca
+- eightfrc.zip — Eight Forces — Tecmo
+- eightman.zip — Eightman — Pallas / SNK
+- elecyoyo.zip — The Electric Yo-Yo — Taito / Midway
+- elevator.zip — Elevator Action — Taito
+- elim2.zip — Eliminator — Sega/Gremlin
+- elvactr.zip — Elevator Action Returns — Taito
+- empcity.zip — Empire City: 1931 — Seibu Kaihatsu
+- enduror.zip — Enduro Racer — Sega
+- enforce.zip — Enforce — Taito
+- enmadaio.zip — Enma Daio — Taito F3 (quiz)
+- eprom.zip — Eprom — Exidy
+- esb.zip — The Empire Strikes Back (Atari proto) — Atari
+- esckids.zip — Escape Kids — Konami
+- espgal.zip — ESPGaluda — Cave
+- espial.zip — Espial — Thunderbolt / Orca
+- esprade.zip — ESP Ra.De. — Cave / Atlus
+- eswat.zip — E-SWAT — Sega
+- eto.zip — Koinu no Osanpo (ETO) — Metro
+- euroch92.zip — Euro Champ ’92 — Taito
+- evilston.zip — Evil Stone — Spacy / Kaneko
+- excelsr.zip — Excelsior — Gaelco (var.)
+- exctleag.zip — Exciting League — Excellent Systems
+- exedexes.zip — Exed Exes — Capcom
+- explbrkr.zip — Explosive Breaker — Kaneko
+- exprraid.zip — Express Raider — Data East
+- extdwnhl.zip — Extreme Downhill — Taito
+- extrmatn.zip — Extra Bases / Extermination (var.) — Taito (var.)
+- exzisus.zip — Exzisus — Taito
+- eyes.zip — Eyes — Digitrex Techstar / Rock-Ola
+- f1dream.zip — F-1 Dream — Capcom
+- f1gp.zip — F-1 Grand Prix — Video System
+- f1gp2.zip — F-1 Grand Prix Part II — Video System
+- faceoff.zip — Face Off — Namco
+- fantasia.zip — Fantasia — Comad
+- fantastc.zip — Fantastic — ADK (var./hack)
+- fantasyu.zip — Fantasy — SNK / Rock-Ola
+- fantland.zip — Fantasy Land — Electronic Devices
+- fantsia2.zip — Fantasia II — Comad
+- fantzn2.zip — Fantasy Zone II — Sega
+- fantzn2x.zip — Fantasy Zone II DX — Sega (System 16 conversion)
+- fantzone.zip — Fantasy Zone — Sega
+- fastlane.zip — Fast Lane — Konami
+- fatfursp.zip — Fatal Fury Special — SNK
+- fatfury1.zip — Fatal Fury: King of Fighters — SNK
+- fatfury2.zip — Fatal Fury 2 — SNK
+- fatfury3.zip — Fatal Fury 3 — SNK
+- fball.zip — Super Football — Leland
+- fbfrenzy.zip — Football Frenzy — SNK
+- feversos.zip — Fever SOS (Dangun Feveron) — Cave
+- ffight.zip — Final Fight — Capcom
+- ffightaec2.zip — Final Fight (AEC2 hack) — Hack
+- fghtbskt.zip — Fighting Basketball — Jaleco
+- fghthist.zip — Fighting History (Fighter’s History) — Data East
+- fhawk.zip — Fighting Hawk — Taito
+- fightfev.zip — Fight Fever — Viccom / SNK
+- fightrol.zip — Fighting Roller — Nichibutsu
+- finalb.zip — Final Blow — Taito
+- finalgdr.zip — Final Guarder — Gaelco (var.)
+- finalizr.zip — Finalizer — Konami
+- finalttr.zip — Final Tetris (var.) — Irem / Nichibutsu (bootleg)
+- finehour.zip — The First Funky Fighter (Fine Hour) — Namco
+- firebatl.zip — Fire Battle — Taito (bootleg)
+- firebeas.zip — Fire Beast — Taito (var.)
+- fireshrk.zip — Fire Shark — Toaplan
+- firetrap.zip — Fire Trap — Data East
+- fitegolf.zip — Fighting Golf — SNK / Nazca
+- fixeight.zip — FixEight — Toaplan
+- flagrall.zip — Flag Rally — Data East
+- flashgal.zip — Flashgal — Sega / Seta
+- flicky.zip — Flicky — Sega
+- flipjack.zip — Flipper Jack — Nihon Bussan
+- flipshot.zip — Battle Flip Shot — Visco
+- flower.zip — Flower — Komax
+- flstory.zip — The FairyLand Story — Taito
+- flyboy.zip — Fly-Boy — Kaneko
+- flytiger.zip — Flying Tiger — Seibu
+- fncywld.zip — Fancy World: Earth of Crisis — Unico
+- fnkyfish.zip — Funky Fish — Sun Electronics
+- foodf.zip — Food Fight — Atari
+- footchmp.zip — Football Champ — Taito
+- forgottn.zip — Forgotten Worlds — Capcom
+- formatz.zip — Formation Z — Jaleco
+- fpoint.zip — Flash Point — Sega
+- freekick.zip — Free Kick — Nihon System
+- freeze.zip — Freeze — Cinematronics
+- frenzy.zip — Frenzy — Stern
+- friskyt.zip — Frisky Tom — Nichibutsu
+- frogger.zip — Frogger — Konami / Sega
+- froman2b.zip — From A to B (quiz) — Jaleco (var.)
+- frontlin.zip — Front Line — Taito
+- fround.zip — Final Round — Konami
+- fshark.zip — Flying Shark — Toaplan
+- fsoccer.zip — Fighting Soccer — SNK
+- fspiderb.zip — The Amazing Spider-Man (proto) — Stern (pin/video var.)
+- fstarfrc.zip — Final Star Force — Tecmo
+- funkybee.zip — Funky Bee — Orca
+- funkyjet.zip — Funky Jet — Data East
+- funybubl.zip — Funny Bubble — ESD
+- futspy.zip — Future Spy — Sega
+- gaia.zip — Gaia Crusaders — Noise Factory / Andamiro
+- gaialast.zip — Gaiapolis — Konami
+- gaiapols.zip — Gaiapolis (var.) — Konami
+- galaga.zip — Galaga — Namco
+- galaga88.zip — Galaga ’88 — Namco
+- galaxian.zip — Galaxian — Namco
+- galaxyfg.zip — Galaxy Fight — Sunsoft / SNK
+- galaxygn.zip — Galaxy Gunners — Nichibutsu (var.)
+- galivan.zip — Cosmo Police Galivan — Nichibutsu
+- galmedes.zip — Galmedes — Taito / Visco
+- galpani3.zip — Gals Panic 3 — Kaneko
+- galpani4.zip — Gals Panic 4 — Kaneko
+- galpanic.zip — Gals Panic — Kaneko
+- galpanis.zip — Gals Panic S — Kaneko
+- galpans2.zip — Gals Panic S2 — Kaneko
+- galpans3.zip — Gals Panic S3 — Kaneko
+- galspnbl.zip — Gals Pinball — Comad
+- ganbare.zip — Ganbare Jan-Ou — Dynax
+- gangwars.zip — Gang Wars — Alpha Denshi / SNK
+- ganryu.zip — Ganryu — Visco / SNK
+- gaplus.zip — Gaplus — Namco
+- gardia.zip — Gardia — Omori / Jaleco
+- garogun.zip — Garogun Seroyang — Dooyong
+- garou.zip — Garou: Mark of the Wolves — SNK
+- garyoret.zip — Garyo Retsuden — Data East
+- gaunt2.zip — Gauntlet II — Atari Games
+- gauntlet.zip — Gauntlet — Atari Games
+- gberet.zip — Green Beret (Rush’n Attack) — Konami
+- gbusters.zip — Guerrilla War — SNK
+- gdfs.zip — G.Darius (Fighting) / Gun Dealer S (var.) — Dooyong (si es Gun Dealer S)
+- geebee.zip — Gee Bee — Namco
+- gekiridn.zip — Gekirindan — Taito
+- gemini.zip — Gemini Wing — Tecmo
+- genix.zip — Genix Family — SemiCom
+- genpeitd.zip — Genpei Touma Den — Namco
+- gfire2.zip — Gunforce 2 (var. set) — Irem
+- gforce2.zip — Galaxy Force II — Sega
+- gground.zip — Gain Ground — Sega
+- ghostb.zip — The Real Ghostbusters — Data East
+- ghostbi.zip — Ghosts ’n Goblins (bootleg/Italian) — Capcom (bootleg)
+- ghostlop.zip — Ghostlop — Data East / SNK (cancelado)
+- ghouls.zip — Ghouls ’n Ghosts — Capcom
+- ghox.zip — Ghox — Toaplan
+- gigandes.zip — Gigandes — East Technology
+- gigas.zip — Gigas — Sega / Nihon System
+- gigasm2.zip — Gigas Mark II — Nihon System
+- gigawing.zip — Giga Wing — Capcom / Takumi
+- gijoe.zip — G.I. Joe — Konami
+- ginganin.zip — Ginganin — Jaleco
+- ginkun.zip — Ginkaku Saburo no Ginkun — Taito
+- glass.zip — Glass — Gaelco
+- gloc.zip — G-LOC: Air Battle — Sega
+- gmgalax.zip — Galaxian (multigame hack) — Bootleg
+- gnbarich.zip — Gunbarich — Psikyo
+- gng.zip — Ghosts ’n Goblins — Capcom
+- go2000.zip — Go 2000 — IGS
+- goalx3.zip — Goal! Goal! Goal! — Visco / SNK
+- godzilla.zip — Godzilla — Banpresto
+- gogomile.zip — Go Go! Mile Smile — Namco
+- goindol.zip — Goindol — SunA
+- goldmedl.zip — Konami ’88 (Gold Medalist) — Konami
+- goldnaxe.zip — Golden Axe — Sega
+- gollygho.zip — Golly! Ghost! — Namco
+- gotcha.zip — Got-Cha Mini Game Festival — Dongsung
+- gowcaizr.zip — Gowcaizer — Technos / SNK
+- gpilots.zip — Ghost Pilots — SNK
+- gprider.zip — G.P. Rider — Sega
+- gradius3.zip — Gradius III — Konami
+- grainbow.zip — Rainbow Islands — Taito
+- grasspin.zip — Grasspin — Taito (var.)
+- gravitar.zip — Gravitar — Atari
+- grdian.zip — Guardian — Irem
+- grdians.zip — Guardians / Denjin Makai II — Banpresto
+- grdnstrm.zip — Grand Striker 2 (Grand Striderm var.) — Human
+- grindstm.zip — Grind Stormer / V-V — Toaplan
+- grndtour.zip — Grand Tour — Taito (var.)
+- grobda.zip — Grobda — Namco
+- groundfx.zip — Ground Effects — Taito
+- growl.zip — Growl (Runark) — Taito
+- gseeker.zip — Gun Buster / Geo Storm — Irem
+- gstream.zip — G-Stream G2020 — Oriental Soft
+- gstrik2.zip — Goal! Goal! Goal! 2 / Great Soccer ’96 — Visco
+- gt2k.zip — Golden Tee 2000 — Incredible Technologies
+- gt3d.zip — Golden Tee 3D Golf — Incredible Technologies
+- gt97.zip — Golden Tee ’97 — Incredible Technologies
+- gt98.zip — Golden Tee ’98 — Incredible Technologies
+- gt99.zip — Golden Tee ’99 — Incredible Technologies
+- gtclassc.zip — Golden Tee Classic — Incredible Technologies
+- gtmr.zip — Great 1000 Miles Rally — Kaneko
+- gtmr2.zip — Great 1000 Miles Rally 2 — Kaneko
+- gulfstrm.zip — Gulf Storm — Dooyong
+- gulfwar2.zip — Gulf War II — Comad
+- gulunpa.zip — Gururinpa! (var.) — Namco (var.)
+- gumbo.zip — Gumbo — Min Corp.
+- gunbird.zip — Gunbird — Psikyo
+- gunbird2.zip — Gunbird 2 — Psikyo
+- gunbustr.zip — Gunbuster — Taito
+- gundamex.zip — Gundam EX (var.) — Banpresto
+- gundhara.zip — Gundhara — Banpresto
+- gundl94.zip — Gundam ’94 (quiz/board) — Banpresto
+- gunforc2.zip — GunForce II — Irem
+- gunforce.zip — GunForce — Irem
+- gunfront.zip — Gun & Frontier — Taito
+- gunlock.zip — Gunlock (RayForce/Layer Section) — Taito
+- gunmast.zip — Gun Master — Metro
+- gunnail.zip — GunNail — NMK
+- gunsmoke.zip — Gun.Smoke — Capcom
+- gururin.zip — Gururin — Face / SNK
+- gutsn.zip — Guts’n — Excellent Systems
+- guwange.zip — Guwange — Cave / Atlus
+- guzzler.zip — Guzzler — Tehkan
+- gwar.zip — Guerrilla War — SNK
+- gwarrior.zip — Guerrilla Warrior (var.) — SNK (var.)
+- gyrodine.zip — Gyrodine — Taito / Crux
+- gyruss.zip — Gyruss — Konami
+- hachamf.zip — Hacha Mecha Fighter — NMK
+- hachamfb.zip — Hacha Mecha Fighter (bootleg) — Bootleg
+- hachoo.zip — Hachoo! — Jaleco
+- hal21.zip — HAL 21 — SNK / Alpha Denshi
+- halley87.zip — Halley’s Comet ’87 — Taito
+- halleys.zip — Halley’s Comet — Taito
+- hammerin.zip — Hammerin’ Harry — Irem
+- hangon.zip — Hang-On — Sega
+- hangonjr.zip — Hang-On Jr. — Sega
+- hangplt.zip — Hang Pilot — Taito
+- hapytour.zip — Happy Tour — IGS
+- hardhead.zip — Hard Head — SunA
+- hardhea2.zip — Hard Head 2 — SunA
+- hardyard.zip — Hard Yardage — Tecmo
+- hardyard10.zip — Hard Yardage (rev. 1.0) — Tecmo
+- hasamu.zip — Hasamu — Taito
+- hatena.zip — Hatena Satena — Capcom
+- hatris.zip — Hatris — Video System
+- hattrick.zip — Hat Trick — Bally/Sente
+- hayaosi1.zip — Hayaoshi Quiz Ouza Ketteisen — Taito
+- hbarrel.zip — Heavy Barrel — Data East
+- hcastle.zip — Haunted Castle — Konami
+- hdrivair.zip — Hard Drivin’ Airborne — Atari Games
+- headon.zip — Head On — Sega/Gremlin
+- headon2.zip — Head On 2 — Sega/Gremlin
+- headoni.zip — Head On (Itisa) — Itisa
+- headonn.zip — Head On (Noma) — Noma
+- headons.zip — Head On (Sega) — Sega
+- heatbrl.zip — Heated Barrel — Data East
+- heatof11.zip — The Heat of 11 — Face
+- heberpop.zip — Hebereke no Popoon — Sunsoft
+- hedpanic.zip — Head Panic — Para
+- heiankyo.zip — Heiankyo Alien — Denki Onkyo
+- helifire.zip — Helifire — Nintendo
+- hellfire.zip — Hellfire — Toaplan
+- hellngt.zip — Hell Night — Taito
+- herbiedk.zip — Herbie at the Docks — Valadon Automation
+- hero.zip — Hero — Taito
+- hexa.zip — Hexa — D.R. Korea
+- hexion.zip — Hexion — Konami
+- hgkairak.zip — Hanafuda Hana Ginga — Nichibutsu
+- hgokou.zip — Hanafuda Hana Gokou — Nichibutsu
+- hharry.zip — Hammerin’ Harry — Irem
+- higemaru.zip — Pirate Ship Higemaru — Capcom
+- highsplt.zip — Hi Splatter — Kaneko
+- hiimpact.zip — High Impact Football — Midway
+- hippodrm.zip — Hippodrome — Data East
+- hiryuken.zip — Hiryu no Ken — Culture Brain
+- hishouza.zip — Hishou Zame — Toaplan
+- hitice.zip — Hit the Ice — Williams
+- hitme.zip — Hit Me — Ramtek
+- hitnmiss.zip — Hit ’n’ Miss — Taito
+- hoccer.zip — Hoccer — Eastern Micro Electronics
+- hoccer2.zip — Hoccer 2 — Eastern Micro Electronics
+- hogalley.zip — Hogan’s Alley — Nintendo
+- holeland.zip — Hole Land — Tecfri
+- holo.zip — Holosseum — Sega
+- homerun.zip — Home Run — Sega
+- homo.zip — Homo — D. R. Korea
+- hook.zip — Hook — Irem
+- hopmappy.zip — Hopping Mappy — Namco
+- hopprobo.zip — Hopper Robo — Sega
+- horocomp.zip — Horoscomp — Taito
+- horshoes.zip — American Horseshoes — Taito
+- hotchase.zip — Hot Chase — Konami
+- hotdogst.zip — Hotdog Storm — Marble
+- hotpinbl.zip — Hot Pinball — Jaleco
+- hotshock.zip — Hot Shocker — ESD
+- hotsmash.zip — Hot Smash — Sega
+- hourouki.zip — Quiz Hourouki — Capcom
+- housemn2.zip — House Mannequin 2 — Taito
+- hpolym84.zip — Hyper Olympic ’84 — Konami
+- hpuncher.zip — Heavy Puncher — Kaneko
+- hstenn10.zip — High School Tennis — Taito
+- hthero.zip — Hat Trick Hero — Taito
+- hthero93.zip — Hat Trick Hero ’93 — Taito
+- hthero94.zip — Hat Trick Hero ’94 — Taito
+- hthero95.zip — Hat Trick Hero ’95 — Taito
+- htchctch.zip — Hatch Catch — SemiCom
+- hunchbak.zip — Hunchback — Century Electronics
+- hunchbkd.zip — Hunchback (Data East) — Data East
+- hunchbks.zip — Hunchback (Stern) — Stern
+- huncholy.zip — Hunchback Olympic — Century Electronics
+- hustle.zip — Hustle — Gremlin
+- hustler.zip — The Hustler — Konami
+- hvnsgate.zip — Heaven’s Gate — Atlus
+- hvoltage.zip — High Voltage — Seta
+- hvymetal.zip — Heavy Metal — Data East
+- hwchamp.zip — Heavyweight Champ — Sega
+- hwrace.zip — Highway Race — Taito
+- hydra.zip — Hydra — Atari Games
+- hydrap.zip — Hydra (prototype) — Atari Games
+- hydrap2.zip — Hydra (prototype 2) — Atari Games
+- hyhoo.zip — Taito no Hana Hoo — Taito
+- hyhoo2.zip — Taito no Hana Hoo 2 — Taito
+- hyouban.zip — Hyouban Douchuuki — Capcom
+- hyperath.zip — Hyper Athlete — Konami
+- hyperpac.zip — Hyper Pacman — SemiCom
+- hyperspt.zip — Hyper Sports — Konami
+- hyprdriv.zip — Hyperdrive — Midway
+- hypreac2.zip — Hyper Reaction 2 — Sammy
+- hypreact.zip — Hyper Reaction — Sammy
+- hyprshot.zip — Hyper Shot — Namco
+- iceclimb.zip — Ice Climber — Nintendo
+- iceclmrd.zip — Ice Climber (bootleg) — Bootleg
+- ichidant.zip — Ichidant-R — Sega
+- idhuntr.zip — ID Hunters — Namco
+- idolmj.zip — Idol Mahjong — Nichibutsu
+- idsoccer.zip — Indoor Soccer — Taito
+- iemoto.zip — Iemoto — Nichibutsu
+- iganinju.zip — Iga Ninjutsu — Nichibutsu
+- igmo.zip — IGMO — Data East
+- ikari.zip — Ikari Warriors — SNK
+- ikari3.zip — Ikari III: The Rescue — SNK
+- ikarijp.zip — Ikari — SNK (Japan)
+- ikarino.zip — Ikari no Yousai — SNK
+- ikki.zip — Ikki — Sun Electronics
+- illvelo.zip — Illvelo — Milestone
+- imago.zip — Imago — A. L. S.
+- imekura.zip — Imekura — Mitchell
+- imgfight.zip — Image Fight — Irem
+- imgfighto.zip — Image Fight (Old) — Irem
+- imolagp.zip — International Motorcross GP — Jaleco
+- imsorry.zip — I’m Sorry — Coreland / Sega
+- in1.zip — In 1 — Unknown
+- inquiztr.zip — Inquiztr — Gamo
+- inthunt.zip — In the Hunt — Irem
+- intrepid.zip — Intrepid — Nova Games
+- introdon.zip — Introduction Quiz Don — Taito
+- invad2ct.zip — Space Invaders Part II (Cocktail) — Taito
+- invaders.zip — Space Invaders — Taito
+- invadpt2.zip — Space Invaders Part II — Taito
+- invds.zip — Invaders (bootleg) — Bootleg
+- invho2.zip — Invader’s Ho 2 — Nichibutsu
+- invinco.zip — Invinco — Sega
+- invrvnga.zip — Invasion Revenge — Nichibutsu
+- ipminvad.zip — IPM Invader — Irem
+- ipmiv.zip — IPM Invader — Irem
+- iron.zip — Iron — Irem
+- ironclad.zip — Ironclad — Saurus
+- ironfort.zip — Iron Fortress — Nichibutsu
+- ironh.zip — Iron Horse — Konami
+- irobot.zip — I, Robot — Atari Games
+- irrmaze.zip — Irritating Maze — SNK
+- ixion.zip — Ixion — Sega
+- jack.zip — Jack — Jaleco
+- jack2.zip — Jack 2 — Jaleco
+- jackal.zip — Jackal — Konami
+- jackler.zip — Jackler — Unknown
+- jackrabt.zip — Jackrabbit — Atari
+- jailbrek.zip — Jail Break — Konami
+- jajamaru.zip — Jajamaru — Jaleco
+- janken.zip — Janken Game — Sega
+- janoh.zip — Jan Oh — Nichibutsu
+- janshin.zip — Janshin Densetsu — Aicom / SNK
+- jedi.zip — Return of the Jedi — Atari Games
+- jellybe.zip — Jelly Bean — Sega
+- jigkmgri.zip — Jigoku Meguri — Taito
+- jjack.zip — Jumping Jack — Cinematronics
+- joemac.zip — Joe & Mac — Data East
+- joemacr.zip — Joe & Mac Returns — Data East
+- jogakuen.zip — Jogakuen — Nichibutsu
+- jollyjgr.zip — Jolly Jogger — Taito
+- josvolly.zip — Joshua Volleyball — Sega
+- journey.zip — Journey — Bally/Midway
+- joust.zip — Joust — Williams
+- joustr.zip — Joust (Red Label) — Williams
+- joustwr.zip — Joust (White Label) — Williams
+- joyfulr.zip — Joyful Road — Konami
+- joyjoy.zip — Joy Joy Kid — SNK
+- joyman.zip — Joyman — Nichibutsu
+- jpark.zip — Jurassic Park — Sega
+- jrpacman.zip — Jr. Pac-Man — Bally/Midway
+- jumpbug.zip — Jump Bug — Alpha Denshi / Sega
+- jumpcoas.zip — Jump Coaster — Kaneko
+- jumping.zip — Jumping — Kaneko
+- jumpkids.zip — Jump Kids — SemiCom
+- jumpshot.zip — Jump Shot — Bally/Midway
+- junglek.zip — Jungle King — Taito
+- jungler.zip — Jungler — Konami
+- junglers.zip — Jungler (Stern) — Stern
+- junofrst.zip — Juno First — Konami
+- jyangoku.zip — Jyangokushi — Capcom
+- kabukiz.zip — Kabuki-Z — Alpha Denshi / SNK
+- kageki.zip — Kageki — Kaneko
+- kaiserkn.zip — Kaiser Knuckle — Taito
+- kaitei.zip — Kaitei Takara Sagashi — Taito
+- kaiteids.zip — Kaitei Daisensou — Taito
+- kaizoku.zip — Kaizoku — Namco
+- kamikaze.zip — Kamikaze — Leijac
+- kanatuen.zip — Kanatsuen — Taito
+- kangaroo.zip — Kangaroo — Sun Electronics / Atari
+- kaos.zip — Kaos — GamePlan
+- karatblz.zip — Karate Blazers — Video System
+- karatedo.zip — Karate Do — Alpha Denshi
+- karianx.zip — Karian Cross — Mitchell
+- karnov.zip — Karnov — Data East
+- karnovr.zip — Karnov’s Revenge — Data East / SNK
+- kbash.zip — Knuckle Bash — Toaplan
+- kbash2.zip — Knuckle Bash 2 — Toaplan
+- kchamp.zip — Karate Champ — Data East
+- kchampvs.zip — Karate Champ (Versus) — Data East
+- keith.zip — Keith Courage — Hudson Soft
+- kick.zip — Kick — Midway
+- kickboy.zip — Kick Boy — Taito
+- kicker.zip — Kicker — Konami
+- kickgoal.zip — Kick Goal — TCH
+- kicknrun.zip — Kick & Run — Taito
+- kickoff.zip — Kick Off — Anco
+- kidniki.zip — Kid Niki — Irem
+- kikcubic.zip — Kikcubic — Sega
+- kikikai.zip — Kiki KaiKai — Taito
+- killbld.zip — Killing Blade — IGS
+- killcom.zip — Killer Comet — GamePlan
+- kingbal.zip — King & Balloon — Namco
+- kingdmgp.zip — Kingdom Grandprix — Raizing
+- kingofb.zip — King of Boxer — Wood Place
+- kingpin.zip — Kingpin — Cinematronics
+- kirameki.zip — Kirameki Star Road — Capcom
+- kisekaeh.zip — Kisekaehime — Sega
+- kittenk.zip — Kitten Kaboodle — Atari
+- kiwame.zip — Kiwame Mahjong — Athena
+- kizuna.zip — Kizuna Encounter — SNK
+- klax.zip — Klax — Atari Games
+- klondkp.zip — Klondike Poker — Nichibutsu
+- kncljoe.zip — Knuckle Joe — Seibu Kaihatsu
+- knightb.zip — Knight Boy — Konami (bootleg)
+- knockout.zip — Knock Out — Midway
+- kod.zip — King of Dragons — Capcom
+- kodure.zip — Kodure Ookami — Data East
+- koikois.zip — Koi Koi Shimasho — Video System
+- koikois2.zip — Koi Koi Shimasho 2 — Video System
+- koinomp.zip — Koin no Miracle Paradise — Nichibutsu
+- kok.zip — Knights of the King — Sega
+- kollon.zip — Kollon — Takumi
+- konam80s.zip — Konami 80’s Arcade Gallery — Konami
+- konamigt.zip — Konami GT — Konami
+- korosuke.zip — Korosuke Roller — Sega
+- korry.zip — Korry — Taito
+- kot.zip — Knights of the Round — Capcom
+- kouyakyu.zip — Kouyakyu — Data East
+- kov.zip — Knights of Valour — IGS
+- kov2.zip — Knights of Valour 2 — IGS
+- kovplus.zip — Knights of Valour Plus — IGS
+- kram.zip — Kram — Taito
+- kroozr.zip — Kozmik Krooz’r — Midway
+- krull.zip — Krull — Gottlieb
+- krzybowl.zip — Krazy Bowl — P&P Marketing
+- ktiger.zip — Kyukyoku Tiger — Toaplan
+- ktiger2.zip — Kyukyoku Tiger II — Toaplan
+- kungfub.zip — Kung-Fu Master — Irem
+- kungfub2.zip — Kung-Fu Master 2 — Irem
+- kungfum.zip — Kung-Fu Master (Microdeal) — Microdeal
+- kungfut.zip — Kung-Fu Taiken — Taito
+- kungfu.zip — Kung-Fu Master — Irem
+- kungfut.zip — Kung-Fu Taiken — Taito
+- kuniokun.zip — Nekketsu Kōha Kunio-kun — Technos Japan
+- kurikint.zip — Kuri Kinton — Taito
+- kurikinta.zip — Kuri Kinton (Prototype) — Taito
+- kyros.zip — Kyros — World Games / Alfa Denshi
+- kyukaidk.zip — Kyūkai Dōchūki — Namco
+- kyustrkr.zip — Kyuukai Douchuuki Striker — Namco
+- ladybug.zip — Lady Bug — Universal
+- ladybugb.zip — Lady Bug (bootleg) — Bootleg
+- ladygolf.zip — Lady Golf — Data East
+- ladymstr.zip — Lady Master — Unico
+- lair.zip — Dragon’s Lair — Cinematronics
+- landbrk.zip — Land Breaker — Irem
+- landmakr.zip — Land Maker — Taito
+- laser.zip — Laser — Vectorbeam
+- laserbat.zip — Laser Battle — Vectorbeam
+- laserbas.zip — Laser Base — Taito
+- laserbld.zip — Laser Blade — Nichols
+- lasso.zip — Lasso — SNK
+- lastblad.zip — The Last Blade — SNK
+- lastbld2.zip — The Last Blade 2 — SNK
+- lastbrnx.zip — Last Bronx — Sega
+- lastday.zip — The Last Day — Dooyong
+- lastduel.zip — Last Duel — Capcom
+- lastfort.zip — The Last Fortress — NMK
+- lastmisn.zip — Last Mission — Data East
+- lastsurv.zip — Last Survivor — Sega
+- lazarian.zip — Lazarian — Midway
+- lbowling.zip — League Bowling — SNK
+- ldrun.zip — Lode Runner — Irem
+- ldrun2.zip — Lode Runner II — Irem
+- ldrun3.zip — Lode Runner III — Irem
+- ldrun4.zip — Lode Runner IV — Irem
+- ldruna.zip — Lode Runner (set a) — Irem
+- le2.zip — Lethal Enforcers II — Konami
+- le2u.zip — Lethal Enforcers II (US) — Konami
+- leaguemn.zip — League Manager — Data East
+- ledstorm.zip — LED Storm — Capcom
+- legend.zip — Legend — TAD Corporation
+- legendos.zip — Legend of Success Joe — Wave
+- legion.zip — Legion — Nichibutsu
+- lemmings.zip — Lemmings — Data East
+- lemnangl.zip — Lemon Angel — Nichibutsu
+- leprechn.zip — Leprechaun — Pacific Novelty
+- lethalen.zip — Lethal Enforcers — Konami
+- lethalj.zip — Lethal Justice — The Game Room
+- lethalth.zip — Lethal Thunder — Irem
+- lgp.zip — Laser Grand Prix — Taito
+- lgtnfght.zip — Lightning Fighters — Konami
+- liberatr.zip — Liberator — Atari
+- liblrabl.zip — Libble Rabble — Namco
+- lifefrce.zip — Life Force — Konami
+- lightbr.zip — Light Bringer — Taito
+- liquidk.zip — Liquid Kids — Taito
+- liquidku.zip — Liquid Kids (US) — Taito
+- lithero.zip — Little Hero — Sega
+- lizwiz.zip — Liz Wiz — Taito (bootleg)
+- lkage.zip — The Legend of Kage — Taito
+- lkageb.zip — The Legend of Kage (bootleg) — Bootleg
+- llander.zip — Lunar Lander — Atari
+- lnc.zip — Lock’n’Chase — Data East
+- lockon.zip — Lock-On — Tatsumi
+- locomotn.zip — Loco-Motion — Konami
+- loffire.zip — Line of Fire — Sega
+- logger.zip — Logger — Century Electronics
+- logicpr2.zip — Logic Pro 2 — Deniam
+- logicpro.zip — Logic Pro — Deniam
+- lonewolf.zip — Lone Wolf — Taito
+- looper.zip — Looper — Century Electronics
+- looping.zip — Looping — Venture Line
+- loopinga.zip — Looping (alternate) — Venture Line
+- lordgun.zip — Lord of Gun — TCH
+- losttomb.zip — Lost Tomb — Stern
+- lostwrld.zip — Lost Worlds — Capcom
+- lotlot.zip — Lot Lot — Irem
+- lovehous.zip — Love House — SunA
+- loverboy.zip — Lover Boy — GAA
+- lrescue.zip — Lunar Rescue — Taito
+- lsasquad.zip — Lightning S.A.S. Squad — Taito
+- ltcasin2.zip — Lucky Casino 2 — Nichibutsu
+- ltcasino.zip — Lucky Casino — Nichibutsu
+- luckywld.zip — Lucky & Wild — Namco
+- lunarbat.zip — Lunar Battle — Midway
+- lupin3.zip — Lupin III — Taito
+- lvgirl94.zip — Lovely Girl ’94 — Sung-Il
+- lvpoker.zip — Lovely Poker — Sigma
+- lwings.zip — Legendary Wings — Capcom
+- lwings2.zip — Legendary Wings 2 — Capcom
+- lwingsb.zip — Legendary Wings (bootleg) — Bootleg
+- mace.zip — Mace: The Dark Age — Atari Games
+- mach3.zip — M.A.C.H. 3 — Mylstar
+- machbrkr.zip — Mach Breakers — Namco
+- machomou.zip — Macho Mouse — Techstar
+- macross.zip — Super Dimension Fortress Macross — Banpresto
+- macross2.zip — Macross II — Banpresto
+- macrossp.zip — Macross Plus — Banpresto
+- madalien.zip — Mad Alien — Data East
+- madball.zip — Mad Ball — Nics
+- madcrash.zip — Mad Crasher — SNK
+- maddonna.zip — Maddonna — Tuning
+- madgear.zip — Mad Gear — Capcom
+- madmotor.zip — Mad Motor — Mitchell
+- madshark.zip — Mad Shark — Allumer
+- magdrop.zip — Magical Drop — Data East
+- magdrop2.zip — Magical Drop II — Data East
+- magdrop3.zip — Magical Drop III — Data East
+- magerror.zip — Magical Error wo Sagase — Namco
+- magicbub.zip — Magic Bubble — ESD
+- magicd2a.zip — Magic Dunker 2 (set a) — IGS
+- magicd2b.zip — Magic Dunker 2 (set b) — IGS
+- magicdnc.zip — Magic Dunker — IGS
+- magix.zip — Magix — Yun Sung
+- maglord.zip — Magician Lord — ADK / SNK
+- magmax.zip — Mag Max — Nichibutsu
+- magspot2.zip — Magic Spot II — Universal
+- magworm.zip — Magical Worm — Alba
+- mahjngoh.zip — Mahjong Oh — Nichibutsu
+- mahoudai.zip — Mahou Daisakusen — Raizing
+- mahretsu.zip — Mahjong Rettsuden — Dynax
+- maiko.zip — Maiko — Nichibutsu
+- mainevt.zip — Main Event — Konami
+- mainevto.zip — Main Event (old version) — Konami
+- mainsnk.zip — Main Frame SNK — SNK
+- majest12.zip — Majestic Twelve — Taito
+- majtitle.zip — Major Title — Irem
+- majtitl2.zip — Major Title 2 — Irem
+- makaiden.zip — Makaiden — Capcom
+- maketrax.zip — Make Trax — Williams
+- makyou.zip — Makyou Senshi — Capcom
+- malzak.zip — Malzak — Kitronix
+- mamboagg.zip — Mambo A Go Go — Konami
+- mangchi.zip — Mang-Chi — SemiCom
+- manhatan.zip — Manhattan — Taito
+- maniach.zip — Mania Challenge — Technos Japan
+- maniahb.zip — Mania Challenge (bootleg) — Bootleg
+- manxtt.zip — Manx TT Superbike — Sega
+- marble.zip — Marble Madness — Atari Games
+- marble2.zip — Marble Madness 2 — Atari Games
+- marineb.zip — Marine Boy — Sigma Enterprises
+- mariner.zip — Mariner — Amenip
+- mario.zip — Mario Bros. — Nintendo
+- marioe.zip — Mario Bros. (Early) — Nintendo
+- mariobl.zip — Mario Bros. (bootleg) — Bootleg
+- markham.zip — Markham — Sun Electronics
+- mars.zip — Mars — Artic
+- maruchan.zip — Maru-Chan de Goo! — Taito
+- marukin.zip — Marukin — Nichibutsu
+- marvland.zip — Marvel Land — Namco
+- masao.zip — Masao — Allumer
+- masterw.zip — Master of Weapon — Taito
+- mastkin.zip — Master’s King — Allumer
+- matchit.zip — Match It — Excellent System
+- matmania.zip — Mat Mania — Technos Japan
+- mausuke.zip — Mausuke no Ojama the World — Namco
+- maverik.zip — Maverik — Taito
+- maxf_102.zip — Maximum Force — Atari Games
+- maxforce.zip — Maximum Force — Atari Games
+- maxrpm.zip — Max RPM — Bally/Sente
+- maya.zip — Maya — Promat
+- mayday.zip — Mayday — Hoei
+- mayhem.zip — Mayhem 2002 — Irem
+- maze.zip — Maze — Irem
+- mazeinv.zip — Maze Invaders — Midway
+- mazerbla.zip — Maze of the Blades — Allumer
+- mblkdrgn.zip — Black Dragon — Capcom
+- mbrush.zip — Minky Brush — Namco
+- mcatadv.zip — Magical Cat Adventure — Wintechno
+- mchampdx.zip — Multi Champ Deluxe — ESD
+- mcontest.zip — Mahjong Contest — Dynax
+- mdhorse.zip — Mad Horse — Taito
+- mechatt.zip — Mechanized Attack — SNK
+- medlanes.zip — Meadow’s Lanes — Meadows Games
+- megab.zip — Mega Blast — Taito
+- megablst.zip — Mega Blast — Taito
+- megadbl.zip — Mega Double — Taito
+- megadon.zip — Megadon — Centuri
+- megaman.zip — Mega Man — Capcom
+- megaman2.zip — Mega Man 2 — Capcom
+- megaman3.zip — Mega Man 3 — Capcom
+- megamn2a.zip — Mega Man 2 (alternate) — Capcom
+- megatack.zip — Megatack — GamePlan
+- megazone.zip — Mega Zone — Konami
+- meikyuh.zip — Meikyuu Hunter G — Data East
+- meltyb.zip — Melty Blood — Type-Moon / Ecole
+- mercs.zip — Mercs — Capcom
+- mercsu.zip — Mercs (US) — Capcom
+- merlinmm.zip — Merlin’s Money Maze — Midway
+- mermaid.zip — Mermaid — Sanritsu
+- metafox.zip — Meta Fox — Nihon System
+- metamrph.zip — Metamorphic Force — Konami
+- metamrpj.zip — Metamorphic Force (Japan) — Konami
+- meteor.zip — Meteor — Sobumi
+- meteorp.zip — Meteor (prototype) — Sobumi
+- metlhawk.zip — Metal Hawk — Namco
+- metlfrzr.zip — Metal Freezer — Allumer
+- metlsavr.zip — Metal Saver — Gaelco
+- metmqstr.zip — Metamoqester — Banpresto
+- metrocross.zip — Metro-Cross — Namco
+- metrocrs.zip — Metro-Cross — Namco
+- mexico86.zip — Mexico 86 — Tehkan
+- mf_achas.zip — Magical Fish — Alpha Denshi
+- mfunclub.zip — Mahjong Fun Club — Dynax
+- mgakuen.zip — Mahjong Gakuen — Sanritsu
+- mgakuen2.zip — Mahjong Gakuen 2 — Sanritsu
+- mgcldate.zip — Magical Date — Taito
+- mgcldtex.zip — Magical Date EX — Taito
+- mgmen89.zip — Mahjong Men ’89 — Dynax
+- mhavoc.zip — Major Havoc — Atari
+- mhavocrv.zip — Major Havoc (Return to Vax) — Atari
+- mia.zip — M.I.A.: Missing in Action — Konami
+- mia2.zip — M.I.A.: Missing in Action (2 Players) — Konami
+- miexchng.zip — Money Idol Exchanger — Face
+- mightguy.zip — Mighty Guy — Nichibutsu
+- mikie.zip — Mikie — Konami
+- mikiehs.zip — Mikie (High School Graffiti) — Konami
+- milliped.zip — Millipede — Atari
+- millpac.zip — Millipede (Pac-Man hardware) — Atari
+- militia.zip — Militia — Bootleg
+- minasan.zip — Minasan no Okagesama Desu — Capcom
+- minefld.zip — Minefield — Stern
+- mineswpr.zip — Minesweeper — Taito
+- minferno.zip — Inferno — Williams
+- minigol2.zip — Mini Golf 2 — Unknown
+- minigolf.zip — Mini Golf — Unknown
+- minivadr.zip — Mini Vaders — Nichibutsu
+- mirax.zip — Mirax — Proma
+- mirninja.zip — Mirai Ninja — Namco
+- missb2.zip — Miss Bingo 2 — Nichibutsu
+- missile.zip — Missile Command — Atari
+- missile2.zip — Missile Command (set 2) — Atari
+- missw96.zip — Miss World ’96 — Comad
+- missw96a.zip — Miss World ’96 (alternate) — Comad
+- missw96b.zip — Miss World ’96 (bootleg) — Bootleg
+- mizubaku.zip — Mizubaku Daibouken — Taito
+- mj4simai.zip — Mahjong 4 Sisters — Maboroshi Ware
+- mjanbari.zip — Mahjong Janbari — Nichibutsu
+- mjangels.zip — Mahjong Angels — Nichibutsu
+- mjcamera.zip — Mahjong Camera Kozou — Toshiba
+- mjclinic.zip — Mahjong Clinic — Dynax
+- mjderngr.zip — Mahjong Derringer — Nichibutsu
+- mjdialq2.zip — Mahjong Dial Q2 — Video System
+- mjdiplob.zip — Mahjong Diplomat — Nichibutsu
+- mjdiplob2.zip — Mahjong Diplomat 2 — Nichibutsu
+- mjfocus.zip — Mahjong Focus — Nichibutsu
+- mjfriday.zip — Mahjong Friday — Dynax
+- mjgottsu.zip — Mahjong Gottsu ee-kan! — Capcom
+- mjhokite.zip — Mahjong Hoke Hite — Dynax
+- mjifb.zip — Mahjong If...? — Dynax
+- mjkinjas.zip — Mahjong Kinjirareta Asobi — Nichibutsu
+- mjkjidai.zip — Mahjong Kyou Jidai — Nichibutsu
+- mjkoiura.zip — Mahjong Koi Uranai — Nichibutsu
+- mjlaman.zip — Mahjong La Man — Dynax
+- mjleague.zip — Major League — Sega
+- mjlstory.zip — Mahjong Love Story — Nichibutsu
+- mjmaglmp.zip — Mahjong Magic Lamp — Dynax
+- mjmania.zip — Mahjong Mania — Dynax
+- mjmyorn2.zip — Mahjong Myoren 2 — Nichibutsu
+- mjmyorn.zip — Mahjong Myoren — Nichibutsu
+- mjmyuniv.zip — Mahjong My University — Nichibutsu
+- mjmywrld.zip — Mahjong My World — Nichibutsu
+- mjnanpas.zip — Mahjong Nanpa Story — Dynax
+- mjnewman.zip — Mahjong Newman — Dynax
+- mjprivat.zip — Mahjong Private — Nichibutsu
+- mjreach.zip — Mahjong Reach — Nichibutsu
+- mjreach1.zip — Mahjong Reach Ippatsu — Nichibutsu
+- mjreveng.zip — Mahjong Revenge — Nichibutsu
+- mjsenpuu.zip — Mahjong Senpuu — Nichibutsu
+- mjshangh.zip — Mahjong Shanghai — Sunsoft
+- mjsikakb.zip — Mahjong Shikaku — Nichibutsu
+- mjsikaku.zip — Mahjong Shikaku 2 — Nichibutsu
+- mjsister.zip — Mahjong Sisters — Nichibutsu
+- mjsiyoub.zip — Mahjong Shiyou — Nichibutsu
+- mjstars.zip — Mahjong Stars — Nichibutsu
+- mjstgrid.zip — Mahjong Star Grid — Nichibutsu
+- mjtensin.zip — Mahjong Tensin — Nichibutsu
+- mjtoruru.zip — Mahjong Toruru — Nichibutsu
+- mjvegasa.zip — Mahjong Vegas — Nichibutsu
+- mjyarou.zip — Mahjong Yarou — Nichibutsu
+- mjyarou2.zip — Mahjong Yarou 2 — Nichibutsu
+- mjyougo.zip — Mahjong Yougo — Nichibutsu
+- mjyuugi.zip — Mahjong Yuugi — Nichibutsu
+- mjyuugia.zip — Mahjong Yuugi (Alternate) — Nichibutsu
+- mjzoomin.zip — Mahjong Zoom In — Nichibutsu
+- mk.zip — Mortal Kombat — Midway
+- mk2.zip — Mortal Kombat II — Midway
+- mk2chal.zip — Mortal Kombat II Challenger — Midway
+- mk3.zip — Mortal Kombat 3 — Midway
+- mk3p40.zip — Mortal Kombat 3 (prototype 4.0) — Midway
+- mk3r10.zip — Mortal Kombat 3 (rev 1.0) — Midway
+- mk3r20.zip — Mortal Kombat 3 (rev 2.0) — Midway
+- mk3r20o.zip — Mortal Kombat 3 (rev 2.0, older) — Midway
+- mk3r30.zip — Mortal Kombat 3 (rev 3.0) — Midway
+- mk3r40.zip — Mortal Kombat 3 (rev 4.0) — Midway
+- mk3r40o.zip — Mortal Kombat 3 (rev 4.0, older) — Midway
+- mk3s.zip — Mortal Kombat 3 Special — Midway
+- mk4.zip — Mortal Kombat 4 — Midway
+- mk4b.zip — Mortal Kombat 4 (bootleg) — Bootleg
+- mk4r11.zip — Mortal Kombat 4 (rev 1.1) — Midway
+- mk4r20.zip — Mortal Kombat 4 (rev 2.0) — Midway
+- mk4r31.zip — Mortal Kombat 4 (rev 3.1) — Midway
+- mk4r40.zip — Mortal Kombat 4 (rev 4.0) — Midway
+- mkla1.zip — Mortal Kombat (rev 1.0) — Midway
+- mkla2.zip — Mortal Kombat (rev 2.0) — Midway
+- mkla3.zip — Mortal Kombat (rev 3.0) — Midway
+- mkla4.zip — Mortal Kombat (rev 4.0) — Midway
+- mkla5.zip — Mortal Kombat (rev 5.0) — Midway
+- mkprot.zip — Mortal Kombat (prototype) — Midway
+- mkr4.zip — Mortal Kombat (rev 4.0, alternate) — Midway
+- mktturbo.zip — Mortal Kombat Turbo — Midway
+- mkx.zip — Mortal Kombat X — NetherRealm Studios
+- mlander.zip — Mars Lander — Unknown
+- mmatrix.zip — Mars Matrix — Capcom
+- mmatrixj.zip — Mars Matrix (Japan) — Capcom
+- mmaulers.zip — Monster Maulers — Konami
+- mmaze.zip — Magical Maze — Unico
+- mmehyou.zip — Mousou Meisou — Visco
+- mmonkey.zip — Munch Mobile — SNK
+- mmpanic.zip — Mouse Man Panic — ESD
+- mnchmobl.zip — Munch Mobile — SNK
+- moegonta.zip — Moero Gonta!! — Kaneko
+- moeru.zip — Moeru!! — Nichibutsu
+- moguchan.zip — Mogu-chan — Eastern Micro Electronics
+- mole.zip — Mole Hunter — Sigma Enterprises
+- momoko.zip — Momoko 120% — Jaleco
+- monsterb.zip — Monster Bash — Sega
+- montecar.zip — Monte Carlo — Atari
+- monymony.zip — Mony Mony — Zaccaria
+- moo.zip — Moo Mesa — Konami
+- moonal2.zip — Moon Alien Part 2 — Nichibutsu
+- moonaln.zip — Moon Alien — Nichibutsu
+- moonbase.zip — Moon Base — Atari
+- mooncrgx.zip — Moon Cresta (Galaxian hardware) — Nichibutsu
+- mooncrs.zip — Moon Cresta — Nichibutsu
+- mooncrsb.zip — Moon Cresta (bootleg) — Bootleg
+- mooncrsg.zip — Moon Cresta (Gremlin) — Gremlin
+- mooncrst.zip — Moon Cresta — Nichibutsu
+- moonqsr.zip — Moon Quasar — Nichibutsu
+- moonwlkb.zip — Moonwalker (bootleg) — Bootleg
+- moonwlkj.zip — Moonwalker (Japan) — Sega
+- moonwlka.zip — Moonwalker (Asia) — Sega
+- moonwalk.zip — Moonwalker — Sega
+- mooua.zip — Moo Mesa (US) — Konami
+- moremore.zip — More More — SemiCom
+- moremorp.zip — More More Plus — SemiCom
+- mosaic.zip — Mosaic — F2 System
+- mosaica.zip — Mosaic (alternate) — F2 System
+- mosyougi.zip — Shougi — Jaleco
+- motorace.zip — MotoRace USA — Irem
+- motoraid.zip — Motor Raid — Sega
+- motos.zip — Motos — Namco
+- motoxgo.zip — Motocross Go! — Namco
+- mouja.zip — Mouja — Etona
+- mouser.zip — Mouser — UPL
+- mpatrol.zip — Moon Patrol — Irem
+- mpatrolw.zip — Moon Patrol (Williams) — Williams
+- mpgolf.zip — Multi Player Golf — Taito
+- mpumpkin.zip — Mad Pumpkin — Taito
+- mranger.zip — Moon Ranger — Nichibutsu
+- mrdig.zip — Mr. Dig — Falcon
+- mrdo.zip — Mr. Do! — Universal
+- mrdofix.zip — Mr. Do! (fixed) — Universal
+- mrdot.zip — Mr. Dot — Universal
+- mrdoy.zip — Mr. Do’s Castle — Universal
+- mrdrillr.zip — Mr. Driller — Namco
+- mrdrillr2.zip — Mr. Driller 2 — Namco
+- mrdrilrg.zip — Mr. Driller G — Namco
+- mrdrillrj.zip — Mr. Driller (Japan) — Namco
+- mrdrillrx.zip — Mr. Driller X — Namco
+- mrflea.zip — Mr. F. Lea — Pacific Novelty
+- mrgoemon.zip — Mr. Goemon — Konami
+- mrheli.zip — Mr. Heli — Irem
+- mrjong.zip — Mr. Jong — Kiwako
+- mrokumei.zip — Mr. Okumei — Nichibutsu
+- mrtnt.zip — Mr. TNT — Telko
+- mrviking.zip — Mister Viking — Sega
+- mschamp.zip — Ms. Pac-Man Champion Edition — Midway
+- mscoutm.zip — Mission: Cosmic Time — Nichibutsu
+- msgunda1.zip — Mobile Suit Gundam — Banpresto
+- msgundam.zip — Mobile Suit Gundam (alternate) — Banpresto
+- msh.zip — Marvel Super Heroes — Capcom
+- mshh.zip — Marvel Super Heroes (Hispanic) — Capcom
+- mshj.zip — Marvel Super Heroes (Japan) — Capcom
+- mshvsf.zip — Marvel Super Heroes vs. Street Fighter — Capcom
+- mshvsfh.zip — Marvel Super Heroes vs. Street Fighter (Hispanic) — Capcom
+- mshvsfj.zip — Marvel Super Heroes vs. Street Fighter (Japan) — Capcom
+- msjiken.zip — Mahjong Police Jiken — Nichibutsu
+- mslider.zip — Monster Slider — Capcom
+- mslug.zip — Metal Slug — SNK
+- mslug2.zip — Metal Slug 2 — SNK
+- mslug3.zip — Metal Slug 3 — SNK
+- mslug4.zip — Metal Slug 4 — Mega Enterprise / Noise Factory
+- mslug5.zip — Metal Slug 5 — SNK Playmore
+- mslugx.zip — Metal Slug X — SNK
+- mspacman.zip — Ms. Pac-Man — Midway
+- mspacmab.zip — Ms. Pac-Man (bootleg) — Bootleg
+- mspacmat.zip — Ms. Pac-Man (Twin) — Midway
+- mspacmnf.zip — Ms. Pac-Man (Namco) — Namco
+- mspacmnn.zip — Ms. Pac-Man (Namco, new) — Namco
+- mspuzzle.zip — Magical Spot Puzzle — Namco
+- mstadium.zip — Main Stadium — Irem
+- mstetris.zip — Magical Spot Tetris — Namco
+- mstworld.zip — Monster World — Sega
+- msword.zip — Magic Sword — Capcom
+- mswordj.zip — Magic Sword (Japan) — Capcom
+- mswordr1.zip — Magic Sword (rev 1) — Capcom
+- msx.zip — MSX — Microsoft
+- mtlchamp.zip — Martial Champion — Konami
+- mtrap.zip — Mouse Trap — Exidy
+- mtrspirit.zip — Martial Spirit — Konami
+- mtrx.zip — Matrix — Namco
+- mtwins.zip — Mega Twins — Capcom
+- mugsmash.zip — Mug Smashers — Electronic Devices
+- multchmp.zip — Multi Champ — ESD
+- multmach.zip — Multi Machine — Sega
+- musclhit.zip — Muscle Hit — Kaneko
+- musobana.zip — Mushihime-sama — Cave
+- mustang.zip — Mustang — NMK
+- mustangb.zip — Mustang (bootleg) — Bootleg
+- mutantf.zip — Mutant Fighter — Data East
+- mutnat.zip — Mutation Nation — SNK
+- mvsc.zip — Marvel vs. Capcom — Capcom
+- mvscj.zip — Marvel vs. Capcom (Japan) — Capcom
+- mvscjr1.zip — Marvel vs. Capcom (Japan rev 1) — Capcom
+- mwalk.zip — Michael Jackson’s Moonwalker — Sega
+- mwalkbl.zip — Michael Jackson’s Moonwalker (bootleg) — Bootleg
+- mwalkj.zip — Michael Jackson’s Moonwalker (Japan) — Sega
+- mx5000.zip — MX5000 — Konami
+- myangel.zip — Kosodate Quiz My Angel — Namco
+- myangel2.zip — Kosodate Quiz My Angel 2 — Namco
+- myangel3.zip — Kosodate Quiz My Angel 3 — Namco
+- myfairld.zip — My Fair Lady — Nichibutsu
+- myhero.zip — My Hero — Sega
+- myheroj.zip — My Hero (Japan) — Sega
+- mysticm.zip — Mystic Marathon — Williams
+- mysticri.zip — Mystic Riders — Irem
+- myststno.zip — Mystery Stones — Sega
+- mystston.zip — Mystic Stones — Technos Japan
+- mystwar.zip — Mystic Warriors — Konami
+- mystwarr.zip — Mystic Warriors (Japan) — Konami
+- mz2000.zip — MZ-2000 — Sharp
+- nam1975.zip — NAM-1975 — SNK
+- nametune.zip — Name That Tune — Bally/Sente
+- naname.zip — Naname de Magic! — Atlus
+- naname2.zip — Naname de Magic! II — Atlus
+- narc.zip — NARC — Williams
+- nastar.zip — Nastar — Taito
+- nastarw.zip — Nastar Warrior — Taito
+- natodef.zip — NATO Defense — Pacific Novelty
+- natsuiro.zip — Natsuiro Mahjong — Video System
+- naughtyb.zip — Naughty Boy — Jaleco
+- navarone.zip — Navarone — Namco
+- nbajam.zip — NBA Jam — Midway
+- nbajamex.zip — NBA Jam Extreme — Acclaim
+- nbajamr2.zip — NBA Jam (rev 2.0) — Midway
+- nbajamte.zip — NBA Jam Tournament Edition — Midway
+- nbamaxht.zip — NBA Maximum Hangtime — Midway
+- nbbatman.zip — The Adventures of Batman & Robin — Konami
+- ncombat.zip — Ninja Combat — ADK / SNK
+- ncommand.zip — Ninja Commando — ADK / SNK
+- ncv1.zip — Namco Classics Vol. 1 — Namco
+- ncv2.zip — Namco Classics Vol. 2 — Namco
+- nebulbee.zip — Nebulas Bee — Pacific Novelty
+- nebulray.zip — Nebulas Ray — Namco
+- neckneck.zip — Neck & Neck — Bally/Midway
+- nekkyoku.zip — Nekkyoku Janshi — Video System
+- nemesis.zip — Nemesis — Konami
+- nemesuk.zip — Nemesis (UK) — Konami
+- nemo.zip — Nemo — Capcom
+- neobattl.zip — Neo Battles — SNK
+- neobombe.zip — Neo Bomberman — Hudson / SNK
+- neocup98.zip — Neo Cup ’98 — SNK
+- neodrift.zip — Neo Drift Out — Visco
+- neogeo.zip — Neo-Geo BIOS — SNK
+- neomrdo.zip — Neo Mr. Do! — Visco
+- neopong.zip — Neo Pong — Vision Electronics
+- neothund.zip — Neo Thunder — SNK
+- netchu.zip — Netchuu Pro Yakyuu — Konami
+- netwars.zip — Net Wars — Midway
+- newapunk.zip — New Apocalypse Punk — Atari
+- newfant.zip — New Fantastic — Comad
+- newpuckx.zip — New Puck-X — Namco
+- newrally.zip — New Rally-X — Namco
+- newsin7.zip — News in Seven — Taito
+- newsin7a.zip — News in Seven (alt) — Taito
+- newsin7b.zip — News in Seven (bootleg) — Bootleg
+- ngpgal.zip — NGP Gal — SNK
+- ngtbball.zip — NG T.Basketball — SNK
+- ngtchase.zip — NG T.Chase — SNK
+- nightlov.zip — Night Love — Nichibutsu
+- nightstr.zip — Night Striker — Taito
+- ninclown.zip — Ninja Clowns — Strata
+- ninjak.zip — Ninja Kids — Taito
+- ninjakd2.zip — Ninja-Kid II — UPL
+- ninjakj.zip — Ninja-Kid — UPL
+- ninjakun.zip — Ninja-Kun: Ashura no Shou — UPL
+- ninjamst.zip — Ninja Master’s — ADK / SNK
+- ninjaw.zip — The Ninja Warriors — Taito
+- ninjemak.zip — Ninja Emaki — Nichibutsu
+- nitd.zip — Nightmare in the Dark — Eleven / Gavaking
+- nitrobal.zip — Nitro Ball — Data East
+- nkdodge.zip — Nekketsu Dodgeball — Technos Japan
+- nmg5.zip — Multi Game 5 — Bootleg
+- nmouse.zip — Nyan Mouse — Taito
+- nmsengen.zip — Nyan Musume Sengen — Nichibutsu
+- nob.zip — NOB — Atlus
+- nomnlnd.zip — No Man’s Land — Pacific Novelty
+- nost.zip — Nostradamus — Face
+- nostj.zip — Nostradamus (Japan) — Face
+- nostk.zip — Nostradamus (Korea) — Face
+- nouryoku.zip — Nouryoku Koujou Iinkai — Capcom
+- nova2001.zip — Nova 2001 — UPL
+- nprinces.zip — Ninja Princess — Sega
+- nrallyx.zip — New Rally-X — Namco
+- nrate.zip — Night Rate — Nichibutsu
+- nrallyx.zip — New Rally-X — Namco
+- ns8line.zip — NS8 Line — Nichibutsu
+- nslasher.zip — Night Slashers — Data East
+- nspirit.zip — Ninja Spirit — Irem
+- nss.zip — Nintendo Super System — Nintendo
+- nstocker.zip — Night Stocker — Bally/Midway
+- ntopstar.zip — Ninja Top Star — Nichibutsu
+- numanath.zip — Numan Athletics — Namco
+- numanatj.zip — Numan Athletics (Japan) — Namco
+- nunchaku.zip — Nunchaku — Sega
+- nundam.zip — Nu Gundam — Banpresto
+- nvs_mach.zip — Nintendo VS Mach Rider — Nintendo
+- nwarr.zip — Night Warriors — Capcom
+- nwarra.zip — Night Warriors (alt) — Capcom
+- nyanpani.zip — Nyanpani — Taito
+- nycaptor.zip — NY Captor — Taito
+- nyny.zip — New York! New York! — Sigma Enterprises
+- nzerotea.zip — Neo Zero Team — NMK
+- offroad.zip — Ivan ‘Ironman’ Stewart’s Super Off Road — Leland Corporation
+- offroadc.zip — Super Off Road: The Baja — Leland Corporation
+- offroadt.zip — Off Road Challenge — Midway
+- offtwall.zip — Off the Wall — Atari Games
+- offtwalc.zip — Off the Wall (cocktail) — Atari Games
+- ogonsiro.zip — Ogonsiro — Taito
+- ohmygod.zip — Oh My God! — Atlus
+- oigas.zip — Oigas — Kaneko
+- ojanko2.zip — Ojanko Club 2 — Nichibutsu
+- ojankoc.zip — Ojanko Club — Nichibutsu
+- ojankohs.zip — Ojanko High School — Nichibutsu
+- ojankoy.zip — Ojanko Young — Nichibutsu
+- ojousan.zip — Ojousan — Nichibutsu
+- olibochu.zip — Olibochu — Irem
+- olympic.zip — Olympic Games — Konami
+- olysoc92.zip — Olympic Soccer ’92 — Tecmo
+- omega.zip — Omega — P & P Marketing
+- omegaf.zip — Omega Fighter — UPL
+- omegafs.zip — Omega Fighter Special — UPL
+- omegrace.zip — Omega Race — Midway
+- omegracb.zip — Omega Race (bootleg) — Bootleg
+- omni.zip — Omni — Unknown
+- ondarun.zip — On the Run — Gottlieb
+- onetwo.zip — One Two — Irem
+- onna34ro.zip — Onna Sanshirou — Sega
+- openice.zip — 2 On 2 Open Ice Challenge — Midway
+- opwolf.zip — Operation Wolf — Taito
+- opwolf3.zip — Operation Wolf 3 — Taito
+- opwolfu.zip — Operation Wolf (US) — Taito
+- opwolfb.zip — Operation Wolf (bootleg) — Bootleg
+- opwolfj.zip — Operation Wolf (Japan) — Taito
+- orangec.zip — Orange Club — Excellent System
+- orbit.zip — Orbit — Atari
+- orbitron.zip — Orbitron — Signatron
+- ordyne.zip — Ordyne — Namco
+- orlegend.zip — Oriental Legend — IGS
+- orlegndc.zip — Oriental Legend Special — IGS
+- orunners.zip — OutRunners — Sega
+- oscar.zip — Oscar — Data East
+- osman.zip — Osman — Mitchell
+- otatidai.zip — Otatidai — Video System
+- othello.zip — Othello — Success
+- othunder.zip — Operation Thunderbolt — Taito
+- othundu.zip — Operation Thunderbolt (US) — Taito
+- othunduo.zip — Operation Thunderbolt (US old) — Taito
+- otoboke.zip — Otoboke Ninja Colosseum — UPL
+- otonano.zip — Otona no Mahjong — Nichibutsu
+- otwalls.zip — Out of This World — Midway
+- ougonmus.zip — Ougon Musou Kyoku — CAVE
+- outrun.zip — Out Run — Sega
+- outruna.zip — Out Run (set a) — Sega
+- outrunb.zip — Out Run (bootleg) — Bootleg
+- outrun2.zip — OutRun 2 — Sega
+- outrun2s.zip — OutRun 2 Special Tours — Sega
+- outrun25.zip — OutRun 2.5 — Sega
+- outzone.zip — Out Zone — Toaplan
+- outzonea.zip — Out Zone (set a) — Toaplan
+- overdriv.zip — Over Drive — Konami
+- overtop.zip — Over Top — ADK / SNK
+- ozmawars.zip — Ozma Wars — SNK
+- ozmawrsa.zip — Ozma Wars (set a) — SNK
+- ozon1.zip — Ozon I — Unknown
+- p47.zip — P-47: The Phantom Fighter — Jaleco
+- p47aces.zip — P-47 Aces — Jaleco
+- pacapp.zip — Pac-Appli — Namco
+- pacgal.zip — Pac-Gal — Namco (bootleg)
+- pacheart.zip — Pac-Man (Hearts) — Namco (bootleg)
+- pachifev.zip — Pachinko Fever — Heiwa
+- pachiten.zip — Pachinko Tengoku — Marubeni
+- pacland.zip — Pac-Land — Namco
+- paclandj.zip — Pac-Land (Japan) — Namco
+- paclandm.zip — Pac-Land (Midway) — Midway
+- pacman.zip — Pac-Man — Namco
+- pacmanbl.zip — Pac-Man (bootleg) — Bootleg
+- pacmania.zip — Pac-Mania — Namco
+- pacnpal.zip — Pac & Pal — Namco
+- pacnpal2.zip — Pac & Pal 2 — Namco
+- pacplus.zip — Pac-Man Plus — Bally/Midway
+- paddlema.zip — Paddle Mania — SNK
+- pafrica.zip — Safari Rally — SNK
+- paintrlr.zip — Painter — Jaleco
+- pairs.zip — Pairs — Comad
+- palamed.zip — Palamedes — Taito
+- pandoras.zip — Pandora’s Palace — Konami
+- pang.zip — Pang — Mitchell
+- pang3.zip — Pang! 3 — Mitchell
+- pangb.zip — Pang (bootleg) — Bootleg
+- pangbold.zip — Pang (bold) — Mitchell
+- pangpang.zip — Pang Pang — Mitchell
+- panic.zip — Panic — Sega
+- panicbom.zip — Panic Bomber — Hudson
+- panicstr.zip — Panic Street — Mitchell
+- paperboy.zip — Paperboy — Atari Games
+- paradise.zip — Paradise — Excellent System
+- paranoia.zip — Paranoia — Taito
+- parodius.zip — Parodius — Konami
+- parodisj.zip — Parodius (Japan) — Konami
+- party.zip — Party Time — Data East
+- pasaden.zip — Pasadena — Mitchell
+- passht.zip — Passing Shot — Sega
+- passshtj.zip — Passing Shot (Japan) — Sega
+- pastelgl.zip — Pastel Gal — Nichibutsu
+- patapata.zip — Pata Pata Panic — Namco
+- patimono.zip — Pati Monogatari — Capcom
+- pbaction.zip — Pinball Action — Tehkan
+- pbball.zip — Powerball — Midway
+- pballoon.zip — Ponta Balloon — Namco
+- pbancho.zip — Pachinko Bancho — Capcom
+- pbillrd.zip — Pool Billiard — Namco
+- pbillrd2.zip — Pool Billiard II — Namco
+- pblbeach.zip — Pebble Beach — Taito
+- pbobble.zip — Puzzle Bobble — Taito
+- pbobble2.zip — Puzzle Bobble 2 — Taito
+- pbobble3.zip — Puzzle Bobble 3 — Taito
+- pbobble4.zip — Puzzle Bobble 4 — Taito
+- pbobblel.zip — Puzzle Bobble (link) — Taito
+- pbobblen.zip — Puzzle Bobble (new) — Taito
+- pc_1942.zip — PC 1942 — Capcom
+- pc_bball.zip — PC Basketball — Namco
+- pc_bfght.zip — PC Battle Fight — Capcom
+- pc_bstar.zip — PC Baseball Star — Namco
+- pc_cntra.zip — PC Contra — Konami
+- pc_cshwk.zip — PC Choplifter — Sega
+- pc_cvnia.zip — PC Castlevania — Konami
+- pc_dbldr.zip — PC Double Dribble — Konami
+- pc_ddrgn.zip — PC Double Dragon — Technos Japan
+- pc_drmro.zip — PC Dr. Mario — Nintendo
+- pc_duckh.zip — PC Duck Hunt — Nintendo
+- pc_ebike.zip — PC Excitebike — Nintendo
+- pc_ftqst.zip — PC Fantasy Quest — Namco
+- pc_gntlt.zip — PC Gauntlet — Atari
+- pc_golf.zip — PC Golf — Nintendo
+- pc_grdue.zip — PC Gradius — Konami
+- pc_hgaly.zip — PC Hogan’s Alley — Nintendo
+- pc_kngfu.zip — PC Kung Fu — Irem
+- pc_mario.zip — PC Mario Bros. — Nintendo
+- pc_miket.zip — PC Mike Tyson’s Punch-Out!! — Nintendo
+- pc_mman3.zip — PC Mega Man 3 — Capcom
+- pc_moglf.zip — PC Mini Golf — Nintendo
+- pc_mtoid.zip — PC Metroid — Nintendo
+- pc_ngaid.zip — PC Ninja Gaiden — Tecmo
+- pc_pacma.zip — PC Pac-Man — Namco
+- pc_pinbt.zip — PC Pinball — Nintendo
+- pc_pwbld.zip — PC Power Blade — Taito
+- pc_pwrst.zip — PC Pro Wrestling — Nintendo
+- pc_radr2.zip — PC Rad Racer 2 — Nintendo
+- pc_radrc.zip — PC Rad Racer — Nintendo
+- pc_rcpam.zip — PC RC Pro-Am — Nintendo
+- pc_rkats.zip — PC Rockman’s Adventure — Capcom
+- pc_rnatk.zip — PC Rush’n Attack — Konami
+- pc_rrngr.zip — PC Rescue Rangers — Capcom
+- pc_rygar.zip — PC Rygar — Tecmo
+- pc_sjetm.zip — PC St. Jetman — Nintendo
+- pc_smb.zip — PC Super Mario Bros. — Nintendo
+- pc_smb2.zip — PC Super Mario Bros. 2 — Nintendo
+- pc_smb3.zip — PC Super Mario Bros. 3 — Nintendo
+- pc_suprc.zip — PC Super RC Pro-Am — Nintendo
+- pc_tbowl.zip — PC Tecmo Bowl — Tecmo
+- pc_tenis.zip — PC Tennis — Nintendo
+- pc_tkfld.zip — PC Track & Field — Konami
+- pc_tmnt.zip — PC Teenage Mutant Ninja Turtles — Konami
+- pc_tmnt2.zip — PC Teenage Mutant Ninja Turtles 2 — Konami
+- pc_trjan.zip — PC Trojan — Capcom
+- pc_vball.zip — PC Volleyball — Technos Japan
+- pc_wcup.zip — PC World Cup Soccer — Nintendo
+- pc_wgnmn.zip — PC Wild Gunman — Nintendo
+- pc_ynoid.zip — PC Yo! Noid — Capcom
+- pclubys.zip — Print Club Yoshimoto Shinkigeki — Atlus
+- pclubyo.zip — Print Club Yoshimoto — Atlus
+- pclubyo2.zip — Print Club Yoshimoto 2 — Atlus
+- pclubyo3.zip — Print Club Yoshimoto 3 — Atlus
+- pclubys2.zip — Print Club Yoshimoto Shinkigeki 2 — Atlus
+- peekaboo.zip — Peek-A-Boo! — Comad
+- peepshow.zip — Peep Show — Comad
+- peggle.zip — Peggle — Namco
+- pegglet.zip — Peggle Twin — Namco
+- penbros.zip — Penguin Bros. — Subsino
+- penfan.zip — Penguin Fantasy — Excellent System
+- pengadvb.zip — Penguin Adventure (bootleg) — Bootleg
+- pengadv.zip — Penguin Adventure — Konami
+- penguin.zip — Penguin-Kun Wars — UPL
+- penky.zip — Penky — Taito
+- penta.zip — Penta — Stern
+- pepsiman.zip — Pepsiman — Saurus
+- perfect.zip — Perfect Soldiers — Konami
+- perfrman.zip — Performan — Jaleco
+- perfrmanu.zip — Performan (US) — Jaleco
+- pestplce.zip — Pest Place — Sigma Enterprises
+- peterpak.zip — Peter Pack Rat — Atari Games
+- peterpka.zip — Peter Pack Rat (alternate) — Atari Games
+- pettanp.zip — Pettan Pyuu — Sun Electronics
+- pfghtj.zip — Psychic Fighter — Taito
+- pgear.zip — Power Gear — Capcom
+- pgm.zip — PolyGame Master (PGM) — IGS
+- pgm2.zip — PolyGame Master 2 (PGM2) — IGS
+- pgmdemo.zip — PGM Demo — IGS
+- phantasm.zip — Phantasm — Jaleco
+- phantasmj.zip — Phantasm (Japan) — Jaleco
+- phantom2.zip — Phantom II — Midway
+- phantoma.zip — Phantom Air Mission — NMK
+- phantom.zip — Phantom — Irem
+- phelios.zip — Phelios — Namco
+- phoenix.zip — Phoenix — Amstar
+- phoenix3.zip — Phoenix III — Amstar
+- phoenixb.zip — Phoenix (bootleg) — Bootleg
+- phoenixc.zip — Phoenix (Centuri) — Centuri
+- phoenixj.zip — Phoenix (Japan) — Amstar
+- phozon.zip — Phozon — Namco
+- pickin.zip — Pickin’ — Sega
+- pignewt.zip — Pig Newton — Sega
+- pigout.zip — Pig Out: Dine Like a Swine! — Leland Corporation
+- pigskin.zip — Pigskin 621AD — Midway
+- pinbo.zip — Pinbo — Jaleco
+- pinbos.zip — Pinbos (Special) — Jaleco
+- pingpong.zip — Konami’s Ping Pong — Konami
+- pinkswts.zip — Pink Sweets — Cave
+- pipedrm.zip — Pipe Dream — Video System
+- pipibibs.zip — Pipi & Bibis — Toaplan
+- piratetr.zip — Pirate Treasure — Data East
+- pirates.zip — Pirates — NIX
+- piratesh.zip — Pirates (bootleg) — Bootleg
+- pisces.zip — Pisces — Orca
+- piscesb.zip — Pisces (bootleg) — Bootleg
+- pistoldm.zip — Pistol Daimyo no Bouken — Namco
+- pitboss.zip — Pit Boss — Merit Industries
+- pitfall2.zip — Pitfall II — Sega
+- pitfigh3.zip — Pit-Fighter (rev 3) — Atari Games
+- pitfigh4.zip — Pit-Fighter (rev 4) — Atari Games
+- pitfight.zip — Pit-Fighter — Atari Games
+- pitnrun.zip — Pit & Run — Taito
+- pkgnsh.zip — Pocket Gyn Shinri — Taito
+- pkgnsh2.zip — Pocket Gyn Shinri 2 — Taito
+- pkgnsh3.zip — Pocket Gyn Shinri 3 — Taito
+- pkgnsh4.zip — Pocket Gyn Shinri 4 — Taito
+- pkgnsh5.zip — Pocket Gyn Shinri 5 — Taito
+- pkgnsh6.zip — Pocket Gyn Shinri 6 — Taito
+- pkgnsh7.zip — Pocket Gyn Shinri 7 — Taito
+- pkgnsh8.zip — Pocket Gyn Shinri 8 — Taito
+- pkgnsh9.zip — Pocket Gyn Shinri 9 — Taito
+- pkgnsha.zip — Pocket Gyn Shinri A — Taito
+- pkgnshb.zip — Pocket Gyn Shinri B — Taito
+- pkgnshc.zip — Pocket Gyn Shinri C — Taito
+- pkgnshd.zip — Pocket Gyn Shinri D — Taito
+- pkgnshe.zip — Pocket Gyn Shinri E — Taito
+- pkgnshf.zip — Pocket Gyn Shinri F — Taito
+- pkgnshg.zip — Pocket Gyn Shinri G — Taito
+- pkgnshh.zip — Pocket Gyn Shinri H — Taito
+- pkgnshi.zip — Pocket Gyn Shinri I — Taito
+- pkgnshj.zip — Pocket Gyn Shinri J — Taito
+- pkgnshk.zip — Pocket Gyn Shinri K — Taito
+- pkgnshl.zip — Pocket Gyn Shinri L — Taito
+- pkgnshm.zip — Pocket Gyn Shinri M — Taito
+- pkgnshn.zip — Pocket Gyn Shinri N — Taito
+- pkgnsho.zip — Pocket Gyn Shinri O — Taito
+- pkgnshp.zip — Pocket Gyn Shinri P — Taito
+- pkgnshq.zip — Pocket Gyn Shinri Q — Taito
+- pkgnshr.zip — Pocket Gyn Shinri R — Taito
+- pkgnshs.zip — Pocket Gyn Shinri S — Taito
+- pkgnsht.zip — Pocket Gyn Shinri T — Taito
+- pkgnshu.zip — Pocket Gyn Shinri U — Taito
+- pkgnshv.zip — Pocket Gyn Shinri V — Taito
+- pkgnshw.zip — Pocket Gyn Shinri W — Taito
+- pkgnshx.zip — Pocket Gyn Shinri X — Taito
+- pkgnshy.zip — Pocket Gyn Shinri Y — Taito
+- pkgnshz.zip — Pocket Gyn Shinri Z — Taito
+- pktgaldx.zip — Pocket Gal Deluxe — Data East
+- pktgaldxa.zip — Pocket Gal Deluxe (alternate) — Data East
+- pktgaldxb.zip — Pocket Gal Deluxe (bootleg) — Bootleg
+- pktgaldxj.zip — Pocket Gal Deluxe (Japan) — Data East
+- pkunwar.zip — Penguin-Kun Wars — UPL
+- pkunwarj.zip — Penguin-Kun Wars (Japan) — UPL
+- platoon.zip — Platoon — Ocean / Data East
+- playball.zip — Play Ball — Midway
+- pleiads.zip — Pleiads — Tehkan
+- pleiadbl.zip — Pleiads (bootleg) — Bootleg
+- plgirls.zip — Play Girls — Hot-B
+- plgirls2.zip — Play Girls 2 — Hot-B
+- plotting.zip — Plotting — Taito
+- plumppop.zip — Plump Pop — Taito
+- plusalph.zip — Plus Alpha — Jaleco
+- pnickj.zip — Pnickies (Japan) — Capcom
+- poitto.zip — Poitto! — Metro
+- poizone.zip — Poizone — Konami
+- pokechmp.zip — Pocket Championship — Sega
+- pokonyan.zip — Pokonyan! Balloon — Sigma Enterprises
+- polaris.zip — Polaris — Taito
+- polarisa.zip — Polaris (set a) — Taito
+- polepos.zip — Pole Position — Namco
+- polepos1.zip — Pole Position (set 1) — Namco
+- polepos2.zip — Pole Position II — Namco
+- poleposn.zip — Pole Position (Namco) — Namco
+- policeto.zip — Police Town — Taito
+- policetr.zip — Police Trainer — P&P Marketing
+- pollux.zip — Pollux — Dooyong
+- polluxa.zip — Pollux (alternate) — Dooyong
+- polyplay.zip — Poly Play — VEB Polytechnik
+- pompingw.zip — Pomping World — Mitchell
+- ponchin.zip — Ponchin — Video System
+- ponchina.zip — Ponchin (Japan) — Video System
+- ponpoko.zip — Ponpoko — Sigma Enterprises
+- pontoon.zip — Pontoon — Nichibutsu
+- poolshrk.zip — Pool Shark — Atari
+- pooyan.zip — Pooyan — Konami
+- pooyans.zip — Pooyan (Stern) — Stern
+- popbounc.zip — Pop ‘n Bounce — Video System
+- popflame.zip — Pop Flamer — Jaleco
+- popnpop.zip — Pop’n Pop — Taito
+- popper.zip — Popper — Sega
+- popspops.zip — Pop’s Pops — Taito
+- portman.zip — Port Man — Nova Games
+- portrait.zip — Portraits — Taito
+- potogold.zip — Pot of Gold — GamePlan
+- potopoto.zip — Poto Poto — Sega
+- poundfor.zip — Pound for Pound — Capcom
+- pow.zip — P.O.W.: Prisoners of War — SNK
+- powerdrv.zip — Power Drive — Bally/Midway
+- powerins.zip — Power Instinct — Atlus
+- powrplay.zip — Power Play — Midway
+- ppan.zip — Pin Pan — Taito
+- ppcar.zip — Power PC Car — Sega
+- ppchamp.zip — Ping Pong Champion — Taito
+- ppking.zip — Ping Pong King — Taito
+- ppmast.zip — Ping Pong Master — Taito
+- ppong.zip — Ping Pong — Taito
+- pprobe.zip — Probe — Taito
+- prehisle.zip — Prehistoric Isle — SNK
+- preisle2.zip — Prehistoric Isle 2 — Yumekobo / SNK
+- primglex.zip — Prim Girls Ex — Nichibutsu
+- primrag2.zip — Prime Rage 2 — Taito
+- primrage.zip — Primal Rage — Atari
+- prmtmfgt.zip — Prmt Mfgt — Taito
+- prmtmfgtj.zip — Prmt Mfgt (Japan) — Taito
+- profpac.zip — Professor Pac-Man — Midway
+- progress.zip — Progress — Taito
+- propcycl.zip — Prop Cycle — Namco
+- prosoccr.zip — Pro Soccer — Taito
+- prosport.zip — Pro Sports — Taito
+- prtytime.zip — Party Time: Gonta the Diver II — Data East
+- psailor1.zip — Pretty Sailor 1 — Nichibutsu
+- psailor2.zip — Pretty Sailor 2 — Nichibutsu
+- psarc.zip — PS Arcade — Sony
+- pshark.zip — Prehistoric Shark — Taito
+- psoldier.zip — Psychic Soldier — SNK
+- pspikes.zip — Power Spikes — Video System
+- pspikes2.zip — Power Spikes II — Video System
+- pspikesa.zip — Power Spikes (set a) — Video System
+- pstadium.zip — Pro Stadium — Taito
+- psyforce.zip — Psychic Force — Taito
+- psyforcj.zip — Psychic Force (Japan) — Taito
+- psyvaria.zip — Psyvariar — Success
+- psyvarrv.zip — Psyvariar Revision — Success
+- ptblank.zip — Point Blank — Namco
+- ptblank2.zip — Point Blank 2 — Namco
+- ptblank3.zip — Point Blank 3 — Namco
+- puchicar.zip — Puchi Carat — Taito
+- puckman.zip — Puck Man — Namco
+- puckmana.zip — Puck Man (set a) — Namco
+- puckmod.zip — Puck Mod — Namco
+- pulirula.zip — PuLiRuLa — Taito
+- pulirulj.zip — PuLiRuLa (Japan) — Taito
+- pulsar.zip — Pulsar — Sega
+- pulstar.zip — Pulstar — Aicom / SNK
+- punchout.zip — Punch-Out!! — Nintendo
+- punisher.zip — The Punisher — Capcom
+- punishrj.zip — The Punisher (Japan) — Capcom
+- punkshot.zip — Punk Shot — Konami
+- punkshot2.zip — Punk Shot (2 Players) — Konami
+- pururun.zip — Pururun — Metro
+- pushman.zip — Pushman — SunA
+- puyopuy2.zip — Puyo Puyo 2 — Compile
+- puyopuyo.zip — Puyo Puyo — Compile
+- puzlclub.zip — Puzzle Club — Taito
+- puzldama.zip — Puzzle Dama — Konami
+- puzloop.zip — Puzz Loop — Mitchell
+- puzzledp.zip — Puzzle de Pon! — Visco / SNK
+- puzzli.zip — Puzzli — Metro
+- pwrgoal.zip — Power Goal — Konami
+- pwrinst2.zip — Power Instinct 2 — Atlus
+- pyros.zip — Pyros — Taito
+- pzlbowl.zip — Puzzle Bobble Bowling — Taito
+- qad.zip — Quiz & Dragons — Capcom
+- qadj.zip — Quiz & Dragons (Japan) — Capcom
+- qadrt.zip — Quiz & Dragons (US rental) — Capcom
+- qb3.zip — QB-3 — Rock-Ola
+- qbert.zip — Qbert — Gottlieb
+- qberta.zip — Qbert (alternate) — Gottlieb
+- qbertj.zip — Qbert (Japan) — Gottlieb
+- qberttst.zip — Qbert Test — Gottlieb
+- qbtrshot.zip — Q\*bert’s Qubes — Gottlieb
+- qcrayon.zip — Quiz Crayon Shin-chan — Bandai
+- qcrayon2.zip — Quiz Crayon Shin-chan 2 — Bandai
+- qdrmfgp.zip — Quiz Dream Fantasy — Namco
+- qdrmfgp2.zip — Quiz Dream Fantasy 2 — Namco
+- qgh.zip — Quiz Gakumon no Susume — Taito
+- qix.zip — Qix — Taito
+- qix2.zip — Qix II — Taito
+- qixa.zip — Qix (set 2) — Taito
+- qixb.zip — Qix (bootleg) — Bootleg
+- qjinsei.zip — Quiz Jinsei Gekijou — Taito
+- qjinsei2.zip — Quiz Jinsei Gekijou 2 — Taito
+- qjpop.zip — Quiz Japan Olympic Special — Namco
+- qjpop2.zip — Quiz Japan Olympic Special 2 — Namco
+- qmegamis.zip — Quiz Megamisama — Atlus
+- qndream.zip — Quiz Nanairo Dreams — Capcom
+- qrouka.zip — Quiz Rouka Ni Tattenasai — Taito
+- qsangoku.zip — Quiz Sangokushi — Capcom
+- qsangoku2.zip — Quiz Sangokushi 2 — Capcom
+- qshisen.zip — Quiz Shisen-sho — Atlus
+- qtheater.zip — Quiz Theater — Namco
+- qtono1.zip — Quiz Tonosama no Yabou — Capcom
+- qtono2.zip — Quiz Tonosama no Yabou 2 — Capcom
+- qtorimon.zip — Quiz Torimonochou — Capcom
+- quantum.zip — Quantum — Atari
+- quantump.zip — Quantum (prototype) — Atari
+- quaquiz2.zip — Quiz Quiz 2 — Namco
+- quarterb.zip — Quarterback — Leland Corporation
+- quartet.zip — Quartet — Sega
+- quartet2.zip — Quartet 2 — Sega
+- quarterh.zip — Quarter Horse — Strata/Incredible Technologies
+- quarterha.zip — Quarter Horse (alt) — Strata/Incredible Technologies
+- quarth.zip — Quarth — Konami
+- quasar.zip — Quasar — Zaccaria
+- quester.zip — Quester — Namco
+- quiz18k.zip — Quiz 18-Kin — Taito
+- quiz365.zip — Quiz 365 — Namco
+- quiz365t.zip — Quiz 365 Themed — Namco
+- quizchq.zip — Quiz Chikyu Boueigun — Namco
+- quizchq2.zip — Quiz Chikyu Boueigun 2 — Namco
+- quizdais.zip — Quiz Daisousa — Namco
+- quizdaisk.zip — Quiz Daisousa Kids — Namco
+- quizdna.zip — Quiz DNA no Hanran — Namco
+- quizf1.zip — Quiz F-1 1,2 Finish — Namco
+- quizhono.zip — Quiz Honoo no Keiken — Namco
+- quizhono2.zip — Quiz Honoo no Keiken 2 — Namco
+- quizhq.zip — Quiz HQ — Namco
+- quizhq2.zip — Quiz HQ 2 — Namco
+- quizkof.zip — Quiz King of Fighters — SNK
+- quizkofk.zip — Quiz King of Fighters (Korean) — SNK
+- quizmeku.zip — Quiz Meitantei Club — Namco
+- quizmoon.zip — Quiz Moon — Namco
+- quizmoon2.zip — Quiz Moon 2 — Namco
+- quizmstr.zip — Quiz Master — Namco
+- quizqgd.zip — Quiz Quiz Grand — Namco
+- quizqgd2.zip — Quiz Quiz Grand 2 — Namco
+- quiztou.zip — Quiz Tougeki — Namco
+- quiztou2.zip — Quiz Tougeki 2 — Namco
+- quiztvqq.zip — Quiz TV QQ — Namco
+- quiztvqq2.zip — Quiz TV QQ 2 — Namco
+- quizzic.zip — Quizzic — Namco
+- qwak.zip — Qwak — Jaleco
+- qzchikyu.zip — Quiz Chikyu Boueigun — Namco
+- qzchikya.zip — Quiz Chikyu Boueigun (Japan) — Namco
+- qzkklogy.zip — Quiz Koko Logy — Taito
+- qzkklgy2.zip — Quiz Koko Logy 2 — Taito
+- qzquest.zip — Quiz Quest — Namco
+- qzshowby.zip — Quiz Show by — Namco
+- qzshowb2.zip — Quiz Show by 2 — Namco
+- r2dx_v33.zip — R-Type II DX — Irem
+- rabiolep.zip — Rabio Lepus — Video System
+- racedriv.zip — Race Drivin’ — Atari Games
+- racedrivb.zip — Race Drivin’ (cockpit) — Atari Games
+- racedrivc.zip — Race Drivin’ (compact) — Atari Games
+- racedrivg.zip — Race Drivin’ (grand prix) — Atari Games
+- rachero.zip — Racin’ Hero — Sega
+- racingb.zip — Racing Beat — Taito
+- racingbj.zip — Racing Beat (Japan) — Taito
+- rackemup.zip — Rack ‘Em Up — Konami
+- racknrol.zip — Rack ‘n Roll — Taito
+- radarzon.zip — Radar Zone — Irem
+- radarzp.zip — Radar Zone (prototype) — Irem
+- radarscp.zip — Radar Scope — Nintendo
+- radikalb.zip — Radikal Bikers — Gaelco
+- radm.zip — R.A.D. Mobile — Sega
+- radr.zip — Rad Racer — Nintendo
+- radr2.zip — Rad Racer 2 — Nintendo
+- radr2c.zip — Rad Racer 2 (cockpit) — Nintendo
+- raiden.zip — Raiden — Seibu Kaihatsu
+- raiden2.zip — Raiden II — Seibu Kaihatsu
+- raiden2a.zip — Raiden II (alternate) — Seibu Kaihatsu
+- raiden2b.zip — Raiden II (another) — Seibu Kaihatsu
+- raiden3.zip — Raiden III — Moss
+- raidenk.zip — Raiden (Korea) — Seibu Kaihatsu
+- raident.zip — Raiden (Taiwan) — Seibu Kaihatsu
+- raiga.zip — Raiga — Taito
+- raimais.zip — Raimais — Taito
+- rainbow.zip — Rainbow Islands — Taito
+- rainbowa.zip — Rainbow Islands (alternate) — Taito
+- rainbowo.zip — Rainbow Islands (old) — Taito
+- rallybik.zip — Rally Bike — Toaplan
+- rallys.zip — Rallys — Taito
+- rallyx.zip — Rally-X — Namco
+- rallyxa.zip — Rally-X (alternate) — Namco
+- rambo3.zip — Rambo III — Sega
+- rambo3p.zip — Rambo III (prototype) — Sega
+- rampage.zip — Rampage — Bally/Midway
+- rampart.zip — Rampart — Atari Games
+- rampart2.zip — Rampart (2 players) — Atari Games
+- ramprage.zip — Rampage Rage — Bally/Midway
+- raphero.zip — Rapid Hero — NMK
+- rastan.zip — Rastan — Taito
+- rastanu.zip — Rastan (US) — Taito
+- rastanu2.zip — Rastan (alternate) — Taito
+- rastsaga.zip — Rastan Saga — Taito
+- rastsag2.zip — Rastan Saga II — Taito
+- rats.zip — Rats — Sega
+- rayforce.zip — RayForce — Taito
+- raystorm.zip — RayStorm — Taito
+- razmataz.zip — Razmataz — Sega
+- rbff1.zip — Real Bout Fatal Fury — SNK
+- rbff2.zip — Real Bout Fatal Fury 2 — SNK
+- rbff2k.zip — Real Bout Fatal Fury 2 (Korean) — SNK
+- rbffspec.zip — Real Bout Fatal Fury Special — SNK
+- rbibb.zip — Relief Pitcher — Atari Games
+- rbtapper.zip — Root Beer Tapper — Bally/Midway
+- recalhorn.zip — Recalhorn — Taito
+- recordbr.zip — Recordbreaker — Seta
+- redalert.zip — Red Alert — Irem
+- redbaron.zip — Red Baron — Atari
+- redclash.zip — Red Clash — Tehkan
+- redclask.zip — Red Clash (Kaneko) — Kaneko
+- redhawk.zip — Red Hawk — Afega
+- redlin2p.zip — Redline Racer (2 Players) — Strata/Incredible Technologies
+- redrobin.zip — Red Robin — Epos Corporation
+- redufo.zip — Red UFO — Taito
+- regulus.zip — Regulus — Sega
+- reguluso.zip — Regulus (old) — Sega
+- reikaids.zip — Rei-Kai Doushi — Banpresto
+- relief.zip — Relief Pitcher — Atari Games
+- renaiclb.zip — Ren’ai Club — Fujic
+- renegade.zip — Renegade — Technos Japan
+- repulse.zip — Repulse — Sega
+- rescraid.zip — Rescue Raider — Taito
+- rescue.zip — Rescue — Stern Electronics
+- resdnt.zip — Resident — Taito
+- revenger.zip — Revenger — Taito
+- revx.zip — Revolution X — Midway
+- rezon.zip — Rezon — Allumer
+- rf2.zip — RF2 — Konami
+- ribbit.zip — Ribbit! — Taito
+- ridefgt.zip — Riding Fight — Taito
+- ridgerac.zip — Ridge Racer — Namco
+- ridhero.zip — Riding Hero — SNK
+- ridheroh.zip — Riding Hero (home) — SNK
+- rimrockn.zip — Rim Rockin’ Basketball — Incredible Technologies
+- ringdest.zip — Ring Dest — Taito
+- ringfgt.zip — Ring Fighter — Data East
+- ringking.zip — Ring King — Data East
+- ringohja.zip — Ring no Oja — Taito
+- riot.zip — Riot — Seibu Kaihatsu
+- riotcity.zip — Riot City — Sega
+- ripcord.zip — Rip Cord — Exidy
+- ripoff.zip — Rip Off — Cinematronics
+- riskchal.zip — Risky Challenge — Taito
+- rjammer.zip — Rolling Jammer — Kaneko
+- rmpgwt.zip — Rampage World Tour — Midway
+- roadblst.zip — RoadBlasters — Atari Games
+- roadblst2.zip — RoadBlasters (upright) — Atari Games
+- roadf.zip — Road Fighter — Konami
+- roadriot.zip — Road Riot 4WD — Atari Games
+- roadrunm.zip — Road Runner — Atari Games
+- roadrunn.zip — Road Runner (set 2) — Atari Games
+- robby.zip — Robby Roto — Bally/Midway
+- roboarmy.zip — Robo Army — SNK
+- robocop.zip — RoboCop — Data East
+- robocop2.zip — RoboCop 2 — Data East
+- robocopb.zip — RoboCop (bootleg) — Bootleg
+- robocopj.zip — RoboCop (Japan) — Data East
+- robokid.zip — Atomic Robo-Kid — UPL
+- robotbwl.zip — Robot Bowl — Exidy
+- robotron.zip — Robotron: 2084 — Williams Electronics
+- robowres.zip — Robo Wres 2001 — Technos Japan
+- rockclim.zip — Rock Climber — Taito
+- rockmanj.zip — Rockman: The Power Battle (Japan) — Capcom
+- rockn.zip — Rock’n Tread — Excellent System
+- rockrage.zip — Rock Rage — Konami
+- rocnrope.zip — Roc’n Rope — Konami
+- rodland.zip — Rod-Land — Jaleco
+- rodlndjb.zip — Rod-Land (Japan bootleg) — Jaleco
+- rohga.zip — Rohga Armor Force — Data East
+- roldfrog.zip — Roldfrog — Taito
+- rollerg.zip — Rollergames — Konami
+- rollingc.zip — Rolling Crash — Nichibutsu
+- rollrace.zip — Roll Race — Taito
+- rompers.zip — Rompers — Namco
+- ronjan.zip — Ron Jan — Taito
+- rotd.zip — Rage of the Dragons — Evoga / SNK
+- roughrac.zip — Rough Racer — Sega
+- roundup.zip — Round-Up — Taito
+- route16.zip — Route 16 — Sun Electronics
+- routex.zip — Route X — Data East
+- royalmah.zip — Royal Mahjong — Nichibutsu
+- royalpk2.zip — Royal Poker 2 — Taito
+- royalpok.zip — Royal Poker — Taito
+- royalrd2.zip — Royal Road 2 — Taito
+- royalrid.zip — Royal Rider — Taito
+- rranger.zip — Rough Ranger — SunA
+- rrreveng.zip — Rail Chase — Sega
+- rshark.zip — R-Shark — Dooyong
+- rthunder.zip — Rolling Thunder — Namco
+- rthun2.zip — Rolling Thunder 2 — Namco
+- rthun2j.zip — Rolling Thunder 2 (Japan) — Namco
+- rthun2u.zip — Rolling Thunder 2 (US) — Namco
+- rtype.zip — R-Type — Irem
+- rtype2.zip — R-Type II — Irem
+- rtype2j.zip — R-Type II (Japan) — Irem
+- rtypeleo.zip — R-Type Leo — Irem
+- rtypeu.zip — R-Type (US) — Irem
+- rugrats.zip — Rug Rats — Taito
+- rumblef.zip — Rumble Fish — Dimps
+- rumblef2.zip — Rumble Fish 2 — Dimps
+- runark.zip — Runark — Sega
+- runaway.zip — Run Away — Atari
+- rundeep.zip — Run Deep — Taito
+- rungun.zip — Run and Gun — Konami
+- rungun2.zip — Run and Gun 2 — Konami
+- rungun2j.zip — Run and Gun 2 (Japan) — Konami
+- rungun2u.zip — Run and Gun 2 (US) — Konami
+- rungunua.zip — Run and Gun (US alt) — Konami
+- rushcrsh.zip — Rush & Crash — Capcom
+- rushhero.zip — Rush Hero — Taito
+- rvschool.zip — Rival Schools — Capcom
+- rygar.zip — Rygar — Tecmo
+- rygarj.zip — Rygar (Japan) — Tecmo
+- ryujin.zip — Ryujin — Taito
+- ryukendn.zip — Ninja Spirit — Irem
+- ryukyu.zip — Ryukyu — Taito
+- s1945.zip — Strikers 1945 — Psikyo
+- s1945ii.zip — Strikers 1945 II — Psikyo
+- s1945iii.zip — Strikers 1945 III — Psikyo
+- sabotenb.zip — Saboten Bombers — NMK
+- sadari.zip — Sadari — Afega
+- safari.zip — Safari — SNK
+- safarir.zip — Safari Rally — SNK
+- sailormn.zip — Sailor Moon — Banpresto
+- sailormn2.zip — Sailor Moon 2 — Banpresto
+- saiyugb1.zip — Sai Yu Gou Ma Roku (bootleg 1) — Video System
+- saiyugb2.zip — Sai Yu Gou Ma Roku (bootleg 2) — Video System
+- saiyugou.zip — Sai Yu Gou Ma Roku — Video System
+- salamand.zip — Salamander — Konami
+- salamanj.zip — Salamander (Japan) — Konami
+- salamndr.zip — Salamander (Europe) — Konami
+- samsho.zip — Samurai Shodown — SNK
+- samsho2.zip — Samurai Shodown II — SNK
+- samsho3.zip — Samurai Shodown III — SNK
+- samsho4.zip — Samurai Shodown IV — SNK
+- samsho5.zip — Samurai Shodown V — SNK
+- samsho5b.zip — Samurai Shodown V (bootleg) — SNK
+- samsho5s.zip — Samurai Shodown V Special — SNK
+- sandscrp.zip — Sand Scorpion — Face
+- sarge.zip — Sarge — Bally/Midway
+- sarukani.zip — Saru Kani Gassen — Taito
+- sassisu.zip — Sasuke vs. Commander — SNK
+- satansat.zip — Satan of Saturn — SNK
+- saturn.zip — Saturn — Jaleco
+- sauro.zip — Sauro — Tecfri
+- savagere.zip — Savage Reign — SNK
+- sb2003.zip — Super Bishi Bashi Champ 2003 — Konami
+- sb2003a.zip — Super Bishi Bashi Champ 2003 (alt) — Konami
+- sbagman.zip — Super Bagman — Valadon Automation
+- sbagmans.zip — Super Bagman (set 2) — Valadon Automation
+- sbasketb.zip — Super Basketball — Konami
+- sbasketo.zip — Super Basketball (old) — Konami
+- sbbros.zip — Snow Bros. — Toaplan
+- sbm.zip — Super Breakout — Atari
+- sboblbob.zip — Super Bobble Bobble — Taito
+- sbowling.zip — Strike Bowling — Taito
+- sbrkout.zip — Super Breakout — Atari
+- scandal.zip — Scandal — Mitchell
+- scandalm.zip — Scandal Mahjong — Mitchell
+- scfinals.zip — Soccer Finals — Data East
+- schamp.zip — Super Champion Baseball — Sega
+- schaser.zip — Space Chaser — Taito
+- sci.zip — Special Criminal Investigation — Taito
+- scia.zip — Special Criminal Investigation (alternate) — Taito
+- scij.zip — Special Criminal Investigation (Japan) — Taito
+- scion.zip — Scion — Seibu Denshi
+- scobra.zip — Super Cobra — Konami
+- scobrab.zip — Super Cobra (bootleg) — Bootleg
+- scontra.zip — Super Contra — Konami
+- scorp.zip — Scorpion — Zaccaria
+- scorpion.zip — Scorpion (alternate) — Zaccaria
+- scramble.zip — Scramble — Konami
+- scramblb.zip — Scramble (bootleg) — Bootleg
+- scrambls.zip — Scramble Spirits — Sega
+- screwloo.zip — Screw Loose — Bally/Midway
+- scudhamm.zip — Scud Hammer — Taito
+- sdgndmps.zip — SD Gundam Psycho Salamander — Banpresto
+- sdgndmrb.zip — SD Gundam Rainbow Buster — Banpresto
+- sdgndmsm.zip — SD Gundam Sangokushi Rainbow — Banpresto
+- sdtennis.zip — Super Doubles Tennis — Taito
+- sdwx.zip — Shadow Warriors X — Tecmo
+- searchar.zip — Search & Rescue — SNK
+- searchey.zip — Search Eye — Taito
+- searthin.zip — Search Eye Plus — Taito
+- secretag.zip — Secret Agent — Data East
+- sectionz.zip — Section Z — Capcom
+- sectrzon.zip — Sector Zone — Capcom
+- seganinj.zip — Sega Ninja — Sega
+- seicross.zip — Seicross — Nichibutsu
+- seiha.zip — Seiha — Nichibutsu
+- seiham.zip — Seiham — Nichibutsu
+- selfeena.zip — Selfeena — Namco
+- sengekis.zip — Sengoku Blade — Psikyo
+- sengoku.zip — Sengoku — SNK
+- sengoku2.zip — Sengoku 2 — SNK
+- sengoku3.zip — Sengoku 3 — SNK
+- senjyo.zip — Senjyo — Tehkan
+- senknow.zip — Sen-Know — Taito
+- sentetst.zip — Sente Test — Bally/Sente
+- sercharu.zip — Search & Rescue (US) — SNK
+- sextriv.zip — Sexual Trivia — Advance Video
+- sf.zip — Street Fighter — Capcom
+- sf2.zip — Street Fighter II — Capcom
+- sf2ce.zip — Street Fighter II’: Champion Edition — Capcom
+- sf2hf.zip — Street Fighter II’: Hyper Fighting — Capcom
+- sf2j.zip — Street Fighter II (Japan) — Capcom
+- sf2ja.zip — Street Fighter II (Japan alt) — Capcom
+- sf2jc.zip — Street Fighter II (Japan c) — Capcom
+- sf2koryu.zip — Street Fighter II: Koryu (bootleg) — Bootleg
+- sf2m1.zip — Street Fighter II (M1 bootleg) — Bootleg
+- sf2m2.zip — Street Fighter II (M2 bootleg) — Bootleg
+- sf2m3.zip — Street Fighter II (M3 bootleg) — Bootleg
+- sf2m4.zip — Street Fighter II (M4 bootleg) — Bootleg
+- sf2m5.zip — Street Fighter II (M5 bootleg) — Bootleg
+- sf2m6.zip — Street Fighter II (M6 bootleg) — Bootleg
+- sf2m7.zip — Street Fighter II (M7 bootleg) — Bootleg
+- sf2m8.zip — Street Fighter II (M8 bootleg) — Bootleg
+- sf2m9.zip — Street Fighter II (M9 bootleg) — Bootleg
+- sf2ma.zip — Street Fighter II (MA bootleg) — Bootleg
+- sf2mb.zip — Street Fighter II (MB bootleg) — Bootleg
+- sf2mc.zip — Street Fighter II (MC bootleg) — Bootleg
+- sf2md.zip — Street Fighter II (MD bootleg) — Bootleg
+- sf2me.zip — Street Fighter II (ME bootleg) — Bootleg
+- sf2mf.zip — Street Fighter II (MF bootleg) — Bootleg
+- sf2mh.zip — Street Fighter II (MH bootleg) — Bootleg
+- sf2mk.zip — Street Fighter II (MK bootleg) — Bootleg
+- sf2ml.zip — Street Fighter II (ML bootleg) — Bootleg
+- sf2mm.zip — Street Fighter II (MM bootleg) — Bootleg
+- sf2mn.zip — Street Fighter II (MN bootleg) — Bootleg
+- sf2mo.zip — Street Fighter II (MO bootleg) — Bootleg
+- sf2mp.zip — Street Fighter II (MP bootleg) — Bootleg
+- sf2mq.zip — Street Fighter II (MQ bootleg) — Bootleg
+- sf2mr.zip — Street Fighter II (MR bootleg) — Bootleg
+- sf2ms.zip — Street Fighter II (MS bootleg) — Bootleg
+- sf2mt.zip — Street Fighter II (MT bootleg) — Bootleg
+- sf2mu.zip — Street Fighter II (MU bootleg) — Bootleg
+- sf2mv.zip — Street Fighter II (MV bootleg) — Bootleg
+- sf2mw.zip — Street Fighter II (MW bootleg) — Bootleg
+- sfa.zip — Street Fighter Alpha: Warriors’ Dreams — Capcom
+- sfa2.zip — Street Fighter Alpha 2 — Capcom
+- sfa3.zip — Street Fighter Alpha 3 — Capcom
+- sfiii.zip — Street Fighter III: New Generation — Capcom
+- sfiii2.zip — Street Fighter III: 2nd Impact – Giant Attack — Capcom
+- sfiii3.zip — Street Fighter III: 3rd Strike — Capcom
+- sfposeid.zip — Sea Fighter Poseidon — Taito [por confirmar]
+- sftm.zip — Street Fighter: The Movie — Incredible Technologies / Capcom
+- sfx.zip — SFX (test/utility) — [por confirmar]
+- sfz2al.zip — Street Fighter Zero 2 Alpha — Capcom
+- sfzch.zip — Street Fighter Zero (CPS Changer) — Capcom
+- sgemf.zip — Super Gem Fighter Mini Mix (Pocket Fighter) — Capcom
+- sgladiat.zip — Space Gladiator — [por confirmar]
+- sgmast.zip — S.G. Master — [por confirmar]
+- sgunner.zip — Steel Gunner — Namco
+- sgunner2.zip — Steel Gunner 2 — Namco
+- shackled.zip — Shackled — Data East
+- shadfrce.zip — Shadow Force — Technos Japan
+- shadowld.zip — Shadowland (Yōkai Dōchūki) — Namco
+- shadoww.zip — Shadow Warriors (Ninja Gaiden) — Tecmo
+- shangon.zip — Super Hang-On — Sega
+- sharkatt.zip — Shark Attack — Pacific Novelty
+- sharrier.zip — Space Harrier — Sega
+- shdancer.zip — Shadow Dancer — Sega
+- shinfz.zip — Shinobi (set FZ) — Sega
+- shinobi.zip — Shinobi — Sega
+- shocking.zip — Shocking — ESD
+- shocktr2.zip — Shock Troopers: 2nd Squad — Saurus / SNK
+- shocktro.zip — Shock Troopers — Saurus / SNK
+- shogwarr.zip — Shogun Warriors (Fujiyama Buster) — Kaneko
+- shollow.zip — Satan’s Hollow — Midway
+- shootout.zip — Shoot Out — Data East
+- shtrider.zip — Shot Rider — Seibu Kaihatsu [por confirmar]
+- shufshot.zip — Shuffle Shot — Incredible Technologies
+- shuuz.zip — Shuuz — Atari Games
+- sidearms.zip — Side Arms – Hyper Dyne — Capcom
+- sidepckt.zip — Side Pocket — Data East
+- silentd.zip — Silent Dragon — Taito
+- silkroad.zip — The Legend of Silkroad — Unico
+- silkworm.zip — Silkworm — Tecmo
+- silvmil.zip — Silver Millennium — [por confirmar]
+- simpsons.zip — The Simpsons — Konami
+- sinistar.zip — Sinistar — Williams
+- sjryuko.zip — Super Jangou Ryūko (mahjong) — [por confirmar]
+- skns.zip — Kaneko Super Nova System (BIOS) — Kaneko
+- skullfng.zip — Skull Fang: Kuuga Gaiden — Data East
+- skullxbo.zip — Skull & Crossbones — Atari Games
+- skyadvnt.zip — Sky Adventure — Alpha Denshi / SNK
+- skyalert.zip — Sky Alert — [por confirmar]
+- skyarmy.zip — Sky Army — [por confirmar]
+- skybase.zip — Sky Base — [por confirmar]
+- skyfox.zip — Sky Fox (Exerizer) — Nichibutsu
+- skykid.zip — Sky Kid — Namco
+- skykiddx.zip — Sky Kid Deluxe — Namco
+- skylancr.zip — Sky Lancer — Orca
+- skyrobo.zip — Sky Robo — [por confirmar]
+- skyskipr.zip — Sky Skipper — Nintendo
+- skysmash.zip — Sky Smasher — Nihon System / Allumer
+- skysoldr.zip — Sky Soldiers — ADK / SNK
+- slammast.zip — Saturday Night Slam Masters (Muscle Bomber) — Capcom
+- slapshot.zip — Slap Shot — Taito
+- slapshtr.zip — Slap Shooter — [por confirmar]
+- slither.zip — Slither — Century
+- slspirit.zip — [por confirmar]
+- smgp.zip — Super Monaco GP — Sega
+- snapjack.zip — Snap Jack — Universal
+- snapper.zip — Snapper — [por confirmar]
+- snowboar.zip — Snow Board Championship — Gaelco
+- snowbro2.zip — Snow Bros. 2: With New Elves — Toaplan
+- snowbro3.zip — Snow Bros. 3: Magical Adventure (bootleg) — [por confirmar]
+- snowbros.zip — Snow Bros. — Toaplan
+- socbrawl.zip — Soccer Brawl — SNK
+- sokonuke.zip — Sokonuke Taisen Game — Sammy
+- solarfox.zip — Solar Fox — Bally Midway
+- soldam.zip — Soldam — Jaleco
+- soldivid.zip — Sol Divide — Psikyo
+- solfigtr.zip — Solitary Fighter — Data East
+- solomon.zip — Solomon’s Key — Tecmo
+- sonicbom.zip — Sonic Boom — Sega
+- sonicwi2.zip — Sonic Wings 2 (Aero Fighters 2) — Video System
+- sonicwi3.zip — Sonic Wings 3 (Aero Fighters 3) — Video System
+- sonson.zip — SonSon — Capcom
+- sos.zip — SOS — Namco [por confirmar]
+- sotsugyo.zip — Sotsugyō Shōsho (Graduation) — [por confirmar]
+- spacduel.zip — Space Duel — Atari
+- spacecr.zip — Space Cruiser — Taito
+- spacedx.zip — Space Invaders DX — Taito
+- spacefb.zip — Space Firebird — Nintendo
+- spacegun.zip — Space Gun — Taito
+- spaceskr.zip — Space Seeker — Taito
+- spacfury.zip — Space Fury — Sega/Gremlin
+- spang.zip — Super Pang — Mitchell
+- sparkman.zip — Spark Man — [por confirmar]
+- sparkz.zip — Sparkz — Leland
+- spatter.zip — Spatter — Sega
+- spcinv95.zip — Space Invaders ’95 — Taito
+- spcpostn.zip — Space Position — Namco
+- spdball.zip — Speed Ball — Bally/Midway [por confirmar]
+- spdcoin.zip — Speed Coin — [por confirmar]
+- spdodgeb.zip — Super Dodge Ball — Technos Japan
+- speakres.zip — Speak & Rescue — Century [por confirmar]
+- spec2k.zip — Spec 2K / Spectrum 2000 — [por confirmar]
+- speedbal.zip — Speed Ball — Tecfri
+- speedspn.zip — Speed Spin — [por confirmar]
+- spelunk2.zip — Spelunker II — Irem
+- spelunkr.zip — Spelunker — Irem
+- spf2t.zip — Super Puzzle Fighter II Turbo — Capcom
+- spidermi.zip — Spider-Man: The Video Game — Sega
+- spinlbrk.zip — Spinal Breakers — Video System
+- spinmast.zip — Spinmaster — Data East
+- splat.zip — Splat! — Williams
+- splatter.zip — Splatterhouse — Namco
+- spnchout.zip — Super Punch-Out!! — Nintendo
+- spotty.zip — Spotty — Seibu Denshi [por confirmar]
+- sprcros2.zip — Super Cross II — [por confirmar]
+- springer.zip — Springer — Orca
+- spy.zip — S.P.Y. – Special Project Y — Konami
+- spyhunt.zip — Spy Hunter — Bally Midway
+- sqbert.zip — Q\*bert’s Qubes — Mylstar
+- squaitsa.zip — Squaitsa — [por confirmar]
+- squash.zip — Squash — Gaelco
+- sraider.zip — Space Raider — [por confirmar]
+- sranger.zip — Super Ranger — [por confirmar]
+- srdarwin.zip — Super Real Darwin — Data East
+- srdmissn.zip — S.R.D. Mission — Taito
+- srmp4.zip — Super Real Mahjong PIV — Seta
+- srmp7.zip — Super Real Mahjong P7 — Seta
+- srumbler.zip — The Speed Rumbler (Rush & Crash) — Capcom
+- ssf2.zip — Super Street Fighter II — Capcom
+- ssf2t.zip — Super Street Fighter II Turbo — Capcom
+- ssf2tnl.zip — Super Street Fighter II Turbo (variante “NL”) — [por confirmar]
+- sshangha.zip — Super Shanghai — Hot-B / Sunsoft [por confirmar]
+- ssi.zip — SSI — [por confirmar]
+- ssideki.zip — Super Sidekicks — SNK
+- ssideki2.zip — Super Sidekicks 2 — SNK
+- ssideki3.zip — Super Sidekicks 3 — SNK
+- ssideki4.zip — The Ultimate 11 (Super Sidekicks 4) — SNK
+- ssmissin.zip — S.S. Mission — Taito [por confirmar]
+- ssoldier.zip — S. Soldier — [por confirmar]
+- ssozumo.zip — Super Oozumou — Taito
+- sspirits.zip — Samurai Spirits (Samurai Shodown) — SNK
+- ssriders.zip — Sunset Riders — Konami
+- ssrj.zip — SSRJ — [por confirmar]
+- sstingry.zip — Sea Stingray — Orca [por confirmar]
+- sstrangr.zip — Space Stranger — [por confirmar]
+- sstriker.zip — S. Striker — [por confirmar]
+- stadhero.zip — Stadium Hero — Data East
+- stadhr96.zip — Stadium Hero 96 — Data East
+- stagger1.zip — Stagger I — Athena
+- stakwin.zip — Stakes Winner — Saurus / SNK
+- stakwin2.zip — Stakes Winner 2 — Saurus / SNK
+- starfigh.zip — Star Fighter — [por confirmar]
+- starforc.zip — Star Force — Tehkan
+- stargate.zip — Stargate — Williams
+- stargrds.zip — Star Guards — [por confirmar]
+- starjack.zip — Star Jacker — Sega
+- startrek.zip — Star Trek (vector) — Sega/Gremlin
+- startrks.zip — Star Trek (Sega System 1) — Sega [por confirmar]
+- starwars.zip — Star Wars (vector) — Atari
+- stdragon.zip — Saint Dragon — Jaleco
+- stg.zip — Strike Gunner S.T.G — Athena
+- stinger.zip — Stinger — Seibu Denshi
+- stlforce.zip — Steel Force — Ecogames / Electronic Devices
+- stmblade.zip — Storm Blade — Visco
+- strahl.zip — Strahl — UPL
+- stratgyx.zip — Strategy X — Konami
+- stratof.zip — Stratofighter — Data East
+- streakng.zip — Streaking — Shoei
+- streetsm.zip — Street Smart — SNK
+- strhoop.zip — Street Hoop (Dunk Dream) — Data East
+- strider.zip — Strider — Capcom
+- strkfgtr.zip — Strike Fighter — Sega
+- strnskil.zip — Strong X (Strength & Skill) — [por confirmar]
+- strvmstr.zip — Super Trivia Master — [por confirmar]
+- stuntair.zip — Stunt Air — [por confirmar]
+- sub.zip — Sub — [por confirmar]
+- subroc3d.zip — SubRoc-3D — Sega
+- sucasino.zip — Super Casino — [por confirmar]
+- sunaq.zip — Suna Q (quiz) — Suna
+- supbtime.zip — Super Burger Time — Data East
+- supduck.zip — Super Duck — [por confirmar]
+- superbon.zip — Super Bond / Super Bonnie? — [por confirmar]
+- superchs.zip — Super Chase: Criminal Termination — Taito
+- superman.zip — Superman — Taito
+- superpac.zip — Super Pac-Man — Namco
+- superspy.zip — The Super Spy — SNK
+- superten.zip — Super Ten — [por confirmar]
+- superx.zip — Super-X — Gaelco
+- suplup.zip — Super Lup Lup Puzzle (Puzzle Bobble clone) — ESD
+- supmodel.zip — Super Model — [por confirmar]
+- suprglob.zip — Super Glob — Epos
+- suprleag.zip — Super League — Data East [por confirmar]
+- suprloco.zip — Super Locomotive — Sega
+- suprmous.zip — Super Mouse (Mappy bootleg) — Taito bootleg [por confirmar]
+- suprridr.zip — Super Rider — [por confirmar]
+- suprtrio.zip — Super Trio — Gameace
+- suratk.zip — Surprise Attack — Konami
+- survarts.zip — Survival Arts — Sammy
+- svc.zip — SNK vs. Capcom: SVC Chaos — SNK Playmore
+- svcpcb.zip — SNK vs. Capcom: SVC Chaos (PCB) — SNK Playmore
+- svg.zip — Spectral vs Generation — IGS / D&K / Idea Factory
+- svolley.zip — Super Volleyball — Video System
+- swat.zip — SWAT — Sega
+- swatpolc.zip — SWAT Police — V-System [por confirmar]
+- swimmer.zip — Swimmer — Tehkan
+- sws.zip — Super World Stadium — Namco
+- sws92.zip — Super World Stadium ’92 — Namco
+- sws93.zip — Super World Stadium ’93 — Namco
+- sxyreac2.zip — Sexy Reaction 2 — Comad / Yun Sung [por confirmar]
+- sxyreact.zip — Sexy Reaction — Comad [por confirmar]
+- syscheck.zip — System Check — Taito [por confirmar]
+- syvalion.zip — Syvalion — Taito
+- szaxxon.zip — Super Zaxxon — Sega
+- tacscan.zip — Tac/Scan — Sega/Gremlin
+- tactcian.zip — Tactician — Jaleco / Nichibutsu
+- tail2nos.zip — Tail to Nose — Video System
+- tangtang.zip — Tang Tang — Excellent System
+- tankbust.zip — Tank Busters — [por confirmar]
+- tankfrce.zip — Tank Force — Namco
+- taotaido.zip — Tao Taido — Video System
+- tapper.zip — Tapper — Bally Midway
+- targeth.zip — Target Hits — Gaelco
+- tattass.zip — Tattoo Assassins — Data East
+- tazmania.zip — Tazz-Mania — Stern
+- tbowl.zip — Ten Yard Fight? (no) — Tecmo Bowl (prototype) [por confirmar]
+- tceptor.zip — Thunder Ceptor — Namco
+- tcobra2.zip — Twin Cobra II — Taito / Toaplan
+- tdfever.zip — TouchDown Fever — SNK
+- tdpgal.zip — T.D. PGal — [por confirmar]
+- tdragon.zip — Thunder Dragon — NMK
+- tdragon2.zip — Thunder Dragon 2 — NMK
+- teddybb.zip — Teddy Boy Blues — Sega
+- tekipaki.zip — Teki Paki — Toaplan
+- teljan.zip — Tel-Tel Mahjong / Tel Jan — [por confirmar]
+- tempest.zip — Tempest — Atari
+- tengai.zip — Tengai (Sengoku Blade) — Psikyo
+- teot.zip — Trail of the Wolf? (The Eye of Typhoon?) — [por confirmar]
+- terracre.zip — Terra Cresta — Nichibutsu
+- terraf.zip — Terra Force — Nichibutsu
+- tetrbx.zip — Tetris (bootleg, System 16) — Bootleg
+- tetris.zip — Tetris — Atari/Tengen/Sega [por confirmar de set]
+- tetrisp2.zip — Tetris Plus 2 — Jaleco
+- tetrisse.zip — Tetris (Sega System E) — Sega
+- tetrsark.zip — Tetris (Arkanoid hardware) — [por confirmar]
+- tgm2.zip — Tetris the Grand Master 2 — Arika
+- tharrier.zip — Thunder Harrier — Data East
+- thedeep.zip — The Deep — Woodplace [por confirmar]
+- theend.zip — The End — Konami
+- theglad.zip — The Gladiator — Allumer / Banpresto
+- thepit.zip — The Pit — Centuri
+- theroes.zip — The Heroes — Prism / Unico
+- thief.zip — Thief — Pacific Novelty
+- thndrbld.zip — Thunder Blade — Sega
+- thndrx2.zip — Thunder Cross II — Konami
+- thndzone.zip — Thunder Zone (Desert Assault) — Data East
+- thoop.zip — Thunder Hoop — Gaelco
+- thoop2.zip — Thunder Hoop 2 — Gaelco
+- thunderj.zip — ThunderJaws — Atari Games
+- thunderl.zip — Thunder & Lightning — Romstar / Visco
+- thunderx.zip — Thunder Cross — Konami
+- thundfox.zip — Thunder Fox — Taito
+- tigerh.zip — Tiger-Heli — Toaplan
+- tigeroad.zip — Tiger Road — Capcom
+- timber.zip — Timber — Bally Midway
+- timefgtr.zip — Time Fighter — [por confirmar]
+- timekill.zip — Time Killers — Incredible Technologies
+- timelimt.zip — Time Limit — Chunghwa/Seta [por confirmar]
+- timeplt.zip — Time Pilot — Konami
+- timescan.zip — Time Scanner — Sega
+- timesold.zip — Time Soldiers — SNK / Alpha Denshi
+- timesupd.zip — Time’s Up? (Time’s Up – Data East?) — [por confirmar]
+- timetunl.zip — Time Tunnel — Taito
+- tinstar.zip — The Tin Star — Taito [por confirmar]
+- tkdensho.zip — Tokimeki Memorial Densetsu no Quiz — Konami [por confirmar]
+- tmnt.zip — Teenage Mutant Ninja Turtles — Konami
+- tmnt2.zip — TMNT: Turtles in Time — Konami
+- tmnti.zip — Teenage Mutant Ninja Turtles (Konami Viper/3D) — Konami [por confirmar]
+- tndrcade.zip — Thundercade — Taito / Seti
+- tnextspc.zip — The Next Space — SNK / Saurus [por confirmar]
+- tnk3.zip — T.N.K. III — SNK
+- tnzs.zip — The NewZealand Story — Taito
+- todruaga.zip — The Tower of Druaga — Namco
+- toki.zip — Toki — TAD Corporation
+- tokio.zip — Tokio / Scramble Formation — Taito
+- tokisens.zip — Tokimeki Senshi — Konami [por confirmar]
+- tomagic.zip — Touch of Magic — [por confirmar]
+- toobin.zip — Toobin’ — Atari Games
+- tophuntr.zip — Top Hunter: Roddy & Cathy — SNK
+- toppyrap.zip — Toppy & Rappy — Toaplan / Sega [por confirmar]
+- topspeed.zip — Top Speed / Full Throttle — Taito
+- toride2g.zip — Toride II G — Visco
+- toryumon.zip — Toryumon — Seta
+- totc.zip — Time of the Children? — [por confirmar]
+- toto.zip — Toto — [por confirmar]
+- touchgo.zip — Touch & Go — Namco
+- toutrun.zip — Turbo Out Run — Sega
+- toyland.zip — Toy Land Adventure — Gaelco
+- toypop.zip — Toypop — Namco
+- tp84.zip — Time Pilot ’84 — Konami
+- tpgolf.zip — Top Player’s Golf — SNK
+- trackfld.zip — Track & Field — Konami
+- trally.zip — Thrash Rally — ADK / SNK
+- transfrm.zip — Transformer — Stern
+- travrusa.zip — Traverse USA — Irem
+- trckydoc.zip — Tricky Doc — [por confirmar]
+- tricktrp.zip — Trick Trap — Gaelco
+- triothep.zip — Trio The Punch — Data East
+- triplep.zip — Triple Punch — KKI / Namco [por confirmar]
+- tripool.zip — Tri-Pool — [por confirmar]
+- troangel.zip — Tropical Angel — Irem
+- trojan.zip — Trojan — Capcom
+- tron.zip — Tron — Bally Midway
+- trophyh.zip — Trophy Hunting — Sammy / IGS [por confirmar]
+- trstar.zip — Top Ranking Stars — Taito
+- truxton.zip — Truxton (Tatsujin) — Toaplan
+- truxton2.zip — Truxton II (Tatsujin Ō) — Toaplan
+- trvmstr.zip — Trivia Master — Enerdyne [por confirmar]
+- tsamurai.zip — Samurai — Taito
+- tshingen.zip — Takeda Shingen — Jaleco
+- tturf.zip — Tough Turf — Sega / Sunsoft
+- tubep.zip — Tube Panic — Nichibutsu
+- tumblep.zip — Tumble Pop — Data East
+- turbo.zip — Turbo — Sega
+- turbofrc.zip — Turbo Force — Video System
+- turfmast.zip — Neo Turf Masters — Nazca / SNK
+- turkhunt.zip — Turkey Shoot / Turkey Hunting (light gun) — [por confirmar]
+- turtles.zip — Turtles — Stern
+- turtship.zip — Turtle Ship — Philko
+- tutankhm.zip — Tutankham — Konami
+- twcup90.zip — Tecmo World Cup ’90 — Tecmo
+- twinactn.zip — Twin Action — [por confirmar]
+- twinadv.zip — Twin Adventure — [por confirmar]
+- twinbee.zip — TwinBee — Konami
+- twinbrat.zip — Twin Brats — [por confirmar]
+- twincobr.zip — Twin Cobra — Toaplan
+- twineag2.zip — Twin Eagle II — Seta
+- twineagl.zip — Twin Eagle — Seta
+- twinfalc.zip — Twin Falcons — [por confirmar]
+- twinhawk.zip — Twin Hawk (Daisenpu) — Toaplan
+- twinkle.zip — Twinkle — [por confirmar]
+- twinqix.zip — Twin Qix — Taito
+- twinspri.zip — Twin Sprites / Twin Sprites? — [por confirmar]
+- twotiger.zip — Two Tigers — Bally Midway
+- twsoc96.zip — Tecmo World Soccer ’96 — Tecmo
+- uballoon.zip — Ultra Balloon — SKonec [por confirmar]
+- uccops.zip — Undercover Cops — Irem
+- ufosensi.zip — Ufo Senshi Yohko Chan? — [por confirmar]
+- ultracin.zip — Ultra Coin / Ultracoin — [por confirmar]
+- ultraman.zip — Ultraman — Banpresto
+- ultrax.zip — Ultra X Weapons — Banpresto
+- umanclub.zip — Uman Club — [por confirmar]
+- umk3.zip — Ultimate Mortal Kombat 3 — Midway
+- unclepoo.zip — Uncle Poo — [por confirmar]
+- undrfire.zip — Under Fire — Taito
+- uniwars.zip — UniWar S — Irem
+- unkpacg.zip — Unknown Pac-Game — [por confirmar]
+- unsquad.zip — U.N. Squadron (Area 88) — Capcom
+- uopoko.zip — Uo Poko — Cave
+- upndown.zip — Up’n Down — Sega
+- usclssic.zip — U.S. Classic — Data East
+- usg32.zip — US Games 32 (board) — US Games [por confirmar]
+- usgames.zip — U.S. Games (board) — US Games
+- utoukond.zip — UtoU Kond? — [por confirmar]
+- valkyrie.zip — Valkyrie no Densetsu — Namco
+- valtric.zip — Valtric — Jaleco
+- vamphalf.zip — Vampire Half? (Vamphalf) — Danbi [por confirmar]
+- vandyke.zip — Vandyke — Mitchell
+- vangrd2.zip — Vanguard II — SNK
+- vanguard.zip — Vanguard — SNK
+- vanvan.zip — Van-Van Car — Karat
+- vaportra.zip — Vapor Trail — Data East
+- varth.zip — Varth — Capcom
+- vasara.zip — Vasara — Visco
+- vasara2.zip — Vasara 2 — Visco
+- vastar.zip — Vastar — Orca
+- vball.zip — U.S. Championship V’Ball — Technos Japan
+- vblokbrk.zip — V-Block Breaker — [por confirmar]
+- vendetta.zip — Vendetta (Crime Fighters 2) — Konami
+- vhunt2.zip — Vampire Hunter 2 — Capcom
+- victoryc.zip — Victory (cocktail) — [por confirmar]
+- victroad.zip — Victory Road (Ikari II) — SNK
+- viewpoin.zip — Viewpoint — Sammy
+- vigilant.zip — Vigilante — Irem
+- vimana.zip — Vimana — Toaplan
+- vindctr2.zip — Vindicators Part II — Atari Games
+- vindictr.zip — Vindicators — Atari Games
+- viofight.zip — Violent Fight (Violence Fight) — Taito
+- viostorm.zip — Violent Storm — Konami
+- vliner.zip — V-Liner (medal) — [por confirmar]
+- vmetal.zip — Viper Phase 1? (no) — V. Metal (Seibu) — [por confirmar]
+- volfied.zip — Volfied — Taito
+- vsav.zip — Vampire Savior — Capcom
+- vsav2.zip — Vampire Savior 2 — Capcom
+- vsgongf.zip — VS Gong Fight — Sun Electronics
+- vulcan.zip — Vulcan Venture (Gradius II) — Konami
+- vulgus.zip — Vulgus — Capcom
+- wacko.zip — Wacko — Bally Midway
+- wakuwak7.zip — Waku Waku 7 — Sunsoft
+- wallc.zip — Wall Crash — [por confirmar]
+- wanted.zip — Wanted — Sigma / Irem [por confirmar]
+- wardner.zip — Wardner — Taito / Toaplan
+- warofbug.zip — War of the Bugs — Armenian/Armenia? [por confirmar]
+- warpwarp.zip — Warp & Warp — Namco
+- warriorb.zip — Warrior Blade: Rastan Saga III — Taito
+- waterski.zip — Water Ski — Taito
+- watrball.zip — Water Balls — [por confirmar]
+- wb3.zip — Wonder Boy III: Monster Lair — Sega
+- wbml.zip — Wonder Boy in Monster Land — Sega
+- wboy.zip — Wonder Boy — Sega
+- wcbowl.zip — World Class Bowling — Incredible Technologies
+- wcbowldx.zip — World Class Bowling Deluxe — Incredible Technologies
+- wcvol95.zip — World Cup Volleyball ’95 — Data East
+- welltris.zip — Welltris — Tecmo
+- wh1.zip — World Heroes — ADK / SNK
+- wh2.zip — World Heroes 2 — ADK / SNK
+- wh2j.zip — World Heroes 2 Jet — ADK / SNK
+- wheelrun.zip — Wheel Runner — [por confirmar]
+- whp.zip — World Heroes Perfect — ADK / SNK
+- wiggie.zip — Wiggie Waggie — [por confirmar]
+- wildfang.zip — Wild Fang (Taito) (a.k.a. Tecmo’s/Capcom’s?) — [por confirmar]
+- willow.zip — Willow — Capcom
+- wilytowr.zip — Wily Tower — Irem
+- wingforc.zip — Wing Force — Atlus / Technosoft [por confirmar]
+- wiping.zip — Wiping — Nichibutsu
+- wits.zip — Wits — Athena
+- wivernwg.zip — Wyvern Wings — SemiCom
+- wiz.zip — Wiz — Seibu Denshi
+- wizdfire.zip — Wizard Fire (Dark Seal 2) — Data East
+- wizzquiz.zip — Wizz Quiz — Bellfruit / Konami [por confirmar]
+- wjammers.zip — Windjammers — Data East
+- wldcourt.zip — World Court — Namco [por confirmar]
+- wlstar.zip — Wonder League Star — Namco / Irem [por confirmar]
+- wmatch.zip — The Wrestle Match — [por confirmar]
+- wndrmomo.zip — Wonder Momo — Namco
+- wndrplnt.zip — Wonder Planet — Data East
+- wof.zip — Warriors of Fate (Tenchi wo Kurau II) — Capcom
+- wofch.zip — Warriors of Fate (Chinese hack/bootleg) — Bootleg
+- wondl96.zip — Wonder League ’96 — [por confirmar]
+- wondstck.zip — Wonder Stick — [por confirmar]
+- woodpeck.zip — Woodpecker — [por confirmar]
+- worldadv.zip — World Adventure — [por confirmar]
+- worldwar.zip — World War — [por confirmar]
+- wownfant.zip — Wownfant — [por confirmar]
+- wrally.zip — World Rally — Gaelco
+- wrally2.zip — World Rally 2 — Gaelco
+- wrestwar.zip — Wrestle War — Sega
+- wrofaero.zip — War of Aero — Yang Cheng [por confirmar]
+- ws.zip — WonderSwan BIOS? (arcade set) — [por confirmar]
+- wschamp.zip — World Stadium Champion — Namco
+- wwallyj.zip — Wonder Boy? (no) — World Wally Japan — [por confirmar]
+- wwestern.zip — Wild Western — Taito
+- wwfmania.zip — WWF WrestleMania — Midway
+- wwfsstar.zip — WWF Superstars — Technos Japan
+- wwfwfest.zip — WWF WrestleFest — Technos Japan
+- wwjgtin.zip — W-Wing JG Tin — [por confirmar]
+- wyvernf0.zip — Wyvern F-0 — [por confirmar]
+- xevious.zip — Xevious — Namco
+- xexex.zip — Xexex — Konami
+- xmcota.zip — X-Men: Children of the Atom — Capcom
+- xmen.zip — X-Men — Konami
+- xmultipl.zip — X Multiply — Irem
+- xmvsf.zip — X-Men vs. Street Fighter — Capcom
+- xorworld.zip — Xor World — Gaelco [por confirmar]
+- xsleena.zip — Xain’d Sleena (Soldier of Light) — Technos Japan
+- xxmissio.zip — XX Mission — UPL
+- xybots.zip — Xybots — Atari Games
+- xyonix.zip — Xyonix — Philko
+- yamagchi.zip — Yamaguchi — [por confirmar]
+- yamato.zip — Yamato — Sega
+- yesnoj.zip — Yes/No Quiz — [por confirmar]
+- yiear.zip — Yie Ar Kung-Fu — Konami
+- ym2608.zip — YM2608 (sound ROM) — Yamaha / BIOS [por confirmar]
+- youjyudn.zip — Youjyuden — Data East [por confirmar]
+- yuyugogo.zip — Yuyu no Quiz de Go! Go! — Taito [por confirmar]
+- zaviga.zip — Zaviga — Data East
+- zaxxon.zip — Zaxxon — Sega
+- zedblade.zip — Zed Blade (Operation Ragnarok) — NMK / SNK
+- zektor.zip — Zektor — Sega/Gremlin
+- zeropnt.zip — Zero Point — Unico
+- zeropnt2.zip — Zero Point 2 — Unico
+- zeroteam.zip — Zero Team — Seibu Kaihatsu
+- zerowing.zip — Zero Wing — Toaplan
+- zerozone.zip — Zero Zone — Comad
+- zigzagb.zip — Zig Zag (bootleg) — Bootleg
+- zingzip.zip — Zing Zing Zip — Allumer
+- zintrckb.zip — Zintrick (bootleg) — Bootleg
+- zipzap.zip — Zip & Zap / Zip-Zap — [por confirmar]
+- zoar.zip — Zoar — Data East
+- zodiack.zip — Zodiac / Dog Fight — Orca / Alca
+- zombraid.zip — Zombie Raid — American Sammy
+- zookeep.zip — Zoo Keeper — Taito
+- zupapa.zip — Zupapa! — Face / SNK
+- zzyzzyxx.zip — Zzyzzyxx — Cinematronics
