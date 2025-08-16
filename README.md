@@ -8,7 +8,7 @@ La carpeta completa ocupa **14 GB** y contiene **2122 archivos**, lo que signifi
 
 Puedes descargar archivos individuales si así lo deseas, abajo lo explico.
 
-### FinalBurn Neo (Completamente fusionado)
+## Juegos (ROMs completamente fusionado)
 
 - Para descargar ROMs individuales, haz clic en **“Ver contenidos”** en el conjunto **“arcade.zip”** y hacer clic en el juego deseado para iniciar su descarga directa.
 - 📥 [ROMs](https://archive.org/download/fcroms/fbneo/roms/)
@@ -19,7 +19,7 @@ Puedes descargar archivos individuales si así lo deseas, abajo lo explico.
 - En **Fightcade-fbneo Full-Merged Sets** se incluyen todas las versiones de cada juego y los archivos de sistema requeridos en un único `.zip`.
 - El emulador **FinalBurn Neo oficial** es el más preciso y actualizado. Para jugadores en solitario o cooperativo local, se recomienda usar este set [FBNeo oficial](https://archive.org/details/2020_01_06_fbn).
 
----
+## Lista
 
 ### En cada entrada encontrarás:
 
