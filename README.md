@@ -14,17 +14,14 @@ Puedes descargar archivos individuales si así lo deseas, abajo lo explico.
 
 #### FinalBurn Neo (Completamente fusionado)
 
-- Para descargar ROMs individuales, haz clic en **“Ver contenidos”** en el conjunto **“arcade.zip”** y hacer clic en el juego deseado para iniciar su descarga directa.</br>
-  Links directos a:
+- Para descargar ROMs individuales, haz clic en **“Ver contenidos”** en el conjunto **“arcade.zip”** y hacer clic en el juego deseado para iniciar su descarga directa.
 - 📥 [ROMs](https://archive.org/download/fcroms/fbneo/roms/)
 - 📥 [Archivos de soporte (hiscore, preview, etc)](https://archive.org/download/fcroms/fbneo/support/)
 
----
+### Notas
 
-### ℹ️ Notas
-
-- 📦 **Fightcade-fbneo Full-Merged Sets**: incluyen todas las versiones de cada juego y los archivos de sistema requeridos en un único `.zip`.
-- ✅ El **FinalBurn Neo oficial** es más preciso y actualizado. Para jugadores en solitario o cooperativo local, se recomienda usar este set: [FBNeo oficial](https://archive.org/details/2020_01_06_fbn).
+- **Fightcade-fbneo Full-Merged Sets**: incluyen todas las versiones de cada juego y los archivos de sistema requeridos en un único `.zip`.
+- El **FinalBurn Neo oficial** es más preciso y actualizado. Para jugadores en solitario o cooperativo local, se recomienda usar este set: [FBNeo oficial](https://archive.org/details/2020_01_06_fbn).
 
 ---
 
