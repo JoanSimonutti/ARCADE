@@ -8,11 +8,7 @@ La carpeta completa ocupa **14 GB** y contiene **2122 archivos**, lo que signifi
 
 Puedes descargar archivos individuales si así lo deseas, abajo lo explico.
 
----
-
-### Recursos adicionales
-
-#### FinalBurn Neo (Completamente fusionado)
+### FinalBurn Neo (Completamente fusionado)
 
 - Para descargar ROMs individuales, haz clic en **“Ver contenidos”** en el conjunto **“arcade.zip”** y hacer clic en el juego deseado para iniciar su descarga directa.
 - 📥 [ROMs](https://archive.org/download/fcroms/fbneo/roms/)
