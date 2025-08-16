@@ -1,24 +1,22 @@
 # Colección de ROMs Arcade para FinalBurn Neo
 
-### 📂 ¿Qué vas a encontrar en esta base de datos?
+### ¿Qué vas a encontrar en esta base de datos?
 
 Este archivo contiene una **colección extensa de ROMs arcade** (≈ 2795 juegos) en formato compatible con emuladores como **MAME** y **FinalBurn Neo**.
 
-En cada entrada encontrarás:
+La carpeta completa ocupa **14 GB** y contiene **2122 archivos**, lo que significa que algunos sets están fusionados, combinados o no incluidos físicamente.
 
-- **Nombre del archivo ROM** (`.zip`).
-- **Título del juego** (nombre comercial original).
-- **Compañía desarrolladora o distribuidora** (Capcom, SNK, Sega, Taito, etc.).
-- **Notas adicionales**: _versiones alternativas, prototipos, hacks, bootlegs, regionales o multijuegos_.
-
-📦 La carpeta completa ocupa **14 GB** y contiene **2122 archivos**, lo que significa que algunos sets están fusionados, combinados o no incluidos físicamente.
+Puedes descargar archivos individuales si así lo deseas, abajo lo explico.
 
 ---
 
 ### 🔗 Recursos adicionales
 
+#### FinalBurn Neo (FC2) (Completamente fusionado)
+
+- Para descargar ROMs individuales, haz clic en **“Ver contenidos”** en el conjunto deseado **“arcade.zip”** y hacer clic en el juego deseado para iniciar su descarga directa. Aqui abajo esta la lista detallada de todos los juegos.
 - 📥 [ROMs](https://archive.org/download/fcroms/fbneo/roms/)
-- 📥 [Archivos de soporte (BIOS, configuraciones, etc.)](https://archive.org/download/fcroms/fbneo/support/)
+- 📥 [Archivos de soporte (hiscore, preview, etc)](https://archive.org/download/fcroms/fbneo/support/)
 
 ---
 
@@ -26,13 +24,17 @@ En cada entrada encontrarás:
 
 - 📦 **Fightcade-fbneo Full-Merged Sets**: incluyen todas las versiones de cada juego y los archivos de sistema requeridos en un único `.zip`.
 - ✅ El **FinalBurn Neo oficial** es más preciso y actualizado. Para jugadores en solitario o cooperativo local, se recomienda usar este set: [FBNeo oficial](https://archive.org/details/2020_01_06_fbn).
-- 🕹️ **Flycast BIOS** y las ROMs más populares de **Naomi** verificadas por **MAME 0.244**.
-- 🎯 **Naomi/Naomi2 sets**: solo incluyen los juegos más populares de Fightcade (no es un full set).
-- 💿 **Flycast Dreamcast set**: incluye los juegos más populares de Fightcade. Más CHDs de Dreamcast aquí: [Colección CHDs Dreamcast](https://archive.org/download/dc-chd-zstd-redump/dc-chd-zstd/).
 
 ---
 
-### 📋 Lista de juegos incluidos
+### En cada entrada encontrarás:
+
+- **Nombre del archivo ROM** (`.zip`).
+- **Título del juego** (nombre comercial original).
+- **Compañía desarrolladora o distribuidora** (Capcom, SNK, Sega, Taito, etc.).
+- **Notas adicionales**: _versiones alternativas, prototipos, hacks, bootlegs, regionales o multijuegos_.
+
+### Lista de juegos ordenada alfabéticamente
 
 - 3countb.zip — 3 Count Bout — SNK
 - 3en1semi.zip — 3-in-1 (SemiCom multijuego) — SemiCom
