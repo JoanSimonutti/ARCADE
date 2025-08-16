@@ -14,8 +14,10 @@ Puedes descargar archivos individuales si así lo deseas, abajo lo explico.
 
 #### FinalBurn Neo (Completamente fusionado)
 
-- Para descargar ROMs individuales, haz clic en **“Ver contenidos”** en el conjunto **“arcade.zip”** y hacer clic en el juego deseado para iniciar su descarga directa.
-  Links directos a: - 📥 [ROMs](https://archive.org/download/fcroms/fbneo/roms/) - 📥 [Archivos de soporte (hiscore, preview, etc)](https://archive.org/download/fcroms/fbneo/support/)
+- Para descargar ROMs individuales, haz clic en **“Ver contenidos”** en el conjunto **“arcade.zip”** y hacer clic en el juego deseado para iniciar su descarga directa.</br>
+  Links directos a:
+- 📥 [ROMs](https://archive.org/download/fcroms/fbneo/roms/)
+- 📥 [Archivos de soporte (hiscore, preview, etc)](https://archive.org/download/fcroms/fbneo/support/)
 
 ---
 
