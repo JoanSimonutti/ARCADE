@@ -2825,3 +2825,11 @@ Puedes descargar archivos individuales si así lo deseas, abajo lo explico.
 - zookeep.zip — Zoo Keeper — Taito
 - zupapa.zip — Zupapa! — Face / SNK
 - zzyzzyxx.zip — Zzyzzyxx — Cinematronics
+
+---
+
+<div align="end">
+
+Creado por [Joan Simonutti](https://www.linkedin.com/in/joansimonutti/) | 2025
+
+</div>
