@@ -10,7 +10,7 @@ Puedes descargar archivos individuales si así lo deseas, abajo lo explico.
 
 ---
 
-### 🔗 Recursos adicionales
+### Recursos adicionales
 
 #### FinalBurn Neo (Completamente fusionado)
 
@@ -20,8 +20,8 @@ Puedes descargar archivos individuales si así lo deseas, abajo lo explico.
 
 ### Notas
 
-- **Fightcade-fbneo Full-Merged Sets**: incluyen todas las versiones de cada juego y los archivos de sistema requeridos en un único `.zip`.
-- El **FinalBurn Neo oficial** es más preciso y actualizado. Para jugadores en solitario o cooperativo local, se recomienda usar este set: [FBNeo oficial](https://archive.org/details/2020_01_06_fbn).
+- En **Fightcade-fbneo Full-Merged Sets** se incluyen todas las versiones de cada juego y los archivos de sistema requeridos en un único `.zip`.
+- El emulador **FinalBurn Neo oficial** es el más preciso y actualizado. Para jugadores en solitario o cooperativo local, se recomienda usar este set [FBNeo oficial](https://archive.org/details/2020_01_06_fbn).
 
 ---
 
