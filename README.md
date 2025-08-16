@@ -1,4 +1,4 @@
-# Colección de ROMs Arcade para FinalBurn Neo
+# ROMs Arcade para FinalBurn Neo
 
 ### ¿Qué vas a encontrar en esta base de datos?
 
